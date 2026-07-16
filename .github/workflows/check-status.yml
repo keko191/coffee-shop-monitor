@@ -1,0 +1,49 @@
+name: Check Coffee Shop Status
+
+on:
+  schedule:
+    - cron: "0 7 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 1
+      matrix:
+        include:
+          - brand: Starbucks
+            stores_file: stores_starbucks.json
+            state_file: state_starbucks.json
+          - brand: Costa Coffee
+            stores_file: stores_costa.json
+            state_file: state_costa.json
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run status check (${{ matrix.brand }})
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          STORES_FILE: ${{ matrix.stores_file }}
+          STATE_FILE: ${{ matrix.state_file }}
+        run: python check_status.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ${{ matrix.state_file }}
+          git diff --cached --quiet || git commit -m "Update ${{ matrix.brand }} status [automated]"
+          git pull --rebase
+          git push
