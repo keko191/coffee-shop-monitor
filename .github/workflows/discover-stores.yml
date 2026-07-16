@@ -1,0 +1,65 @@
+name: Discover Coffee Shop Stores (manual)
+
+on:
+  workflow_dispatch:
+    inputs:
+      brand:
+        description: "Which brand to scan"
+        required: true
+        default: "both"
+        type: choice
+        options:
+          - both
+          - starbucks
+          - costa
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 1
+      matrix:
+        include:
+          - brand: Starbucks
+            key: starbucks
+            output_file: stores_starbucks.json
+          - brand: Costa Coffee
+            key: costa
+            output_file: stores_costa.json
+    steps:
+      - name: Skip if not selected
+        if: github.event.inputs.brand != 'both' && github.event.inputs.brand != matrix.key
+        run: echo "Skipping ${{ matrix.brand }}" && exit 0
+
+      - uses: actions/checkout@v4
+        if: github.event.inputs.brand == 'both' || github.event.inputs.brand == matrix.key
+
+      - uses: actions/setup-python@v5
+        if: github.event.inputs.brand == 'both' || github.event.inputs.brand == matrix.key
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        if: github.event.inputs.brand == 'both' || github.event.inputs.brand == matrix.key
+        run: pip install -r requirements.txt
+
+      - name: Run discovery (${{ matrix.brand }})
+        if: github.event.inputs.brand == 'both' || github.event.inputs.brand == matrix.key
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          BRAND: ${{ matrix.brand }}
+          OUTPUT_FILE: ${{ matrix.output_file }}
+        run: python discover_stores.py
+
+      - name: Commit updated store list
+        if: github.event.inputs.brand == 'both' || github.event.inputs.brand == matrix.key
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ${{ matrix.output_file }}
+          git diff --cached --quiet || git commit -m "Refresh ${{ matrix.brand }} store list [automated]"
+          git pull --rebase
+          git push
