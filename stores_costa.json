@@ -1,0 +1,4153 @@
+[
+  {
+    "place_id": "ChIJR_2dkktzdkgRNvwPz8_YVT4",
+    "name": "Costa",
+    "address": "Nelson Road, Hounslow TW6 2GW, UK",
+    "lat": 51.4601373,
+    "lng": -0.448178
+  },
+  {
+    "place_id": "ChIJvaKf8cLRdUgRtz-iDSJUgIU",
+    "name": "Costa Coffee",
+    "address": "Unit 2B, Ladymead Retail Park, Europa Park Rd, Guildford GU1 1AJ, UK",
+    "lat": 51.248728,
+    "lng": -0.5784009999999999
+  },
+  {
+    "place_id": "ChIJr-RqPMtzdkgRqRaO5A_TGDk",
+    "name": "Costa Coffee",
+    "address": "London, Heathrow Airport, Feltham, Hounslow TW6 1AP, UK",
+    "lat": 51.455799999999996,
+    "lng": -0.44179999999999997
+  },
+  {
+    "place_id": "ChIJQT1vkt3QdUgRhFYbx4ObMWc",
+    "name": "Costa Coffee",
+    "address": "Costa Coffee, Main Reception, Egerton Rd, Guildford GU2 7XX, UK",
+    "lat": 51.240649999999995,
+    "lng": -0.60837
+  },
+  {
+    "place_id": "ChIJ9aulQD7YdUgRHTWJGhNyrwQ",
+    "name": "Costa Coffee",
+    "address": "Unit 7, Lion Retail Park, Woking GU22 8BD, UK",
+    "lat": 51.322855999999994,
+    "lng": -0.542598
+  },
+  {
+    "place_id": "ChIJ7WbnaZTQdUgRs03V7WWXeb0",
+    "name": "Costa Coffee",
+    "address": "Station, Guildford GU1 4UT, UK",
+    "lat": 51.236909999999995,
+    "lng": -0.58044
+  },
+  {
+    "place_id": "ChIJ3cxhY8FydkgRCunkMd-gQTM",
+    "name": "Costa Coffee",
+    "address": "M4 Eastbound, J 3/2, Hounslow TW5 9NA, UK",
+    "lat": 51.488499999999995,
+    "lng": -0.38781499999999997
+  },
+  {
+    "place_id": "ChIJBxCMSF0HdkgReyZDHBhdIas",
+    "name": "Costa Coffee",
+    "address": "The Colonnades Leisure Park, Purley Way, Croydon CR0 4RQ, UK",
+    "lat": 51.355806,
+    "lng": -0.11548200000000002
+  },
+  {
+    "place_id": "ChIJQw3S0iDYdUgRzH4Vdf6ytVQ",
+    "name": "Costa Coffee",
+    "address": "Unit 54, Woking GU21 6GH, UK",
+    "lat": 51.320101,
+    "lng": -0.5588799999999999
+  },
+  {
+    "place_id": "ChIJVxNRQlhzdkgR4YrP0gkyZ9c",
+    "name": "Costa Coffee",
+    "address": "M4 Motorway J2/3, Hounslow TW5 9NB, UK",
+    "lat": 51.488499999999995,
+    "lng": -0.396341
+  },
+  {
+    "place_id": "ChIJj3-J3fPXdUgRROaUEN445qw",
+    "name": "Costa Coffee",
+    "address": "Unit 5, The Goldsworth Park Centre, Woking GU21 3LG, UK",
+    "lat": 51.318695999999996,
+    "lng": -0.589878
+  },
+  {
+    "place_id": "ChIJB5d94ITYdUgRHr-faoa7c00",
+    "name": "Costa Coffee",
+    "address": "Unit 3, 42 Station Approach, West Byfleet KT14 6NE, UK",
+    "lat": 51.339248999999995,
+    "lng": -0.505221
+  },
+  {
+    "place_id": "ChIJjRmQAADXdUgRqi8lpCe5JOE",
+    "name": "Costa Coffee",
+    "address": "Sainsbury's, Redding Way, Knaphill, Woking GU21 2QT, UK",
+    "lat": 51.31201,
+    "lng": -0.62494
+  },
+  {
+    "place_id": "ChIJ1Wx5EtLZdUgRi64jVtu6pPo",
+    "name": "Costa Coffee",
+    "address": "Weybridge, West, Byfleet, Weybridge, West Byfleet KT13 0XF, UK",
+    "lat": 51.34473,
+    "lng": -0.47522
+  },
+  {
+    "place_id": "ChIJ5f87EwDfdUgRQoHqjzmXlFM",
+    "name": "Costa Coffee",
+    "address": "Sainsbury's, Sainsburys, Bridgeway, Cobham KT11 1HW, UK",
+    "lat": 51.336259999999996,
+    "lng": -0.4214
+  },
+  {
+    "place_id": "ChIJCdGGc_d2dkgRVVnzM7QmhOM",
+    "name": "Costa Coffee",
+    "address": "Unit 12, Sainsbury Center, Guildford St, Chertsey KT16 9AG, UK",
+    "lat": 51.3908747,
+    "lng": -0.5035257
+  },
+  {
+    "place_id": "ChIJneMcpfF1dkgRemVIUogEbGI",
+    "name": "Costa Coffee",
+    "address": "6-8 High St, Weybridge KT13 8AB, UK",
+    "lat": 51.372679999999995,
+    "lng": -0.45849999999999996
+  },
+  {
+    "place_id": "ChIJyV85BtHRdUgRVogebqkvlC4",
+    "name": "Costa Coffee",
+    "address": "74 High St, Godalming GU7 1DU, UK",
+    "lat": 51.18562,
+    "lng": -0.61341
+  },
+  {
+    "place_id": "ChIJrV1W9O91dkgRln6sTfiPAN4",
+    "name": "Costa Coffee - Places for People Elmbridge",
+    "address": "Places for People - Elmbridge Xcel, Waterside Dr, Walton-on-Thames KT12 2JG, UK",
+    "lat": 51.3981834,
+    "lng": -0.4128243
+  },
+  {
+    "place_id": "ChIJ242FkK5_dkgRJNQUU0wiMiw",
+    "name": "Costa Coffee",
+    "address": "Drive Thru, 123 London Rd, Bagshot GU19 5DH, UK",
+    "lat": 51.356325,
+    "lng": -0.699579
+  },
+  {
+    "place_id": "ChIJlYOeChx5dkgRaetCkbJwzoU",
+    "name": "Costa Coffee Sunningdale",
+    "address": "57-59 Chobham Rd, Sunningdale, Ascot SL5 0DT, UK",
+    "lat": 51.3925283,
+    "lng": -0.6275202
+  },
+  {
+    "place_id": "ChIJRxtNPXbVdUgR9Bfi1BTjK-w",
+    "name": "Costa Coffee",
+    "address": "Grand Ave, Camberley GU15 3QH, UK",
+    "lat": 51.337696,
+    "lng": -0.751545
+  },
+  {
+    "place_id": "ChIJSz6ga2J3dkgRq8Cp4IjEFzU",
+    "name": "Costa Coffee",
+    "address": "Hannover House, 1 Station Parade, Englefield Green, Virginia Water GU25 4AA, UK",
+    "lat": 51.401868,
+    "lng": -0.5629379999999999
+  },
+  {
+    "place_id": "ChIJ50joaj8rdEgRkeXjsx9RlXQ",
+    "name": "Costa Coffee",
+    "address": "Drive Thru, Meadow Gate Ave, Farnborough GU14 6FG, UK",
+    "lat": 51.282937,
+    "lng": -0.7697149999999999
+  },
+  {
+    "place_id": "ChIJMw5zcWR3dkgRrZscZBp8i2s",
+    "name": "Costa Coffee",
+    "address": "108-110 Station Rd, Addlestone KT15 2BQ, UK",
+    "lat": 51.37173,
+    "lng": -0.48678
+  },
+  {
+    "place_id": "ChIJqzH48AB1dkgRHfu-avQeUak",
+    "name": "Costa Coffee",
+    "address": "Unit 11, Walton-on-Thames KT12 1GH, UK",
+    "lat": 51.384857999999994,
+    "lng": -0.42098599999999997
+  },
+  {
+    "place_id": "ChIJYz8Yjmp1dkgRd9lY6-P4quk",
+    "name": "Costa Coffee",
+    "address": "The Green, Molesey Rd, Hersham, Walton-on-Thames KT12 4HL, UK",
+    "lat": 51.365313,
+    "lng": -0.399343
+  },
+  {
+    "place_id": "ChIJ5f8H1e91dkgRSpd-ES49p0o",
+    "name": "Costa Coffee",
+    "address": "Tesco Extra, Escot Rd, Sunbury-on-Thames TW16 7BB, UK",
+    "lat": 51.41708,
+    "lng": -0.42467
+  },
+  {
+    "place_id": "ChIJyT4MZv3gdUgRSC3xoXpD1oY",
+    "name": "Costa Coffee",
+    "address": "Unit 15, 16 Swan Centre, Leatherhead KT22 8AH, UK",
+    "lat": 51.295683,
+    "lng": -0.32797299999999996
+  },
+  {
+    "place_id": "ChIJ0TiwXDZ0dkgRX0wY95EaG5M",
+    "name": "Costa Coffee",
+    "address": "Unit 1 Thurlestone Parade, Shepperton TW17 9AR, UK",
+    "lat": 51.395472,
+    "lng": -0.44849300000000003
+  },
+  {
+    "place_id": "ChIJN_c1eyvVdUgRcsHJkU2bg_k",
+    "name": "Costa Coffee",
+    "address": "New Pod Unit 1, Farnborough GU14 8BL, UK",
+    "lat": 51.308378,
+    "lng": -0.748892
+  },
+  {
+    "place_id": "ChIJncRSTRvndUgRPI3TqZ32lPk",
+    "name": "Costa Coffee",
+    "address": "1 North St, Dorking RH4 1DN, UK",
+    "lat": 51.2314012,
+    "lng": -0.3330127
+  },
+  {
+    "place_id": "ChIJEy8wzUzedUgR9sigHaElkHw",
+    "name": "Costa Express",
+    "address": "WHSMITH, M25 Junction, Cobham Extra Motorway Services, Downside, Cobham KT11 3JS, UK",
+    "lat": 51.3043524,
+    "lng": -0.40540679999999996
+  },
+  {
+    "place_id": "ChIJPeg1ui0rdEgRjE9LbYI1W9k",
+    "name": "Costa Coffee",
+    "address": "Princes Mead Shopping Centre, Farnborough GU14 6YB, UK",
+    "lat": 51.2919,
+    "lng": -0.7571319999999999
+  },
+  {
+    "place_id": "ChIJNRmrgvTEdUgRcVd5A4FhAwE",
+    "name": "Costa Coffee",
+    "address": "Unit 7, Stocklund Square, The Common, Cranleigh GU6 8RG, UK",
+    "lat": 51.141628999999995,
+    "lng": -0.49241900000000005
+  },
+  {
+    "place_id": "ChIJn2wIOwXndUgRqSR5esq1gbA",
+    "name": "Costa Coffee Express",
+    "address": "Masters House, Guildford Rd, Westcott, Dorking RH4 3NG, UK",
+    "lat": 51.2257499,
+    "lng": -0.3659214
+  },
+  {
+    "place_id": "ChIJF1ENKLssdEgRyt8LL-kXJLA",
+    "name": "Costa Coffee",
+    "address": "49-51 Union St, Aldershot GU11 1EP, UK",
+    "lat": 51.249555,
+    "lng": -0.764258
+  },
+  {
+    "place_id": "ChIJPcXZdklxdkgR5V5CfdH2C00",
+    "name": "Costa Coffee",
+    "address": "Unit S2a, Next, Two Rivers Retail Park, Staines-upon-Thames, Staines TW18 4WB, UK",
+    "lat": 51.43713,
+    "lng": -0.5131399999999999
+  },
+  {
+    "place_id": "ChIJy-MeE4h0dkgRoUpCmNYu1KE",
+    "name": "Costa Coffee",
+    "address": "Unit 14a, Cross Shopping Centre, Staines Rd W, Sunbury-on-Thames TW16 7BB, UK",
+    "lat": 51.418891,
+    "lng": -0.421354
+  },
+  {
+    "place_id": "ChIJTR2uALl-dkgRcP5_3ZmRJi0",
+    "name": "Costa Coffee",
+    "address": "39B High St, Ascot SL5 7HY, UK",
+    "lat": 51.410789,
+    "lng": -0.673719
+  },
+  {
+    "place_id": "ChIJEfGiUsMLdkgROav7zwBOEDI",
+    "name": "Costa Coffee",
+    "address": "12 High St, Thames Ditton KT7 0RY, UK",
+    "lat": 51.39009,
+    "lng": -0.33352
+  },
+  {
+    "place_id": "ChIJ31mb3PEKdkgR0QVAOjwEHhQ",
+    "name": "Costa Coffee",
+    "address": "30 Station Approach, Hinchley Wood, Esher KT10 0SR, UK",
+    "lat": 51.3743973,
+    "lng": -0.3391576
+  },
+  {
+    "place_id": "ChIJ28HE64nVdUgRNCGMI0GkGvo",
+    "name": "Costa Coffee",
+    "address": "The Mall Camberley, Units 21-23, Camberley GU15 3SN, UK",
+    "lat": 51.337993,
+    "lng": -0.7458159999999999
+  },
+  {
+    "place_id": "ChIJ8w4pRCxxdkgRptKWxa3wW5U",
+    "name": "Costa Coffee",
+    "address": "Unit 3a Main Square, Staines-upon-Thames, Staines TW18 4QA, UK",
+    "lat": 51.433538999999996,
+    "lng": -0.509563
+  },
+  {
+    "place_id": "ChIJB6pBekmAdkgRx741pUAeMYA",
+    "name": "Costa Coffee",
+    "address": "Sherwood House, 102 -106 High St, Crowthorne RG45 7AX, UK",
+    "lat": 51.3687,
+    "lng": -0.793369
+  },
+  {
+    "place_id": "ChIJUYcge61wdkgRbDaXjPeG-pI",
+    "name": "Costa Coffee",
+    "address": "64/65 High St, Egham TW20 9EY, UK",
+    "lat": 51.432384,
+    "lng": -0.545962
+  },
+  {
+    "place_id": "ChIJ0y41lNlxdkgRcwoVAojTIXA",
+    "name": "Costa Coffee",
+    "address": "Unit 33, Two Rivers, Staines-upon-Thames, Staines TW18 4WB, UK",
+    "lat": 51.4348087,
+    "lng": -0.5112401
+  },
+  {
+    "place_id": "ChIJfzoaEQwJdkgRvWgNJtWQY00",
+    "name": "Costa Coffee (Nelson Caf\u00e9)",
+    "address": "220 Kingston Rd, London SW20 8DA, UK",
+    "lat": 51.4106727,
+    "lng": -0.2087694
+  },
+  {
+    "place_id": "ChIJ_QbQxv5zdkgRaGyVjlcmMBk",
+    "name": "Costa Coffee",
+    "address": "33 Church Rd, Ashford TW15 2UD, UK",
+    "lat": 51.4339763,
+    "lng": -0.4653035
+  },
+  {
+    "place_id": "ChIJXWlMcBDidUgRGPbqcYNbc8c",
+    "name": "Costa Coffee",
+    "address": "2a Station Approach, Epsom KT19 8BY, UK",
+    "lat": 51.3343,
+    "lng": -0.2681632
+  },
+  {
+    "place_id": "ChIJhYStUfhzdkgRVazb3h8x6-Q",
+    "name": "Costa Coffee",
+    "address": "73, 79A Church Street, Ashford TW15 2PE, UK",
+    "lat": 51.4327,
+    "lng": -0.46159
+  },
+  {
+    "place_id": "ChIJAQDQEyLidUgRD-3nrYEjPpE",
+    "name": "Costa Coffee",
+    "address": "Hospital, Dorking Rd, Epsom KT18 7EG, UK",
+    "lat": 51.3251497,
+    "lng": -0.2732057
+  },
+  {
+    "place_id": "ChIJsQ0EcxridUgR6OsqmKz5GqQ",
+    "name": "Costa Coffee",
+    "address": "Unit 24, Epsom KT18 5DA, UK",
+    "lat": 51.332687,
+    "lng": -0.268165
+  },
+  {
+    "place_id": "ChIJ41qRWJULdkgRQDPtQM4fYhg",
+    "name": "Costa Coffee",
+    "address": "34 Market Pl, Kingston upon Thames KT1 1JH, UK",
+    "lat": 51.409420999999995,
+    "lng": -0.305954
+  },
+  {
+    "place_id": "ChIJHUdSt7ULdkgRujs7vmkfVZs",
+    "name": "Costa Coffee",
+    "address": "27 Victoria Rd, Surbiton KT6 4JZ, UK",
+    "lat": 51.392308,
+    "lng": -0.30673900000000004
+  },
+  {
+    "place_id": "ChIJq6raXLdkdkgRtz1r1gCk4kQ",
+    "name": "Costa Coffee vending machine",
+    "address": "56 Burnham Ln, Slough SL1 6LP, UK",
+    "lat": 51.5231507,
+    "lng": -0.6424879
+  },
+  {
+    "place_id": "ChIJkeSiOqJzdkgReqEimcsY2iA",
+    "name": "Costa Coffee",
+    "address": "Unit B, 507, 511 Staines Rd, Feltham TW14 8EN, UK",
+    "lat": 51.4531,
+    "lng": -0.42992600000000003
+  },
+  {
+    "place_id": "ChIJ1ZOQ6tgJdkgR-Z7zl2P1-jM",
+    "name": "Costa Coffee",
+    "address": "64-66 High St, Ewell, Epsom KT17 1RN, UK",
+    "lat": 51.348169999999996,
+    "lng": -0.24983699999999995
+  },
+  {
+    "place_id": "ChIJKdnitLwqdEgRe1Sg8TdfXfI",
+    "name": "Costa Coffee",
+    "address": "Next, 560 London Rd, The Meadows, York Town, Camberley GU15 3XS, UK",
+    "lat": 51.33379,
+    "lng": -0.7708699999999999
+  },
+  {
+    "place_id": "ChIJmf3WrPztdUgRiEp0BcqL53w",
+    "name": "Costa Coffee",
+    "address": "Brighton Rd, Pease Pottage, Crawley RH11 9YA, UK",
+    "lat": 51.083299999999994,
+    "lng": -0.19993899999999998
+  },
+  {
+    "place_id": "ChIJ08o59tLjdUgRSFTFuLsf4dY",
+    "name": "Costa Coffee",
+    "address": "Sainsbury's, Kiln Ln, Epsom KT17 1EQ, UK",
+    "lat": 51.341699999999996,
+    "lng": -0.25758
+  },
+  {
+    "place_id": "ChIJVQl4baTgdUgRrdWgE84QT1M",
+    "name": "COSTA EXPRESS",
+    "address": "Leatherhead Rd, Leatherhead Rd, Great Bookham, Leatherhead KT23 4RQ, UK",
+    "lat": 51.2776499,
+    "lng": -0.3660887
+  },
+  {
+    "place_id": "ChIJ3V_1-MbidUgRKnza7RnyTpo",
+    "name": "Costa Coffee",
+    "address": "61 High St, Banstead SM7 2NL, UK",
+    "lat": 51.3227081,
+    "lng": -0.201561
+  },
+  {
+    "place_id": "ChIJBcDANxLidUgRqQhaiwKlHg4",
+    "name": "Costa Coffee",
+    "address": "14B-18 Upper High St, Epsom KT17 4QJ, UK",
+    "lat": 51.3343,
+    "lng": -0.262123
+  },
+  {
+    "place_id": "ChIJlcGvn63ldUgRiLZAd_GADfo",
+    "name": "Costa Coffee",
+    "address": "1 Cage Yard, Reigate RH2 9AB, UK",
+    "lat": 51.237366,
+    "lng": -0.20724599999999999
+  },
+  {
+    "place_id": "ChIJjadbDYn7dUgRABauzIDA1mE",
+    "name": "Costa Coffee",
+    "address": "Sainsbury's, London Rd, Redhill RH1 1NN, UK",
+    "lat": 51.241749999999996,
+    "lng": -0.16724
+  },
+  {
+    "place_id": "ChIJuUAtrKcJdkgRMZ2iJ8WiEp8",
+    "name": "Costa Coffee",
+    "address": "Next, 88 Bushey Rd, Raynes Park, London SW20 0JH, UK",
+    "lat": 51.404599999999995,
+    "lng": -0.24026999999999998
+  },
+  {
+    "place_id": "ChIJf00HzK8JdkgR87DTs0VMwYs",
+    "name": "Costa Coffee",
+    "address": "149 Central Rd, Worcester Park KT4 8DT, UK",
+    "lat": 51.379185,
+    "lng": -0.24326699999999998
+  },
+  {
+    "place_id": "ChIJPyL-MigKdkgRrTJRhabDy3I",
+    "name": "Costa Coffee",
+    "address": "55 - 57 Tolworth Broadway, Surbiton KT6 7DW, UK",
+    "lat": 51.380323999999995,
+    "lng": -0.281843
+  },
+  {
+    "place_id": "ChIJ_8EXMz_7dUgRoSlfvAkYzjg",
+    "name": "Costa Coffee",
+    "address": "38 Station Rd, Redhill RH1 1PH, UK",
+    "lat": 51.2403,
+    "lng": -0.168606
+  },
+  {
+    "place_id": "ChIJ-fnMsiQLdkgR1Qugpa5vyaI",
+    "name": "Costa Coffee",
+    "address": "2, 68 High St, Hampton Hill, Hampton TW12 1NY, UK",
+    "lat": 51.426635999999995,
+    "lng": -0.355819
+  },
+  {
+    "place_id": "ChIJXXEEUb8MdkgRYVBvlr9TPB4",
+    "name": "Costa Coffee.",
+    "address": "81 High St, Twickenham TW2 7LD, UK",
+    "lat": 51.4509517,
+    "lng": -0.3576821
+  },
+  {
+    "place_id": "ChIJrwPz_P7gdUgRhzDTeeyhzQ0",
+    "name": "Costa Express",
+    "address": "Kingslea, Leatherhead KT22 7SP, UK",
+    "lat": 51.301750399999996,
+    "lng": -0.33023399999999997
+  },
+  {
+    "place_id": "ChIJiw8klE0HdkgRioK5wYhhEEo",
+    "name": "Costa Express",
+    "address": "87 Brighton Rd, South Croydon CR2 6EE, UK",
+    "lat": 51.358532399999994,
+    "lng": -0.0974121
+  },
+  {
+    "place_id": "ChIJ94NAoGQFdkgRQwCHSKnmtlk",
+    "name": "Costa Coffee",
+    "address": "Chelsea & Westminster Hospital, 369 Fulham Rd., London SW10 9NH, UK",
+    "lat": 51.48456600000001,
+    "lng": -0.181896
+  },
+  {
+    "place_id": "ChIJz6viZwD9dUgRNhVTD8og3Bk",
+    "name": "Costa Coffee",
+    "address": "137 Brighton Rd, Coulsdon CR5 2NJ, UK",
+    "lat": 51.321723999999996,
+    "lng": -0.13699
+  },
+  {
+    "place_id": "ChIJaRxJguoIdkgRZPuS1SIfVwA",
+    "name": "Costa Kingston Road",
+    "address": "363-365 Kingston Rd, Wimbledon Chase, London SW20 8JX, UK",
+    "lat": 51.4096069,
+    "lng": -0.21324839999999998
+  },
+  {
+    "place_id": "ChIJ-digPgDxdUgR9iBFUKJy9hY",
+    "name": "Costa Coffee",
+    "address": "Ring Rd S, Horley RH6 0JB, UK",
+    "lat": 51.1565132,
+    "lng": -0.1537849
+  },
+  {
+    "place_id": "ChIJadZZyYYJdkgRcNGefo3zRQM",
+    "name": "Costa Coffee",
+    "address": "Sutton Cheam, Tesco, 55 Oldfields Rd, Sutton SM1 2NB, UK",
+    "lat": 51.375029999999995,
+    "lng": -0.20667
+  },
+  {
+    "place_id": "ChIJub-d2nIIdkgRtIfyW3onZ0Q",
+    "name": "Costa Coffee",
+    "address": "The Old Gas Works, Sutton SM1 1AN, UK",
+    "lat": 51.368553,
+    "lng": -0.19587800000000002
+  },
+  {
+    "place_id": "ChIJU9w_UY39dUgRV9dYN4EBJig",
+    "name": "Costa Coffee",
+    "address": "8 Purley Rd, Purley CR8 2HA, UK",
+    "lat": 51.336859,
+    "lng": -0.1170409
+  },
+  {
+    "place_id": "ChIJ-VfPbYYJdkgRFp5YfxhrKCw",
+    "name": "Costa Coffee",
+    "address": "15 High St, Cheam, Sutton SM3 8RF, UK",
+    "lat": 51.358,
+    "lng": -0.215494
+  },
+  {
+    "place_id": "ChIJ10mtvdEDdkgRvDBXtYXCkz4",
+    "name": "Costa Coffee",
+    "address": "Costa coffee B, Hambleden Wing, London SE5 9RS, UK",
+    "lat": 51.46803,
+    "lng": -0.09369
+  },
+  {
+    "place_id": "ChIJcU9aqpUHdkgR11XLKjez75o",
+    "name": "Costa Coffee",
+    "address": "31-33 High St, Carshalton SM5 3AX, UK",
+    "lat": 51.3655693,
+    "lng": -0.1606193
+  },
+  {
+    "place_id": "ChIJo2ssMw3wdUgRkswmzVXkDjs",
+    "name": "Costa Coffee",
+    "address": "61 Victoria Rd, Horley RH6 7QH, UK",
+    "lat": 51.17185,
+    "lng": -0.16182
+  },
+  {
+    "place_id": "ChIJrwFmrpcJdkgRQT1rcqSQ9LA",
+    "name": "Costa Coffee",
+    "address": "64 London Rd, Morden SM4 5BE, UK",
+    "lat": 51.402499999999996,
+    "lng": -0.19421
+  },
+  {
+    "place_id": "ChIJQ59NkwwIdkgRbQCnOfhSM4U",
+    "name": "Costa Coffee",
+    "address": "176 High St, Sutton SM1 1NL, UK",
+    "lat": 51.365256,
+    "lng": -0.19374999999999998
+  },
+  {
+    "place_id": "ChIJd4Z2VJYHdkgRbQsm5FCh6-8",
+    "name": "Costa Coffee",
+    "address": "88 Woodcote Rd, Wallington SM6 0LY, UK",
+    "lat": 51.358553,
+    "lng": -0.14976799999999998
+  },
+  {
+    "place_id": "ChIJKczpBBsJdkgR8ZByxoEtsyQ",
+    "name": "Costa Coffee",
+    "address": "Beverly Park, Beverley Way, New Malden KT3 4PH, UK",
+    "lat": 51.404365999999996,
+    "lng": -0.243069
+  },
+  {
+    "place_id": "ChIJZx616hIJdkgR5gQTSBM6mWo",
+    "name": "Costa Coffee",
+    "address": "123 High St, New Malden KT3 4BP, UK",
+    "lat": 51.400131200000004,
+    "lng": -0.2558116
+  },
+  {
+    "place_id": "ChIJ7VSW1fL9dUgRShVxv4HehmE",
+    "name": "Costa Coffee",
+    "address": "950 Brighton Rd, Purley CR8 2LP, UK",
+    "lat": 51.340002999999996,
+    "lng": -0.116005
+  },
+  {
+    "place_id": "ChIJuz0YI94IdkgRwL1ku3NhqdE",
+    "name": "Costa Coffee",
+    "address": "Unit a, Raynes Park, London SW20 8QY, UK",
+    "lat": 51.410394,
+    "lng": -0.22995400000000002
+  },
+  {
+    "place_id": "ChIJcRE8Ij7_dUgRMBkn_DieFNg",
+    "name": "Costa Coffee",
+    "address": "Shopping Centre, 50 Church Walk, Caterham CR3 6RT, UK",
+    "lat": 51.281954999999996,
+    "lng": -0.07748
+  },
+  {
+    "place_id": "ChIJmeOGcdIGdkgREDseMgF_vtg",
+    "name": "Costa Coffee Thornton Heath",
+    "address": "102 High St, Thornton Heath, Croydon CR7 8LF, UK",
+    "lat": 51.3989712,
+    "lng": -0.0976556
+  },
+  {
+    "place_id": "ChIJ-e8sszEHdkgRI3DQbwDen1Y",
+    "name": "Costa Coffee",
+    "address": "129-131 N End, Croydon CR0 1TL, UK",
+    "lat": 51.376891,
+    "lng": -0.102128
+  },
+  {
+    "place_id": "ChIJh2T8J73vdUgRS0kG0IXmaKg",
+    "name": "Costa Coffee",
+    "address": "Unit 1A, Next, County Oak Retail Park, London Rd, Crawley RH11 7XN, UK",
+    "lat": 51.13176,
+    "lng": -0.1867
+  },
+  {
+    "place_id": "ChIJQ7ta2BD-dUgRZ-lfqZ4DOlY",
+    "name": "Costa Coffee",
+    "address": "25 Limpsfield Rd, South Croydon CR2 9LA, UK",
+    "lat": 51.334058999999996,
+    "lng": -0.076592
+  },
+  {
+    "place_id": "ChIJM0iH15gJdkgRbBA7yHEWZvk",
+    "name": "Costa Coffee",
+    "address": "29 Wrythe Ln, Rosehill, Sutton, Carshalton SM5 1AG, UK",
+    "lat": 51.3834075,
+    "lng": -0.1889103
+  },
+  {
+    "place_id": "ChIJe86A-ib-dUgRBxZkCZ87_Lo",
+    "name": "Costa Coffee",
+    "address": "172 Addington Rd, Selsdon, South Croydon CR2 8LB, UK",
+    "lat": 51.3437,
+    "lng": -0.061800999999999995
+  },
+  {
+    "place_id": "ChIJgVemQt0HdkgRMW9y0v-HBeM",
+    "name": "Costa Coffee",
+    "address": "Sainsbury's, Trafalgar Way, Croydon CR0 4XT, UK",
+    "lat": 51.37585,
+    "lng": -0.11773
+  },
+  {
+    "place_id": "ChIJJ5r5udgGdkgRPgLevWLKOu0",
+    "name": "Costa Coffee",
+    "address": "530 London Rd, Thornton Heath CR7 7YE, UK",
+    "lat": 51.38925,
+    "lng": -0.1112
+  },
+  {
+    "place_id": "ChIJDT-3PTEHdkgRKE5gsi5UCUM",
+    "name": "Costa Coffee",
+    "address": "Ground Floor, 11, Next, 19 N End, Croydon CR9 1RQ, UK",
+    "lat": 51.37396,
+    "lng": -0.10223
+  },
+  {
+    "place_id": "ChIJnZRwgBfwdUgRzvSphq5uWKM",
+    "name": "Costa Coffee",
+    "address": "Sofitel Car Park, LGW Sofitel, Crawley, Horley, Gatwick RH6 0PH, UK",
+    "lat": 51.160999999999994,
+    "lng": -0.174285
+  },
+  {
+    "place_id": "ChIJjUnXzcwAdkgRHYG4WUom9Zc",
+    "name": "Costa Coffee",
+    "address": "1 Station Hall, Station Approach, Croydon CR0 1LF, UK",
+    "lat": 51.375021,
+    "lng": -0.09298999999999999
+  },
+  {
+    "place_id": "ChIJi09zRD_5dUgR9RdUcz6ovm4",
+    "name": "Costa Coffee",
+    "address": "62 Station Rd E, Oxted RH8 0PG, UK",
+    "lat": 51.257881,
+    "lng": -0.00266
+  },
+  {
+    "place_id": "ChIJE0qbKaAFdkgRZLmBV0txOyg",
+    "name": "Costa Coffee",
+    "address": "St Thomas Hospital, London SE1 7EH, UK",
+    "lat": 51.497991,
+    "lng": -0.11892100000000001
+  },
+  {
+    "place_id": "ChIJbd6czrkEdkgRz3Ef2IYbACQ",
+    "name": "Costa Coffee",
+    "address": "Opposite Pla Waterloo Station, Station Concourse, London SE1 7LY, UK",
+    "lat": 51.502063,
+    "lng": -0.114709
+  },
+  {
+    "place_id": "ChIJg1QSdtFV30cRw6iTc5ODAIw",
+    "name": "Costa Coffee",
+    "address": "Roadchef Clacket Lane Services, North) Eastbound, Tatsfield, Westerham TN16 2ER, UK",
+    "lat": 51.2724,
+    "lng": 0.0388
+  },
+  {
+    "place_id": "ChIJw-o5NDoAdkgRJh4ZgOz1B6Q",
+    "name": "Costa Coffee",
+    "address": "34 High St, West Wickham BR4 0NJ, UK",
+    "lat": 51.37612,
+    "lng": -0.016285
+  },
+  {
+    "place_id": "ChIJzcWl-gZV30cR5DztWVGY__o",
+    "name": "Costa Coffee",
+    "address": "184, 184 Main Rd, Biggin Hill, Westerham TN16 3BB, UK",
+    "lat": 51.308636,
+    "lng": 0.038106999999999995
+  },
+  {
+    "place_id": "ChIJ73eQ8_P3dUgRsXJ448Ew5Nw",
+    "name": "Costa Coffee",
+    "address": "7 E Grinstead Rd, Lingfield RH7 6EP, UK",
+    "lat": 51.173956700000005,
+    "lng": -0.0181069
+  },
+  {
+    "place_id": "ChIJJ1bdoS7_dUgRIs9XAYUbevk",
+    "name": "Costa Coffee",
+    "address": "17 Central Parade, New Addington, Croydon CR0 0JB, UK",
+    "lat": 51.342050799999996,
+    "lng": -0.0157657
+  },
+  {
+    "place_id": "ChIJwelHviQBdkgR8-p0djhSwWw",
+    "name": "Costa Coffee",
+    "address": "251-253 Selhurst Rd, London SE25 6SX, UK",
+    "lat": 51.398202999999995,
+    "lng": -0.077138
+  },
+  {
+    "place_id": "ChIJM9JMbBYBdkgRH44UYCU0G18",
+    "name": "Costa Coffee",
+    "address": "Croydon Rd, Elmers End, Beckenham BR3 4AA, UK",
+    "lat": 51.396519999999995,
+    "lng": -0.05013
+  },
+  {
+    "place_id": "ChIJ65QkXesGdkgR46n3eU2N28I",
+    "name": "Costa Coffee",
+    "address": "1411-1413 London Rd, Norbury, London SW16 4AH, UK",
+    "lat": 51.408806,
+    "lng": -0.122251
+  },
+  {
+    "place_id": "ChIJC9MZhWtX30cRs6lAaLoWVrs",
+    "name": "Costa Coffee",
+    "address": "64 High St, Edenbridge TN8 5AJ, UK",
+    "lat": 51.1967,
+    "lng": 0.064848
+  },
+  {
+    "place_id": "ChIJ4cJqjr4BdkgRzVNA5O4EB8A",
+    "name": "Costa Coffee",
+    "address": "194-202 High St, Beckenham BR3 1EN, UK",
+    "lat": 51.406799,
+    "lng": -0.028287999999999994
+  },
+  {
+    "place_id": "ChIJET4kMWyq2EcRe-MuXqNyeaA",
+    "name": "Costa Coffee",
+    "address": "33-34 Market Square, Bromley BR1 1NF, UK",
+    "lat": 51.40564,
+    "lng": 0.015167999999999997
+  },
+  {
+    "place_id": "ChIJoUZrPR9U30cR5MCDkQ_Ss8Q",
+    "name": "Costa Coffee",
+    "address": "1 The Grn, Westerham TN16 1AS, UK",
+    "lat": 51.267222,
+    "lng": 0.071944
+  },
+  {
+    "place_id": "ChIJL2B8fSKr2EcRfIttFo13qJM",
+    "name": "Costa Coffee",
+    "address": "358 Crofton Rd, Locksbottom, Orpington BR6 8NN, UK",
+    "lat": 51.367383999999994,
+    "lng": 0.054685
+  },
+  {
+    "place_id": "ChIJMxXjgpqq2EcR1csDbb6Sxks",
+    "name": "Costa Coffee",
+    "address": "51 Station Approach, Hayes, Bromley BR2 7EJ, UK",
+    "lat": 51.376242999999995,
+    "lng": 0.011273
+  },
+  {
+    "place_id": "ChIJq5C6h0QDdkgR2GofBvAk6FI",
+    "name": "Costa Coffee",
+    "address": "Tower Thistle Hotel, London E1W 1LD, UK",
+    "lat": 51.50673,
+    "lng": -0.07329999999999999
+  },
+  {
+    "place_id": "ChIJ_7roc3-q2EcRo1l3FP8FaAs",
+    "name": "Costa Coffee",
+    "address": "147-151 Westmoreland Rd, Bromley BR2 0TZ, UK",
+    "lat": 51.392181,
+    "lng": 0.001099
+  },
+  {
+    "place_id": "ChIJa3LKQpus2EcRxl98fYXCP7g",
+    "name": "Costa Coffee",
+    "address": "196 High St., Orpington BR6 0JN, UK",
+    "lat": 51.37474100000001,
+    "lng": 0.09863
+  },
+  {
+    "place_id": "ChIJCdhRQmGs2EcRCWTGtGPhr4c",
+    "name": "Costa Coffee",
+    "address": "Unit 16, Nugent Shopping Park, Cray Ave., Orpington BR5 3RP, UK",
+    "lat": 51.393007,
+    "lng": 0.11203300000000001
+  },
+  {
+    "place_id": "ChIJ5ecEMpys2EcR6qlebaJDkLw",
+    "name": "Costa Coffee",
+    "address": "Tesco, 9 Augustus Ln, Orpington BR6 0NH, UK",
+    "lat": 51.374449999999996,
+    "lng": 0.09752999999999999
+  },
+  {
+    "place_id": "ChIJiwqNj_lN30cRfSidvS35hSY",
+    "name": "Costa Coffee - Sevenoaks",
+    "address": "2 Bligh's Walk, Sevenoaks TN13 1DA, UK",
+    "lat": 51.272180399999996,
+    "lng": 0.1919821
+  },
+  {
+    "place_id": "ChIJ3xRxBj2s2EcRRS4vohtYIb4",
+    "name": "Costa Coffee - Sidcup High Street",
+    "address": "45 High St, Sidcup DA14 6EH, UK",
+    "lat": 51.4261927,
+    "lng": 0.10365469999999999
+  },
+  {
+    "place_id": "ChIJo82pu26q2EcRHSaUKj5E8qg",
+    "name": "Costa Coffee",
+    "address": "Unit 28, The Glades Shopping Centre, Bromley BR1 1DR, UK",
+    "lat": 51.4037,
+    "lng": 0.016433
+  },
+  {
+    "place_id": "ChIJsdp__sKr2EcRzFcqMs_cO7E",
+    "name": "Costa Coffee",
+    "address": "53 High St, Chislehurst BR7 5AF, UK",
+    "lat": 51.4181028,
+    "lng": 0.06748989999999999
+  },
+  {
+    "place_id": "ChIJQS5rEp6r2EcRQxKAgBIsdKU",
+    "name": "Costa Coffee",
+    "address": "3 Station Square, Petts Wood, Orpington BR5 1LY, UK",
+    "lat": 51.38999,
+    "lng": 0.075192
+  },
+  {
+    "place_id": "ChIJZ1Ha4Zqt2EcRNfNaxvmURK0",
+    "name": "Costa Coffee - Swanley",
+    "address": "Unit 46, Swanley Shopping Centre, Swanley BR8 7TQ, UK",
+    "lat": 51.3967114,
+    "lng": 0.173986
+  },
+  {
+    "place_id": "ChIJDx9YPQlS30cRTiWwFTPmCC4",
+    "name": "Costa Coffee",
+    "address": "Rail Station, London Rd, Sevenoaks TN13 1DP, UK",
+    "lat": 51.276924,
+    "lng": 0.18248399999999998
+  },
+  {
+    "place_id": "ChIJ62oJ8WlS30cRPgKu26zwrbg",
+    "name": "Costa Coffee",
+    "address": "Tesco, Riverhead, Aisher Way, Sevenoaks TN13 2QS, UK",
+    "lat": 51.28864,
+    "lng": 0.16547
+  },
+  {
+    "place_id": "ChIJPWFyByX2dUgRvcvNEt33hsk",
+    "name": "Costa Coffee - East Grinstead",
+    "address": "32 London Rd, East Grinstead RH19 1AG, UK",
+    "lat": 51.1250053,
+    "lng": -0.0087834
+  },
+  {
+    "place_id": "ChIJAVDsfyKm2EcRD388miylfFQ",
+    "name": "Costa Coffee",
+    "address": "Costa Drive Thru, Beckton Triangle Retail Park, Claps Gate Ln, London E6 6LH, UK",
+    "lat": 51.522439999999996,
+    "lng": 0.07107
+  },
+  {
+    "place_id": "ChIJX690q-yp2EcRXs_2w524aOo",
+    "name": "Costa Coffee",
+    "address": "Queen Elizabeth Hospital, Stadium Rd, London SE18 4XH, UK",
+    "lat": 51.478193,
+    "lng": 0.050043
+  },
+  {
+    "place_id": "ChIJzbyyDl-x2EcRWfs0DOimVhA",
+    "name": "Costa Coffee",
+    "address": "K86501 - Darent Valley, Costa, Dartford DA2 8DA, UK",
+    "lat": 51.43524,
+    "lng": 0.25877
+  },
+  {
+    "place_id": "ChIJO3OmWslF30cRkao98ucbmjA",
+    "name": "Costa Coffee - St Johns Road, RTW",
+    "address": "72 St John's Rd, Royal Tunbridge Wells, Tunbridge Wells TN4 9PH, UK",
+    "lat": 51.1431117,
+    "lng": 0.2604167
+  },
+  {
+    "place_id": "ChIJgc5WgnWr2EcRxZkxPmfgVmc",
+    "name": "Costa Coffee",
+    "address": "79 Queensway, Petts Wood, Orpington BR5 1DQ, UK",
+    "lat": 51.3884,
+    "lng": 0.073032
+  },
+  {
+    "place_id": "ChIJH5e1roxL30cRkY2Z9sCRXc4",
+    "name": "Costa Coffee - Borough Green",
+    "address": "43 High St, Borough Green, Sevenoaks TN15 8BX, UK",
+    "lat": 51.2925596,
+    "lng": 0.30637179999999997
+  },
+  {
+    "place_id": "ChIJh7Is6z6s2EcRpHD08wKx4Mc",
+    "name": "Costa Coffee",
+    "address": "TESCO, Edgington Way, Orpington, Sidcup DA14 5BN, UK",
+    "lat": 51.41262,
+    "lng": 0.1226
+  },
+  {
+    "place_id": "ChIJEwr_GJus2EcRWpiQykFquL4",
+    "name": "Costa Coffee",
+    "address": "Odeon, Orpington BR6 0TW, UK",
+    "lat": 51.377399999999994,
+    "lng": 0.10382699999999999
+  },
+  {
+    "place_id": "ChIJl3TDawBH30cR8tL1UCF2gfU",
+    "name": "Costa Coffee",
+    "address": "ODEON, Knights Way, Royal Tunbridge Wells, Tunbridge Wells TN2 3UW, UK",
+    "lat": 51.1540464,
+    "lng": 0.29694699999999996
+  },
+  {
+    "place_id": "ChIJ76ikYKaw2EcRNjv0W00pZbY",
+    "name": "Costa Coffee",
+    "address": "Off A1306, Arterial Rd West Thurrock, Grays RM16 3BG, UK",
+    "lat": 51.4923,
+    "lng": 0.272269
+  },
+  {
+    "place_id": "ChIJybF5Xts130cRVYOpjTcg-tk",
+    "name": "Costa Coffee - Kings Hill 2",
+    "address": "29 Liberty Square, Kings Hill, West Malling ME19 4AU, UK",
+    "lat": 51.2717831,
+    "lng": 0.4032245
+  },
+  {
+    "place_id": "ChIJHZucULRI30cRZ1YcOSyD-dg",
+    "name": "Costa Coffee",
+    "address": "Unit 1e, Retail Park, Cannon Ln, Tonbridge TN9 1PN, UK",
+    "lat": 51.196484999999996,
+    "lng": 0.282004
+  },
+  {
+    "place_id": "ChIJtx2GhHNG30cRVCO2RMiyP7o",
+    "name": "Costa Coffee",
+    "address": "Unit 7D, Royal Spa Retail Park, Dowding Way, Royal Tunbridge Wells, Tunbridge Wells TN2 3UY, UK",
+    "lat": 51.156597,
+    "lng": 0.28893399999999997
+  },
+  {
+    "place_id": "ChIJMwL5MW612EcRZM3ASSrpuD0",
+    "name": "Costa Coffee",
+    "address": "Sainsbury's, wingfield bank, Northfleet, Gravesend DA11 8JH, UK",
+    "lat": 51.43,
+    "lng": 0.33199999999999996
+  },
+  {
+    "place_id": "ChIJQ1vyiP1P30cR8rUj1fSrWg0",
+    "name": "Costa Coffee",
+    "address": "23 High St, Tonbridge TN9 1SQ, UK",
+    "lat": 51.193295,
+    "lng": 0.27326
+  },
+  {
+    "place_id": "ChIJGXiarbo130cRGoWivIMCZfU",
+    "name": "Costa Coffee - West Malling",
+    "address": "67 High St, West Malling ME19 6NA, UK",
+    "lat": 51.2944007,
+    "lng": 0.4089159
+  },
+  {
+    "place_id": "ChIJDVMlvDWx2EcRjwqWtmFLumE",
+    "name": "Costa Coffee",
+    "address": "Crossways Business Park, Galleon Blvd, Dartford DA2 6QE, UK",
+    "lat": 51.4549597,
+    "lng": 0.2564864
+  },
+  {
+    "place_id": "ChIJHfEMByu12EcRqFnm7fKOlpY",
+    "name": "Costa Coffee - Longfield",
+    "address": "20 Station Rd, Longfield DA3 7QD, UK",
+    "lat": 51.397828999999994,
+    "lng": 0.2998753
+  },
+  {
+    "place_id": "ChIJCVxCmlqx2EcRSSwrSfkeNGM",
+    "name": "Costa Coffee",
+    "address": "Bluewater, Unit U49, Upper Thames Walk, Dartford, Greenhithe DA9 9SQ, UK",
+    "lat": 51.437712,
+    "lng": 0.271897
+  },
+  {
+    "place_id": "ChIJI8zy0Nw130cRsB8g6IySY90",
+    "name": "Costa Coffee - Kings Hill 1",
+    "address": "1 Liberty Square, Queen St, Kings Hill, West Malling ME19 4DA, UK",
+    "lat": 51.2721691,
+    "lng": 0.40021270000000003
+  },
+  {
+    "place_id": "ChIJM_qH_0JG30cRWt_siyfbFZU",
+    "name": "Costa Coffee",
+    "address": "Pembury Retail, Pembury Hospital, Tonbridge Rd, Pembury, Royal Tunbridge Wells, Tunbridge Wells TN2 4QJ, UK",
+    "lat": 51.148196899999995,
+    "lng": 0.3078345
+  },
+  {
+    "place_id": "ChIJb90Tubeu2EcRYIMvHOeDJdc",
+    "name": "Costa Coffee - Blackfen",
+    "address": "19 Blackfen Rd, Sidcup DA15 9LU, UK",
+    "lat": 51.4503902,
+    "lng": 0.1034904
+  },
+  {
+    "place_id": "ChIJ92r8wlWv2EcRgzuWFZSu-bw",
+    "name": "Costa Coffee - Bexley",
+    "address": "14 Bexley High St, Bexley DA5 1AD, UK",
+    "lat": 51.4415,
+    "lng": 0.147279
+  },
+  {
+    "place_id": "ChIJU4KqaPY330cRt8akS1E80EI",
+    "name": "Costa Coffee - Paddock Wood",
+    "address": "41 Commercial Rd, Paddock Wood, Tonbridge TN12 6EN, UK",
+    "lat": 51.1806663,
+    "lng": 0.38855819999999996
+  },
+  {
+    "place_id": "ChIJ9RXQG5Sx2EcR-uV-VuXFGNs",
+    "name": "Costa Coffee",
+    "address": "Unit 8C, Prospect Place, Retail Park, Dartford DA1 1DY, UK",
+    "lat": 51.446914,
+    "lng": 0.216156
+  },
+  {
+    "place_id": "ChIJS9OgZikt30cRMw93Hbetkfw",
+    "name": "Costa Coffee",
+    "address": "Medway Service Area Junctions, 4/5, M2, Rainham, Gillingham ME8 8PQ, UK",
+    "lat": 51.341499999999996,
+    "lng": 0.608134
+  },
+  {
+    "place_id": "ChIJDcetnMc030cRJf9zAiFc4jQ",
+    "name": "Costa Coffee",
+    "address": "Unit 1, Drive Thru, Arc Logistics Park, Snodland ME6 5SZ, UK",
+    "lat": 51.340505,
+    "lng": 0.44604
+  },
+  {
+    "place_id": "ChIJXZPJRAAz30cRLMCyUyZhymI",
+    "name": "Costa Coffee",
+    "address": "Eclipse Park, Maidstone ME14 3EN, UK",
+    "lat": 51.286051199999996,
+    "lng": 0.5481718
+  },
+  {
+    "place_id": "ChIJfz1A8AO12EcRKrCGXDAZjyI",
+    "name": "Costa Coffee - Meopham",
+    "address": "6 The Parade, Meopham, Gravesend DA13 0JL, UK",
+    "lat": 51.375779599999994,
+    "lng": 0.3608572
+  },
+  {
+    "place_id": "ChIJVfwH8Ufr2EcRg5BFL3_ewXA",
+    "name": "Costa Coffee",
+    "address": "ASDA, Thurrock, Park Way, Tilbury RM18 7HJ, UK",
+    "lat": 51.469829999999995,
+    "lng": 0.34523
+  },
+  {
+    "place_id": "ChIJYdo0tbW32EcRZhZYtH7whzE",
+    "name": "Costa Coffee",
+    "address": "124 West Thurrock Way NEXT, Unit 200, Upper Level, Thurrock shopping Park, West Thurrock, Grays, Centre RM20 2ZP, UK",
+    "lat": 51.485375,
+    "lng": 0.284183
+  },
+  {
+    "place_id": "ChIJi5sBCTNE30cRb6cPqV0As8Q",
+    "name": "Costa Coffee",
+    "address": "1 Grosvenor Rd, Royal Tunbridge Wells, Tunbridge Wells TN1 2AH, UK",
+    "lat": 51.134654999999995,
+    "lng": 0.263388
+  },
+  {
+    "place_id": "ChIJXc8f2Icz30cRfjpvu3Y_3hw",
+    "name": "Costa Coffee",
+    "address": "Unit 3A, South Aylesford Retail Park, Quarry Wood, Aylesford ME20 7TP, UK",
+    "lat": 51.29385,
+    "lng": 0.469863
+  },
+  {
+    "place_id": "ChIJO8sgTgCv2EcRYGbO3v1TpKo",
+    "name": "Costa Coffee",
+    "address": "Sainsbury's, Harrow Manorway, Abbey Wood, London SE2 9NU, UK",
+    "lat": 51.4929,
+    "lng": 0.12051999999999999
+  },
+  {
+    "place_id": "ChIJnToc9Yy22EcRk3FiZHvdw3Y",
+    "name": "Costa Coffee - Ebbsfleet",
+    "address": "Eagle Way, Ebbsfleet Valley, Northfleet, Gravesend DA11 9BJ, UK",
+    "lat": 51.4487023,
+    "lng": 0.3209679
+  },
+  {
+    "place_id": "ChIJqYQ7-Sss30cRq92Fr7hFCqY",
+    "name": "Costa Coffee Roadchef Maidstone",
+    "address": "Maidstone Motorway Service Area, M20, 8 ME17 1SS, UK",
+    "lat": 51.267105799999996,
+    "lng": 0.6140344
+  },
+  {
+    "place_id": "ChIJ9UPDOljM2EcRHhzcSEEyt-s",
+    "name": "Costa Coffee - Rochester High Street",
+    "address": "59-61 High St, The Precinct, Rochester ME1 1LX, UK",
+    "lat": 51.389743499999994,
+    "lng": 0.5039073
+  },
+  {
+    "place_id": "ChIJ6fEqpeQt30cR9shVe655_IM",
+    "name": "Costa Coffee - Bearsted",
+    "address": "143 Ashford Rd, Bearsted, Maidstone ME14 4ND, UK",
+    "lat": 51.2675163,
+    "lng": 0.5734065
+  },
+  {
+    "place_id": "ChIJYeZF9VEt30cRPCSBzu3OxwY",
+    "name": "Costa Coffee",
+    "address": "Unit F11a, Hempstead Valley Shopping Centre, Hempstead Valley Dr, Hempstead, Gillingham ME7 3PD, UK",
+    "lat": 51.340289999999996,
+    "lng": 0.5732269999999999
+  },
+  {
+    "place_id": "ChIJVdh51DMy30cRK585RJPbwUM",
+    "name": "Costa Coffee",
+    "address": "Unit 23, Fremlin Walk, Maidstone ME14 1QP, UK",
+    "lat": 51.275248,
+    "lng": 0.5201049999999999
+  },
+  {
+    "place_id": "ChIJuZ0GVawz30cRv4HQEI7itGI",
+    "name": "Costa Coffee",
+    "address": "The, Hospital, Hermitage Ln, Maidstone ME16 9QQ, UK",
+    "lat": 51.274249999999995,
+    "lng": 0.48446000000000006
+  },
+  {
+    "place_id": "ChIJLyi1fqbN2EcRUfObhHv_iUw",
+    "name": "Costa Coffee - Gillingham",
+    "address": "133 High St, Gillingham ME7 1BS, UK",
+    "lat": 51.3868181,
+    "lng": 0.5473528
+  },
+  {
+    "place_id": "ChIJTxwNUMjN2EcRIQslhqKIZT0",
+    "name": "Costa Coffee",
+    "address": "Leviathan Way, Chatham ME4 4LL, UK",
+    "lat": 51.401599999999995,
+    "lng": 0.531372
+  },
+  {
+    "place_id": "ChIJocql8krN2EcR6GQgsCkoT2A",
+    "name": "Costa Coffee",
+    "address": "Midkent College Medway Campus, Medway Rd, Gillingham ME7 1FN, UK",
+    "lat": 51.393656899999996,
+    "lng": 0.5418501
+  },
+  {
+    "place_id": "ChIJgUVYCADN2EcRcYXZ_6rYoCc",
+    "name": "Costa Coffee",
+    "address": "4, Dockside Outlet Centre, Chatham ME4 3ED, UK",
+    "lat": 51.4010744,
+    "lng": 0.5330716
+  },
+  {
+    "place_id": "ChIJx1b7umsSdkgRagsS_J6iMNQ",
+    "name": "Costa Coffee",
+    "address": "Drive Thru, 2 Alperton Ln, Greenford UB6 8AA, UK",
+    "lat": 51.532205,
+    "lng": -0.309615
+  },
+  {
+    "place_id": "ChIJE7wOCrzXdUgRll77rQgrvtM",
+    "name": "Costa Express",
+    "address": "Goldsworth House, Woking GU21 3LG, UK",
+    "lat": 51.3182414,
+    "lng": -0.5919694
+  },
+  {
+    "place_id": "ChIJqdCdU_hzdkgRjdSMN1Yd5Dg",
+    "name": "Costa Ashford 2",
+    "address": "79 Church Rd, Ashford TW15 2PE, UK",
+    "lat": 51.432293099999995,
+    "lng": -0.4609461
+  },
+  {
+    "place_id": "ChIJsxWbTZB6dkgRW1B4KyAaePo",
+    "name": "Costa Coffee",
+    "address": "The Morning Star, The Grn, Datchet, Slough SL3 9BJ, UK",
+    "lat": 51.48409100000001,
+    "lng": -0.580332
+  },
+  {
+    "place_id": "ChIJsdAqD4ZxdkgR94zLBSTKUWk",
+    "name": "Costa Coffee",
+    "address": "15 Bath Rd, Hounslow TW6 2AB, UK",
+    "lat": 51.47,
+    "lng": -0.454295
+  },
+  {
+    "place_id": "ChIJlcba-W1zdkgRysRbaek6rp8",
+    "name": "Costa Coffee",
+    "address": "36 The Centre, Feltham TW13 4AU, UK",
+    "lat": 51.446400000000004,
+    "lng": -0.410527
+  },
+  {
+    "place_id": "ChIJm-i1NjsRdkgRPcT3bw2wBwk",
+    "name": "Costa Coffee",
+    "address": "63 St. Leonards Rd, Windsor SL4 3BX, UK",
+    "lat": 51.477937999999995,
+    "lng": -0.612788
+  },
+  {
+    "place_id": "ChIJu9e7Y3wLdkgRqxYAXFKD0tg",
+    "name": "Costa Coffee",
+    "address": "59-67 Broad St, Teddington TW11 8QZ, UK",
+    "lat": 51.4261212,
+    "lng": -0.3370183
+  },
+  {
+    "place_id": "ChIJ__8_3thkdkgRXpHjw5gX51o",
+    "name": "Costa Coffee",
+    "address": "BP Petrol Station, 257 Farnham Rd, Slough SL2 1DE, UK",
+    "lat": 51.5279294,
+    "lng": -0.6168231
+  },
+  {
+    "place_id": "ChIJK9F0eYoMdkgR30Vz1AA4D2Y",
+    "name": "Costa Coffee",
+    "address": "26-28 London Rd, Twickenham TW1 3RR, UK",
+    "lat": 51.44772,
+    "lng": -0.32851199999999997
+  },
+  {
+    "place_id": "ChIJOymhz6sLdkgRy9EhhJmOzxc",
+    "name": "Costa Express @ Hill Park Express",
+    "address": "157 Surbiton Hill Park, Surbiton KT5 8EJ, UK",
+    "lat": 51.397887399999995,
+    "lng": -0.2841223
+  },
+  {
+    "place_id": "ChIJMduVqMoLdkgRjz0WdjeQRiY",
+    "name": "Costa Coffee",
+    "address": "422 Richmond Rd, Kingston upon Thames KT2 5PU, UK",
+    "lat": 51.430699999999995,
+    "lng": -0.306871
+  },
+  {
+    "place_id": "ChIJs5BiIAAHdkgRyIdsck5XIRU",
+    "name": "Costa Express",
+    "address": "174 Croydon Rd, Beddington, Wallington, Croydon CR0 4PJ, UK",
+    "lat": 51.367857099999995,
+    "lng": -0.1314795
+  },
+  {
+    "place_id": "ChIJBSjJGwD9dUgRBGdwgXUylbw",
+    "name": "Costa",
+    "address": "946 Brighton Rd, Purley CR8 2LP, UK",
+    "lat": 51.339056199999995,
+    "lng": -0.1163887
+  },
+  {
+    "place_id": "ChIJq6q6-XMBdkgRn9_pWNFDjDo",
+    "name": "Costa Coffee",
+    "address": "1a, Coleman House, High St, London SE20 7EX, UK",
+    "lat": 51.414795999999996,
+    "lng": -0.052603
+  },
+  {
+    "place_id": "ChIJw66M6VEDdkgRfhput3eBucs",
+    "name": "Costa Coffee",
+    "address": "Next, Unit 4, Bell Green Retail Park, London SE26 4PU, UK",
+    "lat": 51.42986,
+    "lng": -0.03394
+  },
+  {
+    "place_id": "ChIJi0B7xf0GdkgRAk8sOJNEWxw",
+    "name": "Costa Express",
+    "address": "702-712 Mitcham Rd, London CR0 3AB, UK",
+    "lat": 51.3908127,
+    "lng": -0.1334843
+  },
+  {
+    "place_id": "ChIJDdJhq18DdkgRc3f7YRD12e4",
+    "name": "Costa Coffee",
+    "address": "7 London Rd, London SE23 3TW, UK",
+    "lat": 51.438992000000006,
+    "lng": -0.054484
+  },
+  {
+    "place_id": "ChIJz2e9t2cDdkgR52JsdWqrkGQ",
+    "name": "Costa Coffee",
+    "address": "Costa coffee D, Golden Jubilee, London SE5 9RS, UK",
+    "lat": 51.468689999999995,
+    "lng": -0.0933
+  },
+  {
+    "place_id": "ChIJt7dFryyp2EcRRvZuHCO9sK4",
+    "name": "Costa Coffee",
+    "address": "Bugsby's Wy, London SE10 0QJ, UK",
+    "lat": 51.490899999999996,
+    "lng": 0.015410000000000002
+  },
+  {
+    "place_id": "ChIJqeFxQHOp2EcRY-mOTo8GZKI",
+    "name": "Costa Coffee",
+    "address": "101 Eltham High St, London SE9 1TD, UK",
+    "lat": 51.450858999999994,
+    "lng": 0.054168
+  },
+  {
+    "place_id": "ChIJYZdtcktT30cRqK9LuSt_kiM",
+    "name": "Costa Express",
+    "address": "Sevenoaks Rd, Pratt's Bottom, Orpington BR6 7SE, UK",
+    "lat": 51.3449512,
+    "lng": 0.11208869999999999
+  },
+  {
+    "place_id": "ChIJ__f-Uh-u2EcR-WcZuuKGAFE",
+    "name": "Costa Coffee",
+    "address": "Unit 3, NEXT, TOWER RETAIL PARK, Crayford Rd, Dartford DA1 4LD, UK",
+    "lat": 51.450959999999995,
+    "lng": 0.18041
+  },
+  {
+    "place_id": "ChIJNfJno16u2EcRJjvruvEL094",
+    "name": "Costa Coffee",
+    "address": "Broadway Shopping Centre, Bexleyheath DA6 7JN, UK",
+    "lat": 51.455953,
+    "lng": 0.145831
+  },
+  {
+    "place_id": "ChIJ0dck2Pqx2EcR2TV9cJ_JB5g",
+    "name": "Costa Express",
+    "address": "224 Princes Rd, Dartford DA1 2PZ, UK",
+    "lat": 51.440691099999995,
+    "lng": 0.1964896
+  },
+  {
+    "place_id": "ChIJJ6Z2KBSx2EcRVRWfsr8XdB8",
+    "name": "Costa Coffee",
+    "address": "Unit Evl07, Wintergarden, Bluewater, Dartford, Greenhithe DA9 9SF, UK",
+    "lat": 51.439195,
+    "lng": 0.273333
+  },
+  {
+    "place_id": "ChIJFb2hODO32EcRA8ZiyuJK9GE",
+    "name": "Costa Coffee",
+    "address": "Unit 9, intu Lakeside Shopping Centre, W Thurrock Way, West Thurrock, Grays, Thurrock RM20 2ZF, UK",
+    "lat": 51.485827,
+    "lng": 0.283587
+  },
+  {
+    "place_id": "ChIJmXWoiM-w2EcRCCVHreJ8rNE",
+    "name": "Costa Coffee",
+    "address": "New Pod Unit, Lakeside Retail Park, West Thurrock, Grays RM20 1WN, UK",
+    "lat": 51.485982,
+    "lng": 0.278831
+  },
+  {
+    "place_id": "ChIJe6A4UBlzdkgRfz79h477F4Q",
+    "name": "Costa Coffee Machine",
+    "address": "4, CURRAN TERRACE, Featherstone Rd, London, Southall, Cobham UB2 5DY, UK",
+    "lat": 51.5018336,
+    "lng": -0.3861982
+  },
+  {
+    "place_id": "ChIJzchr6ON6dkgR_weJg4sJvBs",
+    "name": "Costa Coffee",
+    "address": "64, 65 High St, Eton, Windsor SL4 6AS, UK",
+    "lat": 51.486523999999996,
+    "lng": -0.6086429999999999
+  },
+  {
+    "place_id": "ChIJ29bwBxhwdkgRCOGc64wc6xo",
+    "name": "Costa Coffee - Langley",
+    "address": "282 High St, Langley, Slough SL3 8HG, UK",
+    "lat": 51.503851499999996,
+    "lng": -0.5424285
+  },
+  {
+    "place_id": "ChIJYSu-5Ax7dkgRXiEeJX0DS8U",
+    "name": "Costa Coffee",
+    "address": "87 - 89 Dedworth Rd, Windsor SL4 5BB, UK",
+    "lat": 51.478795999999996,
+    "lng": -0.6346520000000001
+  },
+  {
+    "place_id": "ChIJ86oWhTtldkgRkVtW6YoqKbI",
+    "name": "Costa Coffee",
+    "address": "slough retail park, 12 Twinches Ln, Slough SL1 5AL, UK",
+    "lat": 51.5143056,
+    "lng": -0.6213904
+  },
+  {
+    "place_id": "ChIJabQ7L6dxdkgRHtfh9rcW9Gs",
+    "name": "Costa Coffee",
+    "address": "Longford House, Longford, West Drayton UB7 0EB, UK",
+    "lat": 51.4818473,
+    "lng": -0.48198840000000004
+  },
+  {
+    "place_id": "ChIJJfssBv5xdkgRReEA_w0-7Mc",
+    "name": "Costa Coffee",
+    "address": "Trout Rd, Yiewsley, West Drayton UB7 7SX, UK",
+    "lat": 51.5154851,
+    "lng": -0.4771995
+  },
+  {
+    "place_id": "ChIJHRrr53N7dkgR_iceDR9mCWg",
+    "name": "Costa Coffee",
+    "address": "209 Dedworth Rd, Windsor SL4 4JW, UK",
+    "lat": 51.477688,
+    "lng": -0.642363
+  },
+  {
+    "place_id": "ChIJVRR8DLBvdkgRfLZ2T73HmiI",
+    "name": "Costa Coffee ODEON Luxe Uxbridge",
+    "address": "302, The Chimes, Uxbridge UB8 1GD, UK",
+    "lat": 51.5451455,
+    "lng": -0.4757082
+  },
+  {
+    "place_id": "ChIJXzYXhDcMdkgRDJg8ys15yrw",
+    "name": "Costa Coffee",
+    "address": "27c The Quadrant, Richmond TW9 1DN, UK",
+    "lat": 51.462975,
+    "lng": -0.302066
+  },
+  {
+    "place_id": "ChIJF0j4N7oNdkgRPRBZnfbKHl8",
+    "name": "Costa Coffee",
+    "address": "West Middlesex University Hospital, Twickenham Rd, Isleworth TW7 6AF, UK",
+    "lat": 51.473945,
+    "lng": -0.322897
+  },
+  {
+    "place_id": "ChIJ6bE2pHVydkgRqS6yIRIVjDQ",
+    "name": "Costa Coffee",
+    "address": "Unit 5, the arena, Hayes, Uxbridge UB11 1AA, UK",
+    "lat": 51.5122059,
+    "lng": -0.444384
+  },
+  {
+    "place_id": "ChIJzfBZ2w0PdkgRst0CHK6vTs8",
+    "name": "Costa Coffee",
+    "address": "Unit 23a & 24, Putney Exchange, London SW15 1TW, UK",
+    "lat": 51.463864,
+    "lng": -0.21637599999999999
+  },
+  {
+    "place_id": "ChIJS1BFKxMPdkgRo7fxzjQe1B8",
+    "name": "Costa Coffee",
+    "address": "Unit C1, 77-83 Upper Richmond Rd, London SW15 2TT, UK",
+    "lat": 51.459423,
+    "lng": -0.211355
+  },
+  {
+    "place_id": "ChIJT6qUDVgPdkgR2bebyAb8LoM",
+    "name": "Costa Coffee",
+    "address": "505, 507 Garratt Ln, London SW18 4SW, UK",
+    "lat": 51.442412999999995,
+    "lng": -0.188219
+  },
+  {
+    "place_id": "ChIJQ7PlgMUFdkgR4Ucaac76JN0",
+    "name": "Costa Coffee",
+    "address": "178 Balham High Rd, London SW12 9BW, UK",
+    "lat": 51.444139,
+    "lng": -0.15245
+  },
+  {
+    "place_id": "ChIJ314g8dgFdkgRZtOPrhwIHIY",
+    "name": "Costa Coffee",
+    "address": "59-61 Streatham High Rd, London SW16 1PN, UK",
+    "lat": 51.43186,
+    "lng": -0.129056
+  },
+  {
+    "place_id": "ChIJP1VDwskFdkgRXb2iwwsspXE",
+    "name": "Costa Coffee",
+    "address": "Unit 1, 16 Balham Hill, London SW12 9DY, UK",
+    "lat": 51.452621,
+    "lng": -0.147281
+  },
+  {
+    "place_id": "ChIJOdUCQRYCdkgRKx5l8kGogX8",
+    "name": "Costa Coffee",
+    "address": "14, 15 Catford Broadway, London SE6 4SP, UK",
+    "lat": 51.445203,
+    "lng": -0.021762
+  },
+  {
+    "place_id": "ChIJLy6--X8DdkgR6o-9xfjlNQI",
+    "name": "Costa Coffee",
+    "address": "52-54 Denmark Hill, London SE5 8RZ, UK",
+    "lat": 51.472913,
+    "lng": -0.093411
+  },
+  {
+    "place_id": "ChIJY73sHPsDdkgRc1mGZL1Y73M",
+    "name": "Costa Coffee",
+    "address": "Unit C, 100 Blackheath Rd, London SE10 8DA, UK",
+    "lat": 51.472848299999995,
+    "lng": -0.0174729
+  },
+  {
+    "place_id": "ChIJaUPKVWUCdkgRZ8JGYUThgxw",
+    "name": "Costa Coffee",
+    "address": "Unit 41, Lewisham Shopping Centre, London SE13 7EP, UK",
+    "lat": 51.461855,
+    "lng": -0.012036999999999999
+  },
+  {
+    "place_id": "ChIJf-IbUDOp2EcRufPi4HEJBu0",
+    "name": "Costa Coffee",
+    "address": "395 Woolwich Rd, New Charlton, Place SE7 7AJ, UK",
+    "lat": 51.487587999999995,
+    "lng": 0.027556999999999998
+  },
+  {
+    "place_id": "ChIJ3aoEt8Su2EcRaZU3vcOdrO0",
+    "name": "Costa Coffee",
+    "address": "28, Embassy Court, Welling DA16 1TH, UK",
+    "lat": 51.4619,
+    "lng": 0.11011
+  },
+  {
+    "place_id": "ChIJp4HKTQCp2EcROiT-2P9BFNk",
+    "name": "Costa Express",
+    "address": "188 Court Rd, London SE9 4EW, UK",
+    "lat": 51.439838599999995,
+    "lng": 0.050971300000000004
+  },
+  {
+    "place_id": "ChIJn4ljDdGp2EcRm1z7Y4fwR6g",
+    "name": "Costa Coffee",
+    "address": "41 Tranquil Vale, Blackheath, London SE3 0BU, UK",
+    "lat": 51.466516,
+    "lng": 0.007581999999999999
+  },
+  {
+    "place_id": "ChIJSW9qE7iv2EcR0P5LDTdT3EM",
+    "name": "Costa Coffee",
+    "address": "Unit 6, Riverside Shopping Centre, 21A Town Square, Erith DA8 1SE, UK",
+    "lat": 51.480318999999994,
+    "lng": 0.18051109999999998
+  },
+  {
+    "place_id": "ChIJqaXtVuqo2EcROkrxQemFFVo",
+    "name": "Costa Coffee - Woolwich DLR",
+    "address": "1 Woolwich New Rd, London SE18 6EU, UK",
+    "lat": 51.490331999999995,
+    "lng": 0.0693795
+  },
+  {
+    "place_id": "ChIJj8ufMh6n2EcR662cdmhBX20",
+    "name": "Costa Coffee Express",
+    "address": "Studley Dr, Ilford IG4 5AH, UK",
+    "lat": 51.5757285,
+    "lng": 0.0463235
+  },
+  {
+    "place_id": "ChIJ-UyviM-w2EcRdsMLAD8gKXc",
+    "name": "Costa Coffee",
+    "address": "The Junction, Thurrock shopping Park, Weston Ave, West Thurrock, Grays RM20 3LP, UK",
+    "lat": 51.485011,
+    "lng": 0.27055
+  },
+  {
+    "place_id": "ChIJJxaJnG6x2EcR9z0fW1f3sT0",
+    "name": "Costa Coffee",
+    "address": "Lakeside SC, Unit 249 W Thurrock Way, West Thurrock, Grays RM20 2ZP, UK",
+    "lat": 51.488980999999995,
+    "lng": 0.283157
+  },
+  {
+    "place_id": "ChIJqwcU4e232EcRlhzMxGUV_hg",
+    "name": "Costa Coffee",
+    "address": "Unit 22, West, The Mall, Grays RM17 6QE, UK",
+    "lat": 51.477287999999994,
+    "lng": 0.323161
+  },
+  {
+    "place_id": "ChIJ2fppJ8pwdkgRHEPLQ1RibQI",
+    "name": "Costa Express",
+    "address": "38-45 The Avenue, Egham TW20 9AD, UK",
+    "lat": 51.4350223,
+    "lng": -0.5384642
+  },
+  {
+    "place_id": "ChIJEZQXp60TdkgReDg3TRpYRv0",
+    "name": "Costa Coffee",
+    "address": "Northwick Park Hospital, Watford Rd, Harrow HA1 3UJ, UK",
+    "lat": 51.575641999999995,
+    "lng": -0.32209299999999996
+  },
+  {
+    "place_id": "ChIJVVUlJYN6dkgRSgcc9cPfPzE",
+    "name": "Costa Express - Vending Machine",
+    "address": "134 Horton Rd, Datchet, Slough SL3 9HW, UK",
+    "lat": 51.4813273,
+    "lng": -0.5693252999999999
+  },
+  {
+    "place_id": "ChIJK0gPDABvdkgRjU2LqFvRzA4",
+    "name": "Costa Coffee Next Uxbridge",
+    "address": "The chimes shopping centre, Uxbridge UB8, UK",
+    "lat": 51.5458336,
+    "lng": -0.47711640000000005
+  },
+  {
+    "place_id": "ChIJLZA2Q4N7dkgRFAFz3UsUGvc",
+    "name": "Costa Coffee",
+    "address": "53 King Edward Court, Windsor SL4 1TG, UK",
+    "lat": 51.481947,
+    "lng": -0.6103649999999999
+  },
+  {
+    "place_id": "ChIJrzMvsYBzdkgRulZrYREmsXY",
+    "name": "Costa Coffee",
+    "address": "10 Station Rd, Hayes UB3 4DA, UK",
+    "lat": 51.50673,
+    "lng": -0.41913999999999996
+  },
+  {
+    "place_id": "ChIJm4kwm2FtdkgR6uMhhqYlBWY",
+    "name": "Costa Coffee",
+    "address": "Unit 6A, Lombardy Retail Park, Coldharbour Ln, Hayes UB3 3EX, UK",
+    "lat": 51.5166089,
+    "lng": -0.4036358
+  },
+  {
+    "place_id": "ChIJc54p6iVudkgRebP0u-P6WVs",
+    "name": "Costa Coffee",
+    "address": "35 High St, Iver SL0 9ND, UK",
+    "lat": 51.5201824,
+    "lng": -0.505983
+  },
+  {
+    "place_id": "ChIJZXJIs9FkdkgRgt7p7aOVT20",
+    "name": "Costa Coffee",
+    "address": "40 Liverpool Rd, Slough SL1 4QZ, UK",
+    "lat": 51.521499999999996,
+    "lng": -0.623354
+  },
+  {
+    "place_id": "ChIJE8vwrl4NdkgRw2tHb1qShmk",
+    "name": "Costa Coffee",
+    "address": "Ealing Hospital, Uxbridge Rd, Southall UB1 3HW, UK",
+    "lat": 51.507349999999995,
+    "lng": -0.34653999999999996
+  },
+  {
+    "place_id": "ChIJiZxDuudtdkgRjokbeD2CIMs",
+    "name": "Costa Coffee",
+    "address": "1-2 Marlborough Parade, Uxbridge UB10 0LR, UK",
+    "lat": 51.530563,
+    "lng": -0.44733399999999995
+  },
+  {
+    "place_id": "ChIJZ2l-1ngOdkgRYuYRqUCmPZQ",
+    "name": "Costa Coffee",
+    "address": "Unit C, Kew Shopping Park, Richmond TW9 4AD, UK",
+    "lat": 51.47819,
+    "lng": -0.27949999999999997
+  },
+  {
+    "place_id": "ChIJHfslO5MNdkgRK62q9ZFoqM8",
+    "name": "Costa Coffee",
+    "address": "92 S Ealing Rd, South Ealing, London W5 4QG, UK",
+    "lat": 51.50069,
+    "lng": -0.30685999999999997
+  },
+  {
+    "place_id": "ChIJf6R68-YOdkgRdnlvnfCMGl4",
+    "name": "Costa Coffee",
+    "address": "Costa coffee, Queen Mary hospital, London SW15 1PN, UK",
+    "lat": 51.4553,
+    "lng": -0.241158
+  },
+  {
+    "place_id": "ChIJnR5G-A0PdkgR4HpWLnHV_Fc",
+    "name": "Costa Coffee",
+    "address": "26 Putney High St, London SW15 1SN, UK",
+    "lat": 51.465799999999994,
+    "lng": -0.21406699999999998
+  },
+  {
+    "place_id": "ChIJVVVVpbsPdkgReCbQtDFgqrM",
+    "name": "Costa Coffee",
+    "address": "Medirest Contract Catering, Fulham Palace Rd, London W6 8RF, UK",
+    "lat": 51.487089999999995,
+    "lng": -0.22071
+  },
+  {
+    "place_id": "ChIJgYrectwNdkgRwVgIm0at2YM",
+    "name": "Costa",
+    "address": "Riverside, 10 Kew Bridge Rd, Brentford TW8 0EB, UK",
+    "lat": 51.4886454,
+    "lng": -0.2879546
+  },
+  {
+    "place_id": "ChIJ3c4fGgAFdkgRLOZWQlw40t4",
+    "name": "Costa Coffee",
+    "address": "Sainsbury's, 27 Townmead Rd, London SW6 2GD, UK",
+    "lat": 51.467382,
+    "lng": -0.18717999999999999
+  },
+  {
+    "place_id": "ChIJ_0QPqOsPdkgRFVgtIex1IaY",
+    "name": "Costa Coffee",
+    "address": "380 Kensington High St, London W14 8NL, UK",
+    "lat": 51.496531499999996,
+    "lng": -0.2067339
+  },
+  {
+    "place_id": "ChIJ3yO86zsJdkgR86YcSS5xQRM",
+    "name": "Costa Express",
+    "address": "325 Robin Hood Way, London SW20 0AB, UK",
+    "lat": 51.415981699999996,
+    "lng": -0.2513129
+  },
+  {
+    "place_id": "ChIJA-twjcoFdkgRqKuqO5dvBzM",
+    "name": "Costa Coffee",
+    "address": "Platform 1, Railway Station, 2 Clapham Jct, London SW11 2QP, UK",
+    "lat": 51.465092,
+    "lng": -0.17108299999999999
+  },
+  {
+    "place_id": "ChIJA5IblJkFdkgRwVeR_IRSV5k",
+    "name": "Costa Coffee",
+    "address": "Unit 4a, Clapham Junction, London SW11 1SA, UK",
+    "lat": 51.463803999999996,
+    "lng": -0.16927299999999998
+  },
+  {
+    "place_id": "ChIJS6hx3osPdkgRh8JTDOYbqpo",
+    "name": "Costa Coffee",
+    "address": "270-272 Old Brompton Rd, London SW5 9HR, UK",
+    "lat": 51.489,
+    "lng": -0.192101
+  },
+  {
+    "place_id": "ChIJj888Z9UEdkgRtBYtNBzs6HM",
+    "name": "Costa Coffee",
+    "address": "14 Great Marlborough St, London W1F 7HP, UK",
+    "lat": 51.514568,
+    "lng": -0.13888699999999998
+  },
+  {
+    "place_id": "ChIJP-K7lbcPdkgRJW0m7jnBnrI",
+    "name": "Costa Coffee",
+    "address": "Unit 24b, Broadway Shopping Cen, London W6 9YD, UK",
+    "lat": 51.491861,
+    "lng": -0.223933
+  },
+  {
+    "place_id": "ChIJkU-AwlgEdkgRd_rI76c2ieE",
+    "name": "Costa Coffee",
+    "address": "Underground Station, Stockwell station, Clapham Rd, London SW9 9AE, UK",
+    "lat": 51.472390999999995,
+    "lng": -0.122758
+  },
+  {
+    "place_id": "ChIJR1VKcQAFdkgRJxwb6SBU5F0",
+    "name": "Costa Coffee",
+    "address": "Charing Cross Station, London WC2N 5HS, UK",
+    "lat": 51.508033,
+    "lng": -0.125299
+  },
+  {
+    "place_id": "ChIJy_HfN-4DdkgRuh0jgjOR8Cg",
+    "name": "Costa Coffee",
+    "address": "Costa coffee C Ruskin wing entrance, London SE5 9RS, UK",
+    "lat": 51.46826,
+    "lng": -0.09197999999999999
+  },
+  {
+    "place_id": "ChIJb021qAoDdkgRxAJpeslWj4U",
+    "name": "Costa Coffee",
+    "address": "Unit 1, Aylesham Centre, Rye Ln, London SE15 5EW, UK",
+    "lat": 51.473337,
+    "lng": -0.069587
+  },
+  {
+    "place_id": "ChIJTwZ1miAFdkgRlV2ZOYxcb30",
+    "name": "Costa Coffee",
+    "address": "Costa Cardinal Place 3 Cardina, London SW1E 5JE, UK",
+    "lat": 51.49706,
+    "lng": -0.141089
+  },
+  {
+    "place_id": "ChIJcQncmk4DdkgRO1Y-7o3FAy0",
+    "name": "Costa Coffee",
+    "address": "The Cafe, Tower Vaults, 1 Tower Hl Ter, London EC3N 4EE, UK",
+    "lat": 51.50906,
+    "lng": -0.078469
+  },
+  {
+    "place_id": "ChIJ8-wcMI4CdkgRONfb_kgALu8",
+    "name": "Costa Coffee",
+    "address": "9 Dreadnought Walk, London SE10 9FP, UK",
+    "lat": 51.482621,
+    "lng": -0.015536
+  },
+  {
+    "place_id": "ChIJW4udnPQCdkgRnGAeYLBwhfo",
+    "name": "Costa Coffee",
+    "address": "Units A & B, Market House, 1 Giffin St, London SE8 4RJ, UK",
+    "lat": 51.47795,
+    "lng": -0.025508
+  },
+  {
+    "place_id": "ChIJEfz3s0Co2EcRf16Y1uxXXR4",
+    "name": "Costa Coffee",
+    "address": "NEXT, Unit C, 4 Brocklebank Rd, New Charlton, London SE7 7FR, UK",
+    "lat": 51.48878,
+    "lng": 0.024579999999999998
+  },
+  {
+    "place_id": "ChIJSR7WdRyo2EcR725omsbfplg",
+    "name": "Costa Coffee",
+    "address": "Unit 3 4, London SE10 0PE, UK",
+    "lat": 51.501321999999995,
+    "lng": 0.005304
+  },
+  {
+    "place_id": "ChIJs2BcXaEDdkgRist2EMcQKvw",
+    "name": "Costa Coffee",
+    "address": "7 More London PI, UE, Unit E, 7 More London Pl, Tooley St, PI SE1 2AF, UK",
+    "lat": 51.504211,
+    "lng": -0.081485
+  },
+  {
+    "place_id": "ChIJ5yoFMx2m2EcREstP7oYIVz0",
+    "name": "Costa Coffee",
+    "address": "Unit 9, Next, Gallions Reach Shopping Park, 3 Armada Wy., London E6 7ER, UK",
+    "lat": 51.51706000000001,
+    "lng": 0.08012999999999999
+  },
+  {
+    "place_id": "ChIJr4HbaQCv2EcRem1a8Dc88Pw",
+    "name": "Costa Express",
+    "address": "2 Twin Tumps Way, London SE28 8RD, UK",
+    "lat": 51.507730099999996,
+    "lng": 0.10577249999999999
+  },
+  {
+    "place_id": "ChIJVaUoVD2l2EcR5i7ZiZxIamI",
+    "name": "Costa Coffee",
+    "address": "Drive Thru, Drive Thru, Unit 1C, London, East Business And Technical Park, Yew Tree Ave, Dagenham RM10 7FQ, UK",
+    "lat": 51.546206999999995,
+    "lng": 0.167233
+  },
+  {
+    "place_id": "ChIJ0QnEmq-72EcRQtydDy6PF5w",
+    "name": "Costa Coffee Elm Park",
+    "address": "Unit B, New, Elm Park Hotel, Elm Park Ave, Hornchurch RM12 4RX, UK",
+    "lat": 51.551091799999995,
+    "lng": 0.19840539999999998
+  },
+  {
+    "place_id": "ChIJwYdchW2m2EcRBp_sozX_MkI",
+    "name": "Costa Coffee",
+    "address": "62-64 Station Parade, Barking IG11 8EA, UK",
+    "lat": 51.5392638,
+    "lng": 0.08158839999999999
+  },
+  {
+    "place_id": "ChIJx3rKUiep2EcROhiQyt5eNXw",
+    "name": "Costa Coffee",
+    "address": "Costa Coffee Univ. Of, London E16 2RD, UK",
+    "lat": 51.5085,
+    "lng": 0.06536
+  },
+  {
+    "place_id": "ChIJN3JLI4um2EcR5iZqsLpa0Z0",
+    "name": "Costa Coffee Ilford 1",
+    "address": "The Exchange Shopping Centre, Unit 75, Ilford IG1 1RS, UK",
+    "lat": 51.5602045,
+    "lng": 0.0724103
+  },
+  {
+    "place_id": "ChIJb42jTfm72EcRO_Tj8fhjc8U",
+    "name": "Costa Coffee Upminster",
+    "address": "34 Station Rd, Upminster RM14 2TR, UK",
+    "lat": 51.5575367,
+    "lng": 0.2500237
+  },
+  {
+    "place_id": "ChIJsSE-pz6l2EcRNfbXPOxlneM",
+    "name": "Costa Coffee",
+    "address": "Unit 1, Drive Thru, Eastern Avenue Retail Park Car Park, Eastern Ave W, Romford RM7 7EX, UK",
+    "lat": 51.583315,
+    "lng": 0.168068
+  },
+  {
+    "place_id": "ChIJKyrbCNTN2EcR0I4wzWB67pY",
+    "name": "Costa Coffee",
+    "address": "Unit 2, 15 Cory's Rd, Rochester ME1 1GR, UK",
+    "lat": 51.390074,
+    "lng": 0.5077349999999999
+  },
+  {
+    "place_id": "ChIJnXhQkqd6dkgRP9WtqRGCKkg",
+    "name": "Costa Express - Vending Machine",
+    "address": "80 London Rd, Slough SL3 7HR, UK",
+    "lat": 51.5016184,
+    "lng": -0.5669594
+  },
+  {
+    "place_id": "ChIJ52qYmFxxdkgRBo4_mYS1vcI",
+    "name": "Costa Coffee",
+    "address": "9 High St, Yiewsley, West Drayton UB7 7QG, UK",
+    "lat": 51.510411,
+    "lng": -0.47406099999999995
+  },
+  {
+    "place_id": "ChIJY35Xjj1wdkgR4Q5JK3aot-c",
+    "name": "Costa Express",
+    "address": "Langley Filling Station, 4 Parlaunt Rd, Langley, Slough SL3 8BB, UK",
+    "lat": 51.4997585,
+    "lng": -0.5417552
+  },
+  {
+    "place_id": "ChIJJaoEb3pudkgRMABG9GQ5kn4",
+    "name": "Costa Coffee",
+    "address": "51-52 High St, Uxbridge UB8 1JP, UK",
+    "lat": 51.546499999999995,
+    "lng": -0.480049
+  },
+  {
+    "place_id": "ChIJK6DoDnpudkgRHHq5mB7nrKc",
+    "name": "Costa Coffee",
+    "address": "172 High St, Uxbridge UB8 1JZ, UK",
+    "lat": 51.546043,
+    "lng": -0.47876799999999997
+  },
+  {
+    "place_id": "ChIJzaUjdJ9kdkgRGoNDEKXD0hI",
+    "name": "Costa Coffee",
+    "address": "High Street Burnham, 82-84 High St, Burnham, Slough SL1 7JT, UK",
+    "lat": 51.535273499999995,
+    "lng": -0.6586194
+  },
+  {
+    "place_id": "ChIJJTVScU9jdkgRQXYCjILHeJM",
+    "name": "Costa Coffee",
+    "address": "Unit 10, Taplow Shopping Park, Bath Rd, Taplow, Maidenhead SL6 0NY, UK",
+    "lat": 51.522818,
+    "lng": -0.678603
+  },
+  {
+    "place_id": "ChIJk-HoCnpldkgRD2Yzqtfc3l4",
+    "name": "Costa Coffee",
+    "address": "Bells Hl Grn, Stoke Poges, Slough SL2 4BZ, UK",
+    "lat": 51.5490989,
+    "lng": -0.5857348
+  },
+  {
+    "place_id": "ChIJ-cwnT2BtdkgRPg0TgPABMSc",
+    "name": "Costa Coffee",
+    "address": "TESCO, Glencoe Rd, Hayes UB4 9SQ, UK",
+    "lat": 51.52475,
+    "lng": -0.38504
+  },
+  {
+    "place_id": "ChIJ49IOfLhzdkgR6tiappc4670",
+    "name": "Costa",
+    "address": "Wallis Rd, Hounslow TW6 2GA, UK",
+    "lat": 51.4592847,
+    "lng": -0.4465434
+  },
+  {
+    "place_id": "ChIJm9OTzZcSdkgR9orcai9EIuc",
+    "name": "Costa Coffee",
+    "address": "Unit G3 The Broadway, Greenford UB6 9PR, UK",
+    "lat": 51.527409999999996,
+    "lng": -0.35258
+  },
+  {
+    "place_id": "ChIJkSgFaldzdkgRh4t3RgYpaao",
+    "name": "Costa Express",
+    "address": "Hayes Rd, Hounslow, Southall UB2 5LZ, UK",
+    "lat": 51.49769680000001,
+    "lng": -0.40561060000000004
+  },
+  {
+    "place_id": "ChIJl2L7z2cSdkgRo74jxAuXx0A",
+    "name": "Costa Coffee",
+    "address": "Unit 14, Greenford UB6 0UW, UK",
+    "lat": 51.54266500000001,
+    "lng": -0.339464
+  },
+  {
+    "place_id": "ChIJqZGuTIENdkgRHkcyW-i64GM",
+    "name": "Costa Coffee",
+    "address": "70a The Broadway, London W13 0SY, UK",
+    "lat": 51.510425999999995,
+    "lng": -0.323658
+  },
+  {
+    "place_id": "ChIJP-gIz5eqd0gRdUMyi6EZOkA",
+    "name": "Costa Coffee",
+    "address": "437a Uxbridge Rd, London W5 3NT, UK",
+    "lat": 51.50998,
+    "lng": -0.28748
+  },
+  {
+    "place_id": "ChIJ5xqZJxsOdkgRP0WPE-exqeA",
+    "name": "Costa Coffee",
+    "address": "114, 118 High St, London W3 6QX, UK",
+    "lat": 51.507,
+    "lng": -0.26938
+  },
+  {
+    "place_id": "ChIJAb7s19URdkgRIw-o_tJSrMU",
+    "name": "Costa Coffee",
+    "address": "Central Middlesex Hospital, London NW10 7NS, UK",
+    "lat": 51.53153,
+    "lng": -0.26872999999999997
+  },
+  {
+    "place_id": "ChIJd3xhAZgTdkgR310YPYC2zXs",
+    "name": "Uni of Westminster - Gateway Caf\u00e9 - Costa Coffee",
+    "address": "Unnamed Road, HA1, Harrow HA1 3TP, UK",
+    "lat": 51.5780003,
+    "lng": -0.3187306
+  },
+  {
+    "place_id": "ChIJR_k9nOcRdkgRpwraz5P5xG0",
+    "name": "Costa Coffee",
+    "address": "Unit 1, The Costume Store, Victoria Rd, North Acton, London W3 6UL, UK",
+    "lat": 51.523069,
+    "lng": -0.25970499999999996
+  },
+  {
+    "place_id": "ChIJJ1MGx5MTdkgRtbCN0qWiwac",
+    "name": "Costa Coffee",
+    "address": "Hoover Bldg, Western Ave, Perivale, Greenford UB6 8DW, UK",
+    "lat": 51.5339478,
+    "lng": -0.3182504
+  },
+  {
+    "place_id": "ChIJKfc-BLQPdkgRGJYqeBKt9KE",
+    "name": "Costa Coffee",
+    "address": "214 Uxbridge Rd, London W12 7JD, UK",
+    "lat": 51.505722,
+    "lng": -0.22690000000000002
+  },
+  {
+    "place_id": "ChIJH1EaFpsPdkgRUr9YjnElP2Q",
+    "name": "Costa Coffee",
+    "address": "TESCO, Kiosk, 180 Shepherds Bush Rd, London W6 7NL, UK",
+    "lat": 51.49763,
+    "lng": -0.22399000000000002
+  },
+  {
+    "place_id": "ChIJB8R1vKwPdkgR_zbwiQUMwa0",
+    "name": "Costa Coffee",
+    "address": "186 Earls Ct Rd, London SW5 9QG, UK",
+    "lat": 51.4930175,
+    "lng": -0.1944543
+  },
+  {
+    "place_id": "ChIJi8fbcZkRdkgRNtHwIayLNdo",
+    "name": "Costa Coffee",
+    "address": "Sainsbury's, 2 Canal Way, London W10 5AA, UK",
+    "lat": 51.526309999999995,
+    "lng": -0.21727
+  },
+  {
+    "place_id": "ChIJMxnbLQAQdkgR62_8-VIhz4s",
+    "name": "Costa Coffee",
+    "address": "51 Westbourne Grove, London W2 4UA, UK",
+    "lat": 51.51542,
+    "lng": -0.190581
+  },
+  {
+    "place_id": "ChIJVVVVYa0adkgRuqaXOfAUAVo",
+    "name": "Costa Coffee",
+    "address": "Station Concourse, Unit 33 The Lawn, London W2 1HB, UK",
+    "lat": 51.51597700000001,
+    "lng": -0.176941
+  },
+  {
+    "place_id": "ChIJxW_IVx8FdkgRc9eYJty5HJE",
+    "name": "Costa Coffee",
+    "address": "115 Buckingham Palace Rd, London SW1V 1JT, UK",
+    "lat": 51.494591,
+    "lng": -0.145473
+  },
+  {
+    "place_id": "ChIJL4fixn8FdkgR2EeVTMIaKs0",
+    "name": "Costa Coffee",
+    "address": "Unit 6 Victoria Island, London SW1V 1JT, UK",
+    "lat": 51.495011000000005,
+    "lng": -0.143998
+  },
+  {
+    "place_id": "ChIJo2YmlRoQdkgRDXViahxiPwU",
+    "name": "Costa Coffee",
+    "address": "351 Harrow Rd, London W9 3RA, UK",
+    "lat": 51.524077999999996,
+    "lng": -0.201567
+  },
+  {
+    "place_id": "ChIJFaQto9YEdkgRb8pQrLpbVUA",
+    "name": "Costa Coffee",
+    "address": "15 Regent St., London SW1Y 4LR, UK",
+    "lat": 51.508734999999994,
+    "lng": -0.134101
+  },
+  {
+    "place_id": "ChIJcz1uVdUEdkgRQuGbrcYTAXA",
+    "name": "Costa Coffee",
+    "address": "4 Great Portland St, London W1W 8QJ, UK",
+    "lat": 51.515882999999995,
+    "lng": -0.140724
+  },
+  {
+    "place_id": "ChIJeysMHQAbdkgRomSmVwvtXrc",
+    "name": "Costa Coffee",
+    "address": "108 - 110 Edgware Rd, London W2 2EA, UK",
+    "lat": 51.516051999999995,
+    "lng": -0.16380899999999998
+  },
+  {
+    "place_id": "ChIJfy8ySDMFdkgRn5M8REAIrY0",
+    "name": "Costa Coffee",
+    "address": "Bryanston St, London W1H 7EH, UK",
+    "lat": 51.513963,
+    "lng": -0.155917
+  },
+  {
+    "place_id": "ChIJcz1uVdUEdkgRYlnCNmimPrM",
+    "name": "Costa Coffee",
+    "address": "11 Argyll St, London W1F 7TX, UK",
+    "lat": 51.514843,
+    "lng": -0.140754
+  },
+  {
+    "place_id": "ChIJjz0DdTUbdkgRBuVTVfysk5M",
+    "name": "Costa Coffee, 226 High Holborn",
+    "address": "Costa Coffee, Weston House, 226 High Holborn, London WC1V 7DZ, UK",
+    "lat": 51.517424999999996,
+    "lng": -0.11878019999999999
+  },
+  {
+    "place_id": "ChIJ5VS4cwAbdkgRgtJo8IDzf_I",
+    "name": "Costa Coffee",
+    "address": "134 Aldersgate St, Barbican, London EC1A 4JA, UK",
+    "lat": 51.520370299999996,
+    "lng": -0.09757919999999999
+  },
+  {
+    "place_id": "ChIJYwGyfTkFdkgRI0Gfoy2rNCo",
+    "name": "Costa Coffee",
+    "address": "Concourse, Vauxhall Railway Station, London SW8 1SS, UK",
+    "lat": 51.486114,
+    "lng": -0.122795
+  },
+  {
+    "place_id": "ChIJj2GS5DgbdkgRCfqRHZqhjFc",
+    "name": "Costa Coffee",
+    "address": "257-259 Gray's Inn Rd, London WC1X 8QT, UK",
+    "lat": 51.529094,
+    "lng": -0.120152
+  },
+  {
+    "place_id": "ChIJxYD-3KQEdkgR3mWmtT0sSX0",
+    "name": "Costa Coffee",
+    "address": "Unit 3, 160 Blackfriars Rd, London SE1 8EZ, UK",
+    "lat": 51.501284,
+    "lng": -0.104351
+  },
+  {
+    "place_id": "ChIJhct7RHUFdkgR26Yex6rgilY",
+    "name": "Costa Coffee",
+    "address": "34 Hargrave Park, Broadway, London SW1H 0BH, UK",
+    "lat": 51.499551999999994,
+    "lng": -0.132664
+  },
+  {
+    "place_id": "ChIJu43gvroEdkgRC9U1dGp0nI4",
+    "name": "Costa Coffee",
+    "address": "42-48 The Cut, London SE1 8LP, UK",
+    "lat": 51.503423,
+    "lng": -0.10668799999999999
+  },
+  {
+    "place_id": "ChIJjz0DdTUbdkgR2Zdeu6i-8-0",
+    "name": "Costa Coffee",
+    "address": "Costa Coffee, Weston House, London WC1V 7DN, UK",
+    "lat": 51.5174382,
+    "lng": -0.1186028
+  },
+  {
+    "place_id": "ChIJAzbHms4EdkgR8JEkqOsjD_I",
+    "name": "Costa Coffee",
+    "address": "17 Embankment Pl, London WC2N 6NN, UK",
+    "lat": 51.507261,
+    "lng": -0.12289499999999999
+  },
+  {
+    "place_id": "ChIJlRswwlADdkgRgZmisC_vRjo",
+    "name": "Costa Coffee",
+    "address": "3 Southwark St, London SE1 1RQ, UK",
+    "lat": 51.504646,
+    "lng": -0.09084500000000001
+  },
+  {
+    "place_id": "ChIJmwYTAjMbdkgRh4OUQQYrbyA",
+    "name": "Costa Coffee",
+    "address": "104 New Oxford St, London WC1A 1HB, UK",
+    "lat": 51.516760000000005,
+    "lng": -0.128577
+  },
+  {
+    "place_id": "ChIJP2-lL9IEdkgRhGXVDOONz4E",
+    "name": "Costa Coffee",
+    "address": "Coventry St, London W1D 6BZ, UK",
+    "lat": 51.510256999999996,
+    "lng": -0.131514
+  },
+  {
+    "place_id": "ChIJbQrOfwMbdkgRVqsKcNFOyrs",
+    "name": "Costa Coffee",
+    "address": "Next, The Plaza, London W1D 1LT, UK",
+    "lat": 51.515989999999995,
+    "lng": -0.13657
+  },
+  {
+    "place_id": "ChIJgfmaaVgDdkgR-RFHLhX4Tnw",
+    "name": "Costa Coffee",
+    "address": "134-138 Borough High St, London SE1 1LB, UK",
+    "lat": 51.502537999999994,
+    "lng": -0.092405
+  },
+  {
+    "place_id": "ChIJsyneucwEdkgRP0YTGPD4aHw",
+    "name": "Costa Coffee",
+    "address": "39 Shelton St, London WC2H 9HJ, UK",
+    "lat": 51.514126999999995,
+    "lng": -0.12465
+  },
+  {
+    "place_id": "ChIJL1DwwcsEdkgRxMkM6BnLEQU",
+    "name": "Costa Coffee",
+    "address": "37 Southampton St, London WC2E 7HG, UK",
+    "lat": 51.510712,
+    "lng": -0.12190100000000001
+  },
+  {
+    "place_id": "ChIJDxP0FVADdkgR3NgybgpSizA",
+    "name": "Costa Coffee",
+    "address": "Unit 20-21, Hay\u2019s Galleria, Counter St, London SE1 2HD, UK",
+    "lat": 51.505823,
+    "lng": -0.08325700000000001
+  },
+  {
+    "place_id": "ChIJnVh0ZgADdkgRGhQcXyf4Hog",
+    "name": "Costa Coffee",
+    "address": "Bridge, Station, Approach Rd, London SE1 9SP, UK",
+    "lat": 51.5039624,
+    "lng": -0.08540180000000001
+  },
+  {
+    "place_id": "ChIJSdD-HQADdkgRMIPJidN2NjA",
+    "name": "Costa Coffee",
+    "address": "Fenchurch Street station, Fenchurch Pl, London EC3M 4AJ, UK",
+    "lat": 51.511739999999996,
+    "lng": -0.0789
+  },
+  {
+    "place_id": "ChIJbUxx7VMDdkgRK_j5NfvLwMI",
+    "name": "Costa Coffee",
+    "address": "126 Cannon St, London EC4N 6AS, UK",
+    "lat": 51.51088,
+    "lng": -0.087004
+  },
+  {
+    "place_id": "ChIJYdKIkdcDdkgRNxj66OLYNyA",
+    "name": "Costa Express",
+    "address": "97-99 Commercial Way, London SE15 6DB, UK",
+    "lat": 51.4772829,
+    "lng": -0.0733704
+  },
+  {
+    "place_id": "ChIJn8iwmMoEdkgRXf5OYlSLgjY",
+    "name": "Costa Coffee",
+    "address": "Kean House, 9-11 Kingsway, London WC2B 6UN, UK",
+    "lat": 51.513611,
+    "lng": -0.118056
+  },
+  {
+    "place_id": "ChIJ73i2NgADdkgRSxVxm8RLjx4",
+    "name": "Costa Express",
+    "address": "70 Wapping Ln, London E1W 2RD, UK",
+    "lat": 51.5047941,
+    "lng": -0.0577149
+  },
+  {
+    "place_id": "ChIJjybQLLUcdkgRVTMYjw3jCWU",
+    "name": "Costa Coffee",
+    "address": "126 Whitechapel High St, Aldgate, London E1 7PU, UK",
+    "lat": 51.515032999999995,
+    "lng": -0.072946
+  },
+  {
+    "place_id": "ChIJf2DI78wcdkgRq76A3eBeJzc",
+    "name": "Costa Coffee",
+    "address": "Queen Mary Innovation Centre, London E1 2AX, UK",
+    "lat": 51.516321,
+    "lng": -0.061815
+  },
+  {
+    "place_id": "ChIJn9GcSawcdkgRn37GMHm3zAg",
+    "name": "Costa Coffee",
+    "address": "9 Eldon St, London EC2M 7LS, UK",
+    "lat": 51.518640999999995,
+    "lng": -0.08529099999999999
+  },
+  {
+    "place_id": "ChIJxYu-MlEDdkgRiLE1gIV7chY",
+    "name": "Costa Coffee",
+    "address": "Unit RS370, 15 Cabot Sq, Canary Wharf Estate, London E14 4QT, UK",
+    "lat": 51.505306,
+    "lng": -0.022153
+  },
+  {
+    "place_id": "ChIJYRcGZ3Go2EcRAy-NTFrJbi0",
+    "name": "Costa Coffee",
+    "address": "ExCel, Royal Victoria Dock, 1 Western Gateway, London E16 1XL, UK",
+    "lat": 51.508207999999996,
+    "lng": 0.026917
+  },
+  {
+    "place_id": "ChIJe5hyZOGp2EcRe6qRW7JxBqM",
+    "name": "Costa Coffee",
+    "address": "Unit 8.0.8, O2 Arena, ICON Outlet, Peninsula Square, London SE10 0DX, UK",
+    "lat": 51.503276,
+    "lng": 0.002064
+  },
+  {
+    "place_id": "ChIJ44R7ZgADdkgRPICYLvihX8U",
+    "name": "Costa Express",
+    "address": "15 Cabot Sq, Canary Wharf Estate, London E14 4QS, UK",
+    "lat": 51.505023,
+    "lng": -0.0215397
+  },
+  {
+    "place_id": "ChIJL6Cnbweo2EcR9orSC5dgxDM",
+    "name": "Costa Coffee",
+    "address": "Unit 1 & 2 Booking Hall, Canning Town Station, Underground Ltd, Silvertown Way, London E16 1DQ, UK",
+    "lat": 51.51381,
+    "lng": 0.008289999999999999
+  },
+  {
+    "place_id": "ChIJ6bG34y8ddkgR6J1wUOqkfgA",
+    "name": "Costa Coffee",
+    "address": "556 Mile End Rd, Bow, London E3 4PL, UK",
+    "lat": 51.524606,
+    "lng": -0.035328000000000005
+  },
+  {
+    "place_id": "ChIJ9bKg39QddkgRDJg0h1vkG80",
+    "name": "Costa Coffee",
+    "address": "Unit R5, The Concourse, Liverpool Street Station, London EC2M 7PY, UK",
+    "lat": 51.518696999999996,
+    "lng": -0.081451
+  },
+  {
+    "place_id": "ChIJFyM5q2UddkgRZZOxZ3EQOLA",
+    "name": "Costa Coffee",
+    "address": "Unit SU0017, Lower ground floor, The Arcade, Westfield stratford city, Montfichet Rd, Olympic Pk, London E20 1EH, UK",
+    "lat": 51.5442,
+    "lng": -0.0052
+  },
+  {
+    "place_id": "ChIJjxT3cjam2EcRx6sZYOSAI4k",
+    "name": "Costa Coffee",
+    "address": "50 High St N, London E6 2HJ, UK",
+    "lat": 51.5346,
+    "lng": 0.053516999999999995
+  },
+  {
+    "place_id": "ChIJ_XK_-Imn2EcRDvwHUoCGz2w",
+    "name": "Costa Coffee",
+    "address": "Unit 84, Broadway, London E15 1XQ, UK",
+    "lat": 51.5413767,
+    "lng": 0.0004321
+  },
+  {
+    "place_id": "ChIJiRUFZyun2EcRNTzWSV4g8jU",
+    "name": "Costa Coffee Express",
+    "address": "478 Cranbrook Rd, Gants Hill, Ilford IG2 6LE, UK",
+    "lat": 51.577249599999995,
+    "lng": 0.0688915
+  },
+  {
+    "place_id": "ChIJ95BU_kek2EcRjE6XVfHFYXw",
+    "name": "Costa Coffee",
+    "address": "Unit 2A, Goodmayes Retail Park, High Rd, Romford RM6 4HX, UK",
+    "lat": 51.567778999999994,
+    "lng": 0.11701699999999998
+  },
+  {
+    "place_id": "ChIJt3TQFM6k2EcRJI1J7kn6F2k",
+    "name": "Costa Coffee",
+    "address": "Queens Hospital (510025733, Romford RM7 0AG, UK",
+    "lat": 51.5677917,
+    "lng": 0.1796701
+  },
+  {
+    "place_id": "ChIJVYmadxy72EcRmxitlk5X6Ag",
+    "name": "Costa Coffee Hornchurch 2",
+    "address": "156, 158 High St, Hornchurch RM12 6QX, UK",
+    "lat": 51.5619933,
+    "lng": 0.2202227
+  },
+  {
+    "place_id": "ChIJ3ZZSM8ik2EcRb_mKxIpJ1Gc",
+    "name": "Costa Coffee",
+    "address": "Unit 1 The Brewery Walk, Romford RM1 1AU, UK",
+    "lat": 51.577048,
+    "lng": 0.179618
+  },
+  {
+    "place_id": "ChIJ12YzRlqn2EcR3A5TYvd05wI",
+    "name": "Costa Coffee Ilford 2",
+    "address": "24 Cranbrook Rd, Ilford IG1 4DL, UK",
+    "lat": 51.5593321,
+    "lng": 0.07046949999999999
+  },
+  {
+    "place_id": "ChIJJbTkBADH2EcRKHo79iIZ-ro",
+    "name": "Costa Coffee Festival Park",
+    "address": "Festival Leisure Park Unit 22, Basildon SS14 3WB, UK",
+    "lat": 51.5832091,
+    "lng": 0.4617338999999999
+  },
+  {
+    "place_id": "ChIJ3dt0mL672EcRpJpOigv5Kpo",
+    "name": "Costa coffee - Hornchurch 1",
+    "address": "94 High St, Hornchurch RM12 4UH, UK",
+    "lat": 51.5627116,
+    "lng": 0.2177801
+  },
+  {
+    "place_id": "ChIJ0a9eADrH2EcRnfqo8Vuun-8",
+    "name": "Costa Coffee",
+    "address": "Unit 21, Drive Thru, Festival Leisure Park, Basildon SS14 3WB, UK",
+    "lat": 51.5837,
+    "lng": 0.46470000000000006
+  },
+  {
+    "place_id": "ChIJQwY7Dtyl2EcRCd5791HFGF0",
+    "name": "Costa Coffee",
+    "address": "83 South St, Romford RM1 1NL, UK",
+    "lat": 51.576536,
+    "lng": 0.18243399999999999
+  },
+  {
+    "place_id": "ChIJ2X_mfSfH2EcR004I1iXB0EQ",
+    "name": "Costa Coffee",
+    "address": "Basildon University Hospital, Basildon SS16 5NL, UK",
+    "lat": 51.55853,
+    "lng": 0.45174
+  },
+  {
+    "place_id": "ChIJw6SudQBxdkgRXSvQ4vBxtM4",
+    "name": "Costa Express",
+    "address": "1 Mill Rd, West Drayton UB7 7EQ, UK",
+    "lat": 51.5018442,
+    "lng": -0.4795468
+  },
+  {
+    "place_id": "ChIJtcFIRwBzdkgRIQJGyG-czbk",
+    "name": "Costa Express",
+    "address": "223 Station Rd, West Drayton UB7 7JF, UK",
+    "lat": 51.503013599999996,
+    "lng": -0.4665213
+  },
+  {
+    "place_id": "ChIJHQSGSGRhdkgRHNY_Od1NxWg",
+    "name": "Costa Coffee",
+    "address": "Knaves Beech Business Centre, Davies Way, Loudwater, 3 HP10 9QR, UK",
+    "lat": 51.6043229,
+    "lng": -0.6955234
+  },
+  {
+    "place_id": "ChIJR5xCV0hsdkgRN4whsrk7jhE",
+    "name": "Costa Coffee",
+    "address": "35 Swakeleys Rd, Ickenham, Uxbridge UB10 8DG, UK",
+    "lat": 51.56493,
+    "lng": -0.44584599999999996
+  },
+  {
+    "place_id": "ChIJDaFOYLlmdkgRJgRFJpFKW8Q",
+    "name": "Costa Coffee",
+    "address": "1-2 The Broadway, Farnham Common, Slough SL2 3NE, UK",
+    "lat": 51.555174,
+    "lng": -0.615613
+  },
+  {
+    "place_id": "ChIJp9CQhfVsdkgRmaAQGUbcA7w",
+    "name": "Costa Coffee",
+    "address": "100 - 102 High St, Ruislip HA4 8LS, UK",
+    "lat": 51.574099999999994,
+    "lng": -0.424681
+  },
+  {
+    "place_id": "ChIJtVFdSORtdkgRHPusZpPq9vA",
+    "name": "Costa Coffee",
+    "address": "66 Victoria Rd, Ruislip HA4 0AH, UK",
+    "lat": 51.57178,
+    "lng": -0.41220999999999997
+  },
+  {
+    "place_id": "ChIJ6UsHgRgTdkgRvYUNfn72MZw",
+    "name": "Costa Coffee",
+    "address": "250 / 252 Northolt Rd, South Harrow, Harrow HA2 8HR, UK",
+    "lat": 51.564099999999996,
+    "lng": -0.354526
+  },
+  {
+    "place_id": "ChIJ53t0mb9sdkgRp7SGGS3tOsY",
+    "name": "Costa Coffee",
+    "address": "153 Field End Rd, Pinner HA5 1QL, UK",
+    "lat": 51.578638999999995,
+    "lng": -0.399112
+  },
+  {
+    "place_id": "ChIJqWRWeXMTdkgRo18kVNe-zAI",
+    "name": "Costa",
+    "address": "63 - 65 College Rd, Harrow HA1 1FD, UK",
+    "lat": 51.579886699999996,
+    "lng": -0.33652340000000003
+  },
+  {
+    "place_id": "ChIJlSwg83MTdkgRNcjZRAj4ilY",
+    "name": "Costa Coffee",
+    "address": "76-80 St. Anns Rd, Harrow HA1 1JX, UK",
+    "lat": 51.581593,
+    "lng": -0.337109
+  },
+  {
+    "place_id": "ChIJtbG6H9YTdkgRaFIZuKC_kcI",
+    "name": "Costa Coffee",
+    "address": "Unit 4, Central, High Rd, Wembley HA9 7AJ, UK",
+    "lat": 51.552357,
+    "lng": -0.296362
+  },
+  {
+    "place_id": "ChIJJ5IK2lITdkgRI6w129yi8L0",
+    "name": "Costa Coffee",
+    "address": "Costa Coffee, Place, Wembley HA9 6ES, UK",
+    "lat": 51.553478,
+    "lng": -0.288728
+  },
+  {
+    "place_id": "ChIJ-aPOTu8TdkgRRsfsbQRa5GQ",
+    "name": "Costa Coffee",
+    "address": "Unit 49, Wembley Park, Wembley HA9 0FD, UK",
+    "lat": 51.556807,
+    "lng": -0.283032
+  },
+  {
+    "place_id": "ChIJz-xQYnwRdkgRcflYuM4YWR8",
+    "name": "Costa Coffee",
+    "address": "19 Bridge Rd, Wembley Park, Wembley HA9 9AB, UK",
+    "lat": 51.564592,
+    "lng": -0.277879
+  },
+  {
+    "place_id": "ChIJJdEFiX4RdkgRisKEG44Brw8",
+    "name": "Costa Coffee",
+    "address": "7 Olympic Way, London HA9 0NP, UK",
+    "lat": 51.5611622,
+    "lng": -0.2792602
+  },
+  {
+    "place_id": "ChIJGY1krcQTdkgR3Y3-DV_v7hA",
+    "name": "Costa Coffee",
+    "address": "247 Preston Rd, Wembley, Harrow HA3 0PS, UK",
+    "lat": 51.571861999999996,
+    "lng": -0.294909
+  },
+  {
+    "place_id": "ChIJg1xTb8ANdkgRelW6HoYuyr4",
+    "name": "Costa Express",
+    "address": "Great West Rd, Brentford TW8 9AD, UK",
+    "lat": 51.4915028,
+    "lng": -0.3045901
+  },
+  {
+    "place_id": "ChIJCXG0SUURdkgRlql_4xN_ClI",
+    "name": "Costa Coffee",
+    "address": "100 High St, London NW10 4SL, UK",
+    "lat": 51.536,
+    "lng": -0.245384
+  },
+  {
+    "place_id": "ChIJ_-ejDwkRdkgRQtbMvOtDFaM",
+    "name": "Costa Coffee",
+    "address": "291-293 Neasden Ln, Neasden, London NW10 1QR, UK",
+    "lat": 51.560092999999995,
+    "lng": -0.252125
+  },
+  {
+    "place_id": "ChIJ2Zt6yFEQdkgROGftr3xcqO4",
+    "name": "Costa Coffee",
+    "address": "Metropolitan Court, 40 High St, London NW10 2QD, UK",
+    "lat": 51.547542,
+    "lng": -0.22738300000000003
+  },
+  {
+    "place_id": "ChIJL4uWfuMQdkgRcWEedTst7js",
+    "name": "Costa Coffee",
+    "address": "Unit 6c, Staples Corner Retail Park, Brent Cross, London NW2 6LW, UK",
+    "lat": 51.569843,
+    "lng": -0.23017800000000002
+  },
+  {
+    "place_id": "ChIJ69XO7eUQdkgReNZ0JkoWeKc",
+    "name": "Costa Coffee",
+    "address": "Unit 8, Next, Brent Cross Retail Park, Brent Cross, London NW2 1LS, UK",
+    "lat": 51.57156,
+    "lng": -0.22466
+  },
+  {
+    "place_id": "ChIJJw2sIS0RdkgREhs0ElUhc8Y",
+    "name": "Costa Coffee",
+    "address": "Kilburn Station, Shoot-Up Hill, London NW6 7QL, UK",
+    "lat": 51.546895899999996,
+    "lng": -0.2042881
+  },
+  {
+    "place_id": "ChIJ9aVCYl8QdkgRJee7rcqKm68",
+    "name": "Costa Coffee",
+    "address": "173 Cricklewood Broadway, London NW2 3HY, UK",
+    "lat": 51.556599999999996,
+    "lng": -0.215601
+  },
+  {
+    "place_id": "ChIJ79Fal3QQdkgRyFvhAGi_NFE",
+    "name": "Costa Coffee",
+    "address": "73 Kilburn High Rd, London NW6 6HY, UK",
+    "lat": 51.537499999999994,
+    "lng": -0.193287
+  },
+  {
+    "place_id": "ChIJbX3vzHkQdkgRglzBaNxYnIM",
+    "name": "Costa Coffee",
+    "address": "203 W End Ln, London NW6 2LJ, UK",
+    "lat": 51.547813999999995,
+    "lng": -0.191188
+  },
+  {
+    "place_id": "ChIJ9Qxj2MgadkgRDWxeUToUoew",
+    "name": "Costa Coffee",
+    "address": "37 Melcombe St, London NW1 6AG, UK",
+    "lat": 51.522628,
+    "lng": -0.159858
+  },
+  {
+    "place_id": "ChIJT8mZd5AadkgRqeNulEJHxU0",
+    "name": "Costa Coffee",
+    "address": "12 Harben Parade, South Hampstead, London NW3 6JP, UK",
+    "lat": 51.544928999999996,
+    "lng": -0.176775
+  },
+  {
+    "place_id": "ChIJe7qrwv4FdkgRgQfMbQNE2hY",
+    "name": "La costa cafe",
+    "address": "44 Craven Rd, London W2 3QA, UK",
+    "lat": 51.513628399999995,
+    "lng": -0.17954109999999998
+  },
+  {
+    "place_id": "ChIJG4R2pQUQdkgR4MGFypDd_XQ",
+    "name": "Costa's hairdressing",
+    "address": "372 Harrow Rd, Maida Hill, London W9 2HU, UK",
+    "lat": 51.523311,
+    "lng": -0.19574799999999998
+  },
+  {
+    "place_id": "ChIJ0wKU3NIadkgRKwHhlzQtVsg",
+    "name": "Costa Coffee",
+    "address": "69 Wigmore St, London W1U 1PZ, UK",
+    "lat": 51.515968,
+    "lng": -0.150415
+  },
+  {
+    "place_id": "ChIJFaCKdR4bdkgRes0PTEY6cLw",
+    "name": "Costa Coffee",
+    "address": "Units 1-2, 35 Camden Rd, London NW1 9LR, UK",
+    "lat": 51.541312999999995,
+    "lng": -0.139309
+  },
+  {
+    "place_id": "ChIJ5fuG9OMadkgR0DORPEL9Md0",
+    "name": "Costa Coffee",
+    "address": "20 Chalk Farm Rd, Chalk Farm, London NW1 8AG, UK",
+    "lat": 51.542559999999995,
+    "lng": -0.146532
+  },
+  {
+    "place_id": "ChIJz9w-iYYQdkgRBEGYYbHZVU4",
+    "name": "Costa Coffee",
+    "address": "388 Finchley Rd, London NW2 2HR, UK",
+    "lat": 51.561099999999996,
+    "lng": -0.196966
+  },
+  {
+    "place_id": "ChIJk3A1SCAbdkgR-3UriGyHnH8",
+    "name": "Costa Coffee",
+    "address": "3 Millbrook Pl, London NW1 2JA, UK",
+    "lat": 51.5344,
+    "lng": -0.138702
+  },
+  {
+    "place_id": "ChIJP37o3jIbdkgR9pgagu6o_d4",
+    "name": "Costa Coffee",
+    "address": "Odeon Cinema, London W1T 1BX, UK",
+    "lat": 51.518519999999995,
+    "lng": -0.13245
+  },
+  {
+    "place_id": "ChIJ8bhioTAbdkgRbTsUBTSDiwg",
+    "name": "Costa Coffee",
+    "address": "79 Tottenham Ct Rd, London W1T 4TB, UK",
+    "lat": 51.520944,
+    "lng": -0.13493200000000002
+  },
+  {
+    "place_id": "ChIJPQDi7TsbdkgR7gKN3VJvVgM",
+    "name": "Costa Coffee",
+    "address": "Unit 3 Kings Cross & St Pancra, Euston Rd., London N1 9AL, UK",
+    "lat": 51.530009,
+    "lng": -0.124195
+  },
+  {
+    "place_id": "ChIJjwL9pTYbdkgRtF3kwIEHs6A",
+    "name": "Costa Coffee",
+    "address": "112 Southampton Row, London WC1B 4BL, UK",
+    "lat": 51.5205,
+    "lng": -0.122636
+  },
+  {
+    "place_id": "ChIJmwYTAjMbdkgRMo9g_m_mSjw",
+    "name": "Costa Coffee",
+    "address": "5 High Holborn, London WC1V 6DR, UK",
+    "lat": 51.518423,
+    "lng": -0.111654
+  },
+  {
+    "place_id": "ChIJRZm4LCUbdkgRbCxXGa-lpuo",
+    "name": "Costa Coffee",
+    "address": "1 Duke's Rd, London WC1H 9PJ, UK",
+    "lat": 51.5278,
+    "lng": -0.12917399999999998
+  },
+  {
+    "place_id": "ChIJIdG8YjMbdkgR0KnqXPGHv4g",
+    "name": "Costa Coffee",
+    "address": "226 High Holborn, London WC1V 7DZ, UK",
+    "lat": 51.517567,
+    "lng": -0.120074
+  },
+  {
+    "place_id": "ChIJ6QLMFEgbdkgRzGeRO_Iveyg",
+    "name": "Costa Coffee",
+    "address": "111 Guilford St, London WC1N 1DP, UK",
+    "lat": 51.52573,
+    "lng": -0.11615199999999999
+  },
+  {
+    "place_id": "ChIJX36gA1IbdkgRQWlCbvTo0Vk",
+    "name": "Costa Coffee",
+    "address": "86 Hatton Garden, London EC1N 8QQ, UK",
+    "lat": 51.519718,
+    "lng": -0.108447
+  },
+  {
+    "place_id": "ChIJi1e6mJcbdkgRCM0tZ9aVThE",
+    "name": "Costa Coffee",
+    "address": "Unit M1, West Side, St Pancras International, Pancras Rd, London N1C 4AP, UK",
+    "lat": 51.531335,
+    "lng": -0.124689
+  },
+  {
+    "place_id": "ChIJo042sT4bdkgRbjY71WTYc94",
+    "name": "Costa Coffee",
+    "address": "26 - 30 York Wy, London N1 9AA, UK",
+    "lat": 51.532,
+    "lng": -0.122163
+  },
+  {
+    "place_id": "ChIJX36gA1IbdkgR_qGNlo6ZDbk",
+    "name": "Costa Coffee",
+    "address": "Farringdon Station, 46 Cowcross St, London EC1M 6BY, UK",
+    "lat": 51.520036,
+    "lng": -0.105221
+  },
+  {
+    "place_id": "ChIJ-3KWAwAFdkgReJ6s1eiokJI",
+    "name": "Costa Express",
+    "address": "Unit 5 and 6, 57-63 Charing Cross Rd, London WC2H 0NE, UK",
+    "lat": 51.512253099999995,
+    "lng": -0.12872039999999998
+  },
+  {
+    "place_id": "ChIJX21uHswFdkgRQF0z8m5Wd1k",
+    "name": "Costa Coffee",
+    "address": "Platform 2, Blackfriars Station, London EC4V 4DY, UK",
+    "lat": 51.511064,
+    "lng": -0.10335300000000001
+  },
+  {
+    "place_id": "ChIJ0XEgRQADdkgR_VczczEkCvs",
+    "name": "Costa Pronto",
+    "address": "Bridge, London Bridge Station, Station Approach, London RdLondonSE1 9SP, UK",
+    "lat": 51.5042625,
+    "lng": -0.0848024
+  },
+  {
+    "place_id": "ChIJ__8_mkwDdkgRCBO7Vsn_dfU",
+    "name": "Costa Coffee",
+    "address": "1 Aldgate, London EC3N 1RE, UK",
+    "lat": 51.513206999999994,
+    "lng": -0.07715799999999999
+  },
+  {
+    "place_id": "ChIJTUBJO60EdkgRkeSxBqKEKrs",
+    "name": "Costa Coffee",
+    "address": "Kiosk, City, Thameslink St, London EC4M 7JH, UK",
+    "lat": 51.514019,
+    "lng": -0.10345599999999999
+  },
+  {
+    "place_id": "ChIJ-SB4LXQddkgRskWO10eSdZg",
+    "name": "Costa Coffee",
+    "address": "Unit 6, City Point, Moorgate, London EC2Y 9HR, UK",
+    "lat": 51.519681999999996,
+    "lng": -0.08934600000000001
+  },
+  {
+    "place_id": "ChIJYS0mq5oddkgRmZzOMdu0ZqU",
+    "name": "Costa Coffee",
+    "address": "34 London Wall, London EC2M 5QX, UK",
+    "lat": 51.517444999999995,
+    "lng": -0.089124
+  },
+  {
+    "place_id": "ChIJQS9W6M0cdkgRvUbOtSEqaR0",
+    "name": "Costa Coffee",
+    "address": "275 Whitechapel Rd, London E1 1BY, UK",
+    "lat": 51.519375,
+    "lng": -0.059779000000000006
+  },
+  {
+    "place_id": "ChIJC-HZFKMddkgRuS5dYdeRgXo",
+    "name": "Costa Coffee",
+    "address": "Moorefield Eye Hospital, London EC1V 2PD, UK",
+    "lat": 51.52762,
+    "lng": -0.08988
+  },
+  {
+    "place_id": "ChIJXdBbSgAbdkgRcs8q-umTeMs",
+    "name": "Costa Express",
+    "address": "43-45 Farringdon Rd, London EC1M 3JB, UK",
+    "lat": 51.5202642,
+    "lng": -0.1061212
+  },
+  {
+    "place_id": "ChIJxU9QHwAddkgRSMNGc9QChwY",
+    "name": "Costa Express",
+    "address": "Old St, London EC1V 9NP, UK",
+    "lat": 51.5256228,
+    "lng": -0.0904688
+  },
+  {
+    "place_id": "ChIJ4W-zA6IddkgR85BRY5XnbeA",
+    "name": "Costa Coffee",
+    "address": "554, 556 Roman Rd, Bow, London E3 5ES, UK",
+    "lat": 51.532799999999995,
+    "lng": -0.030164
+  },
+  {
+    "place_id": "ChIJMdc0qfgddkgRpLCGkfYNGCA",
+    "name": "Costa Coffee",
+    "address": "15 Amhurst Rd, London E8 1LL, UK",
+    "lat": 51.547512999999995,
+    "lng": -0.056192
+  },
+  {
+    "place_id": "ChIJ3Zsfy3kddkgROpENOvHI8Fk",
+    "name": "Costa Coffee",
+    "address": "Unit H, LEYTON MILLS, Marshall Rd, RP E10 5NH, UK",
+    "lat": 51.55557700000001,
+    "lng": -0.008027
+  },
+  {
+    "place_id": "ChIJ5beVAQCn2EcRP8RsqYbieb0",
+    "name": "Costa Coffee",
+    "address": "Unit 3 Woodgrange Rd, London E7 8BA, UK",
+    "lat": 51.5485,
+    "lng": 0.024749999999999998
+  },
+  {
+    "place_id": "ChIJp6qqFgIddkgRymcRU8D5Qt4",
+    "name": "Costa Coffee",
+    "address": "Gate 1, Chatters Food Court, Homerton Row, London E9 6SR, UK",
+    "lat": 51.5505,
+    "lng": -0.04634
+  },
+  {
+    "place_id": "ChIJwSavoo0cdkgRRSuUJN1pKVA",
+    "name": "Costa Coffee",
+    "address": "Unit 1A, Kingsland Shopping Centre, London E8 2LX, UK",
+    "lat": 51.547864800000006,
+    "lng": -0.0752386
+  },
+  {
+    "place_id": "ChIJxRHSceSn2EcRIfQrUnhNHiM",
+    "name": "Costa Coffee Ilford 3",
+    "address": "The Exchange Shopping Centre, Unit 22, Ilford IG1 1RS, UK",
+    "lat": 51.560124099999996,
+    "lng": 0.0724957
+  },
+  {
+    "place_id": "ChIJ9fZ0mYel2EcRkmQ0sVb5a3c",
+    "name": "Costa Coffee",
+    "address": "35 Goodmayes Rd, Ilford IG3 9UH, UK",
+    "lat": 51.565799999999996,
+    "lng": 0.110621
+  },
+  {
+    "place_id": "ChIJrVgCj2-n2EcRP2J8tVAjbbY",
+    "name": "Costa Coffee",
+    "address": "841a High Road, Bushwood, Leystonstone E11 1HH, UK",
+    "lat": 51.5695,
+    "lng": 0.012202
+  },
+  {
+    "place_id": "ChIJbUd7fxWn2EcRjSEVMmJJSW0",
+    "name": "Costa Coffee",
+    "address": "Unit 2, Clock House Parade, London E11 2AG, UK",
+    "lat": 51.57792,
+    "lng": 0.026465
+  },
+  {
+    "place_id": "ChIJ8zbmcaKl2EcRNyqUuql6ejs",
+    "name": "Costa Coffee KGH",
+    "address": "King George hospital, Ilford IG3 8ZA, UK",
+    "lat": 51.580229499999994,
+    "lng": 0.1118438
+  },
+  {
+    "place_id": "ChIJlyINLq6m2EcRv76iVOhN350",
+    "name": "Costa Coffee",
+    "address": "113 High St, Ilford IG6 2AH, UK",
+    "lat": 51.591704,
+    "lng": 0.08302
+  },
+  {
+    "place_id": "ChIJx5DP3Wa72EcRhIJoa6pMa0k",
+    "name": "Costa Coffee",
+    "address": "Next Home, Gallows Corner Retail Park, Romford RM3 0AD, UK",
+    "lat": 51.59234,
+    "lng": 0.21426
+  },
+  {
+    "place_id": "ChIJO7T_mma72EcRVfw9R8LmPiU",
+    "name": "Costa Coffee",
+    "address": "Bryant Ave, Romford RM3 0LL, UK",
+    "lat": 51.59209,
+    "lng": 0.21994
+  },
+  {
+    "place_id": "ChIJS6f5R52k2EcRoexB_Ugn2Yc",
+    "name": "Costa Coffee",
+    "address": "311 - 313 Collier Row Ln, Collier Row, Romford RM5 3ND, UK",
+    "lat": 51.5988,
+    "lng": 0.163036
+  },
+  {
+    "place_id": "ChIJN1GbKf2-2EcR-0-sxYu2M6g",
+    "name": "Costa Coffee Shenfield",
+    "address": "180 Hutton Rd, Shenfield, Brentwood CM15 8NR, UK",
+    "lat": 51.630593999999995,
+    "lng": 0.3282038
+  },
+  {
+    "place_id": "ChIJTWRMOcLH2EcRcxq116XSCmQ",
+    "name": "Costa Coffee",
+    "address": "Tesco, Mandeville Way, Laindon, Langdon Hills, Basildon SS15 6TJ, UK",
+    "lat": 51.567834,
+    "lng": 0.39929699999999996
+  },
+  {
+    "place_id": "ChIJpdxSYZK_2EcR9Ec7etLwE80",
+    "name": "Costa Coffee",
+    "address": "73A High St, Brentwood CM14 4RW, UK",
+    "lat": 51.620205,
+    "lng": 0.301463
+  },
+  {
+    "place_id": "ChIJzSFcR8HG2EcR1S9BaigBgNk",
+    "name": "Costa Coffee",
+    "address": "Unit 1A, Basildon Pipps Retail Park, Miles Gray Road, Basildon SS14 3AF, UK",
+    "lat": 51.5815876,
+    "lng": 0.44440989999999997
+  },
+  {
+    "place_id": "ChIJS-tWYEW72EcRlCS0F1vh7OM",
+    "name": "Costa Coffee",
+    "address": "83 Main Rd, Gidea Park, Romford RM2 5EL, UK",
+    "lat": 51.5868,
+    "lng": 0.20004000000000002
+  },
+  {
+    "place_id": "ChIJjT0iQwTE2EcRumHsKD8aMSA",
+    "name": "Costa Coffee",
+    "address": "Unit 8, Mayflower Retail Park, Gardiners Link, Basildon SS14 3HZ, UK",
+    "lat": 51.591009,
+    "lng": 0.48068800000000006
+  },
+  {
+    "place_id": "ChIJkb9j3pDG2EcRIv6cgRUcRi8",
+    "name": "Costa Coffee",
+    "address": "Unit 2, Town Square, Basildon SS14 1BA, UK",
+    "lat": 51.570150999999996,
+    "lng": 0.45802000000000004
+  },
+  {
+    "place_id": "ChIJLUm4ELBodkgRm0AvYY6aTh4",
+    "name": "Costa Coffee",
+    "address": "65 St Peter's Ct, Chalfont St Peter, Gerrards Cross SL9 9RH, UK",
+    "lat": 51.6074254,
+    "lng": -0.5554831000000001
+  },
+  {
+    "place_id": "ChIJbz5IumNrdkgRyAwufa3wkA0",
+    "name": "Costa Coffee",
+    "address": "34, The Broadway, 34 Joel St, Northwood HA6 1PF, UK",
+    "lat": 51.601943,
+    "lng": -0.40954599999999997
+  },
+  {
+    "place_id": "ChIJ2bnP1HdrdkgRUbzDRaWPd4M",
+    "name": "Costa Coffee",
+    "address": "8 Clive Parade, Northwood HA6 2QF, UK",
+    "lat": 51.611823,
+    "lng": -0.425224
+  },
+  {
+    "place_id": "ChIJGe93frtmdkgRGsbbIpX_95A",
+    "name": "Costa Coffee",
+    "address": "Cardian House, Beaconsfield HP9 1HG, UK",
+    "lat": 51.610344999999995,
+    "lng": -0.6457849999999999
+  },
+  {
+    "place_id": "ChIJA5mIGNVrdkgRjrKmbJsD4go",
+    "name": "Costa",
+    "address": "153 High St, Rickmansworth WD3 1AR, UK",
+    "lat": 51.6391099,
+    "lng": -0.47156180000000003
+  },
+  {
+    "place_id": "ChIJVVWFArNpdkgRWQWNJqE64ME",
+    "name": "Costa Coffee",
+    "address": "40 Lower Rd, Chorleywood, Rickmansworth WD3 5LB, UK",
+    "lat": 51.6534232,
+    "lng": -0.5191395
+  },
+  {
+    "place_id": "ChIJRSdgkuNhdkgRD4ijVi3-LuA",
+    "name": "Costa Coffee",
+    "address": "Tesco, London Rd, Loudwater, High Wycombe HP10 9RT, UK",
+    "lat": 51.60478,
+    "lng": -0.6926599999999999
+  },
+  {
+    "place_id": "ChIJ0dRcZn4TdkgRvQUUjxDBeLo",
+    "name": "Costa Coffee",
+    "address": "112-114, High St, London HA3 7AJ, UK",
+    "lat": 51.596599999999995,
+    "lng": -0.335204
+  },
+  {
+    "place_id": "ChIJP1sxBXcTdkgR3zMPAQDRXFY",
+    "name": "Costa Coffee",
+    "address": "2, Tesco, Harrow HA1 2TU, UK",
+    "lat": 51.586189999999995,
+    "lng": -0.33335
+  },
+  {
+    "place_id": "ChIJ44zWR29rdkgRLasai6htKc0",
+    "name": "Costa Coffee",
+    "address": "Drive Thru, Watford Arches Retail park, Watford WD17 2SD, UK",
+    "lat": 51.647638,
+    "lng": -0.387509
+  },
+  {
+    "place_id": "ChIJW3YbnNAQdkgR1GxUo_7A1Yc",
+    "name": "Costa Coffee",
+    "address": "The Burroughs, London NW4 4BT, UK",
+    "lat": 51.5897474,
+    "lng": -0.22898780000000002
+  },
+  {
+    "place_id": "ChIJq-MwhXcUdkgREpdV1LOH4AI",
+    "name": "Costa Coffee",
+    "address": "8 Warwick Parade Kenton Ln, Harrow HA3 8SA, UK",
+    "lat": 51.600699999999996,
+    "lng": -0.3181
+  },
+  {
+    "place_id": "ChIJT03VNDIRdkgRkghXi1SNJsM",
+    "name": "Costa Coffee",
+    "address": "130 Colindale Ave, London NW9 4AX, UK",
+    "lat": 51.5946604,
+    "lng": -0.2506113
+  },
+  {
+    "place_id": "ChIJ3_lPq7MWdkgRakGzG57u4Gk",
+    "name": "Costa Coffee",
+    "address": "146-148 Burnt Oak Broadway, Burnt Oak, Edgware HA8 0AX, UK",
+    "lat": 51.6016373,
+    "lng": -0.2682653
+  },
+  {
+    "place_id": "ChIJGWBOBVkRdkgRJywyu7Lb_C8",
+    "name": "Costa Coffee",
+    "address": "624 Kingsbury Rd, Kingsbury Circle, London NW9 9HN, UK",
+    "lat": 51.585065,
+    "lng": -0.279385
+  },
+  {
+    "place_id": "ChIJlZ-8YwATdkgRPrezTleYyQI",
+    "name": "Costa Express Machine",
+    "address": "Harrow HA1 2TU, UK",
+    "lat": 51.5863182,
+    "lng": -0.33368529999999996
+  },
+  {
+    "place_id": "ChIJHy_sTKQWdkgRri4dNAVQbuI",
+    "name": "Costa Coffee",
+    "address": "Unit 34, Mall Cafe, The Broadwa, Edgware HA8 7BD, UK",
+    "lat": 51.613006999999996,
+    "lng": -0.276072
+  },
+  {
+    "place_id": "ChIJL7uLNGoUdkgR_Y7QrZ05W2w",
+    "name": "Costa",
+    "address": "24-26 Church Rd, Stanmore HA7 4AW, UK",
+    "lat": 51.617270299999994,
+    "lng": -0.31211659999999997
+  },
+  {
+    "place_id": "ChIJrekEUMkTdkgR4dNcbOGxgmE",
+    "name": "Costa Express",
+    "address": "133, 139 East Ln, NORTH, Wembley HA9 7PU, UK",
+    "lat": 51.5625769,
+    "lng": -0.30125969999999996
+  },
+  {
+    "place_id": "ChIJL1ZhcwARdkgRs8dt_ZKFrAk",
+    "name": "Costa Coffee",
+    "address": "Tilling Rd, Brent Cross, London NW2 1LP, UK",
+    "lat": 51.5732594,
+    "lng": -0.22251369999999998
+  },
+  {
+    "place_id": "ChIJd8IugNwQdkgRm5n4MK3lutQ",
+    "name": "Costa Coffee",
+    "address": "14 Central Circus, London NW4 3AS, UK",
+    "lat": 51.583099999999995,
+    "lng": -0.226751
+  },
+  {
+    "place_id": "ChIJVValrPIRdkgRymJxcmaCcJA",
+    "name": "Costa Coffee",
+    "address": "Sainsbury's, Unit 4 Hyde Estate Rd, London NW9 6JX, UK",
+    "lat": 51.582073,
+    "lng": -0.24398899999999998
+  },
+  {
+    "place_id": "ChIJX7btVqMQdkgRk-BiVfwQkzc",
+    "name": "Costa Coffee",
+    "address": "27 Temple Fortune Parade, London NW11 0QX, UK",
+    "lat": 51.583282,
+    "lng": -0.19983599999999999
+  },
+  {
+    "place_id": "ChIJacjKtiIadkgRfU5V88DMpew",
+    "name": "Costa Coffee",
+    "address": "62-64 High Rd, London N2 5DU, UK",
+    "lat": 51.5889257,
+    "lng": -0.16378669999999998
+  },
+  {
+    "place_id": "ChIJBcEATlQXdkgRfK2qErPYpZk",
+    "name": "Costa Coffee",
+    "address": "32 Ballards Ln, London N3 2BJ, UK",
+    "lat": 51.602337999999996,
+    "lng": -0.192098
+  },
+  {
+    "place_id": "ChIJdTNGBDQZdkgRg4GsTHEmXEU",
+    "name": "Costa Coffee",
+    "address": "Finchley Memorial Hospital, Granville Rd, London N12 0JE, UK",
+    "lat": 51.6054001,
+    "lng": -0.1766717
+  },
+  {
+    "place_id": "ChIJ3X8wnq4bdkgR_2aIdq2MF7w",
+    "name": "Costa Coffee",
+    "address": "35 Junction Rd, Archway, London N19 5QT, UK",
+    "lat": 51.564555,
+    "lng": -0.13482
+  },
+  {
+    "place_id": "ChIJjwsF0YQbdkgR2KKuofz-hsU",
+    "name": "Costa Coffee",
+    "address": "251, 253 Seven Sisters Rd, Finsbury Park, London N4 2DD, UK",
+    "lat": 51.5644,
+    "lng": -0.10537900000000001
+  },
+  {
+    "place_id": "ChIJCxZmGHQbdkgRewFM4EUjwNw",
+    "name": "Costa Coffee",
+    "address": "301/305, Lower, Holloway Rd, London N7 9DS, UK",
+    "lat": 51.5533,
+    "lng": -0.11345100000000001
+  },
+  {
+    "place_id": "ChIJjwh2Nw0bdkgRA5RI4kAe3B8",
+    "name": "Costa Coffee",
+    "address": "465 Caledonian Rd, London N7 9BA, UK",
+    "lat": 51.548598,
+    "lng": -0.117183
+  },
+  {
+    "place_id": "ChIJG665qGwbdkgRdU1jRIKv1sA",
+    "name": "Costa Coffee",
+    "address": "366, 368 Caledonian Rd, London N1 1DU, UK",
+    "lat": 51.5415,
+    "lng": -0.11683599999999998
+  },
+  {
+    "place_id": "ChIJhZfaTscbdkgRlZdqVCiPY4Q",
+    "name": "Costa Coffee",
+    "address": "1 The Broadway, London N8 8DU, UK",
+    "lat": 51.578863,
+    "lng": -0.12408999999999999
+  },
+  {
+    "place_id": "ChIJHWbkG4sbdkgRJaxwruoRUXA",
+    "name": "Costa Coffee",
+    "address": "Unit 4C, The Arena Shopping Pa, Finsbury Park, London N4 1ED, UK",
+    "lat": 51.576526,
+    "lng": -0.097662
+  },
+  {
+    "place_id": "ChIJE21U5fobdkgR39Kfk2jQaIw",
+    "name": "Costa Coffee",
+    "address": "Unit 29, London N22 6YQ, UK",
+    "lat": 51.594570000000004,
+    "lng": -0.10931
+  },
+  {
+    "place_id": "ChIJOUm63iwadkgRwG_lEUctXlo",
+    "name": "Costa Coffee",
+    "address": "376 Muswell Hill, London N10 1DJ, UK",
+    "lat": 51.591508999999995,
+    "lng": -0.14243699999999998
+  },
+  {
+    "place_id": "ChIJ4aIBMi0ZdkgRK9SVb1GYlts",
+    "name": "Costa Coffee",
+    "address": "1, London N8 0QY, UK",
+    "lat": 51.590483,
+    "lng": -0.103713
+  },
+  {
+    "place_id": "ChIJJzgfGmEcdkgRl7C80rRjjMk",
+    "name": "Costa Coffee",
+    "address": "130-133, Stoke Newington High St, London N16 0PJ, UK",
+    "lat": 51.560643999999996,
+    "lng": -0.074047
+  },
+  {
+    "place_id": "ChIJFS7QcRYcdkgRaH9jWqmvGuI",
+    "name": "Costa Coffee",
+    "address": "261 High Rd, South Tottenham, London N15 4RR, UK",
+    "lat": 51.584,
+    "lng": -0.07257999999999999
+  },
+  {
+    "place_id": "ChIJhSaewjocdkgRNporYICF_YI",
+    "name": "Costa Coffee",
+    "address": "Unit E, London N15 4QD, UK",
+    "lat": 51.58757,
+    "lng": -0.06335099999999999
+  },
+  {
+    "place_id": "ChIJCyE0-MEddkgRTspWJSbWd2M",
+    "name": "Costa Coffee",
+    "address": "Selbourne Walk Shopping Centre, London E17 7JR, UK",
+    "lat": 51.5834,
+    "lng": -0.023476
+  },
+  {
+    "place_id": "ChIJe38pT8YddkgREOlsFPO_x-M",
+    "name": "Costa Coffee",
+    "address": "12 St James St, London E17 7PF, UK",
+    "lat": 51.581199999999995,
+    "lng": -0.03346
+  },
+  {
+    "place_id": "ChIJk_Q12-sddkgR6HqS9m4eSQw",
+    "name": "Costa Coffee",
+    "address": "Unit 5 Station Approach, Hoe St, London E17 9QF, UK",
+    "lat": 51.5827,
+    "lng": -0.019572000000000003
+  },
+  {
+    "place_id": "ChIJp7HSOKKn2EcRzLhA5h6RTCo",
+    "name": "Costa Coffee",
+    "address": "Gainsborough Rd, Bushwood, London E11 1HT, UK",
+    "lat": 51.57064,
+    "lng": 0.01362
+  },
+  {
+    "place_id": "ChIJ5y8ebAUddkgRzFUh9tDJATA",
+    "name": "Costa Coffee",
+    "address": "Costa Coffee Kiosk, London N17 9LR, UK",
+    "lat": 51.588663,
+    "lng": -0.059958
+  },
+  {
+    "place_id": "ChIJ-5mDxyEcdkgRMjmevhZskdc",
+    "name": "Costa Coffee",
+    "address": "549 High Rd, London N17 6SB, UK",
+    "lat": 51.592999999999996,
+    "lng": -0.069904
+  },
+  {
+    "place_id": "ChIJKbYfcDan2EcRaSdOy3Bxb6I",
+    "name": "Costa Coffee",
+    "address": "132 George Ln, London E18 1BA, UK",
+    "lat": 51.593098000000005,
+    "lng": 0.025557
+  },
+  {
+    "place_id": "ChIJd-cAwxuh2EcR3wDaRII2xQc",
+    "name": "Costa Coffee",
+    "address": "TESCO, Larkshall Rd, London E4 9JD, UK",
+    "lat": 51.60926,
+    "lng": -0.00293
+  },
+  {
+    "place_id": "ChIJ55NnAwAfdkgRwZKsIAV7Bxc",
+    "name": "Costa Coffee",
+    "address": "North Middlesex Hosp, Sterling Way, London N18 1QX, UK",
+    "lat": 51.6130892,
+    "lng": -0.0735503
+  },
+  {
+    "place_id": "ChIJL1XMSw2h2EcRVhIuw9XQIP0",
+    "name": "Costa Coffee",
+    "address": "688, 690 Chigwell Rd, Woodford Bridge, Woodford Green IG8 8AH, UK",
+    "lat": 51.60633,
+    "lng": 0.054189999999999995
+  },
+  {
+    "place_id": "ChIJt-_qsM-g2EcRF4x8Mr0d_lU",
+    "name": "Costa Coffee",
+    "address": "Unit 5 The Broadway, Woodford, Woodford Green IG8 0HL, UK",
+    "lat": 51.607592999999994,
+    "lng": 0.033333
+  },
+  {
+    "place_id": "ChIJo4xqIOKg2EcRS-rqva84csA",
+    "name": "Costa Coffee",
+    "address": "2 Victoria Rd, Buckhurst Hill IG9 5ES, UK",
+    "lat": 51.6256,
+    "lng": 0.045556
+  },
+  {
+    "place_id": "ChIJUw4meRYedkgRykaLdT5tYMg",
+    "name": "Costa Coffee",
+    "address": "24 Old Church Rd, Chingford Mount, London E4 8DD, UK",
+    "lat": 51.618038,
+    "lng": -0.017677
+  },
+  {
+    "place_id": "ChIJ8_FCIUWh2EcRuVeJIpdU3zY",
+    "name": "Costa Coffee",
+    "address": "45-47 Station Rd, London E4 7BJ, UK",
+    "lat": 51.6312,
+    "lng": 0.003541
+  },
+  {
+    "place_id": "ChIJlZzeLuTA2EcR7O2NZph7IDQ",
+    "name": "Costa Coffee",
+    "address": "76/78 High St, Billericay CM12 9BT, UK",
+    "lat": 51.625094,
+    "lng": 0.41740099999999997
+  },
+  {
+    "place_id": "ChIJhy8oEwBvdkgRzkvmnaBGN4g",
+    "name": "Costa Express in Tesco",
+    "address": "Tesco, Packhorse Rd, Gerrards Cross SL9 8BQ, UK",
+    "lat": 51.5877522,
+    "lng": -0.5526787
+  },
+  {
+    "place_id": "ChIJaxoTUAlodkgRkUgOEisB99I",
+    "name": "Costa Coffee",
+    "address": "13 Chenies Parade, Little Chalfont, Amersham HP7 9PH, UK",
+    "lat": 51.666875,
+    "lng": -0.563995
+  },
+  {
+    "place_id": "ChIJS_BaAJxndkgRI50EQXZNm5s",
+    "name": "Costa Coffee",
+    "address": "19 London Rd W, Amersham HP7 0HA, UK",
+    "lat": 51.6659,
+    "lng": -0.61186
+  },
+  {
+    "place_id": "ChIJqTSE2SlhdkgR7u9npOL9FOs",
+    "name": "Costa Coffee",
+    "address": "34, Park Parade, Hazlemere, High Wycombe HP15 7AA, UK",
+    "lat": 51.65825400000001,
+    "lng": -0.709742
+  },
+  {
+    "place_id": "ChIJP9T_FIZndkgRdRYOKbBAV-Q",
+    "name": "Costa Coffee",
+    "address": "35 / 37 Sycamore Rd, Amersham HP6 5EQ, UK",
+    "lat": 51.677617,
+    "lng": -0.606799
+  },
+  {
+    "place_id": "ChIJ-TZz6c9qdkgRJfTBkI5xMK4",
+    "name": "Costa Coffee",
+    "address": "Next, Unit A, Waterfields Retail Park, New Rd, Watford WD17 2EU, UK",
+    "lat": 51.65228,
+    "lng": -0.38966999999999996
+  },
+  {
+    "place_id": "ChIJiwUiVMRqdkgRcUJaqmol3JI",
+    "name": "Costa Coffee",
+    "address": "132 High St, Watford WD17 2EN, UK",
+    "lat": 51.654036399999995,
+    "lng": -0.3939122
+  },
+  {
+    "place_id": "ChIJ64xVL8RqdkgR-fE3vG5MJAA",
+    "name": "Costa Coffee",
+    "address": "Unit 30 The Harlequin, Shopping, Watford WD17 2TE, UK",
+    "lat": 51.656411999999996,
+    "lng": -0.39489700000000005
+  },
+  {
+    "place_id": "ChIJcUkk1vVHdkgRs08tuEWggME",
+    "name": "Costa Coffee",
+    "address": "City House, Hemel Hempstead HP2 7EA, UK",
+    "lat": 51.7695894,
+    "lng": -0.4383695
+  },
+  {
+    "place_id": "ChIJ7zTiAO5DdkgR0_gOESc-Zcc",
+    "name": "Costa Coffee Express",
+    "address": "33-35 Stoney Croft, Warners End, Hemel Hempstead HP1 2QF, UK",
+    "lat": 51.7561155,
+    "lng": -0.49344899999999997
+  },
+  {
+    "place_id": "ChIJT17mSnBrdkgRehuF5aoIxBY",
+    "name": "Costa Coffee",
+    "address": "ASDA, Odhams Trading Estate, Watford WD24 7RS, UK",
+    "lat": 51.68002,
+    "lng": -0.39014
+  },
+  {
+    "place_id": "ChIJh6jbm3YWdkgRy3U6v9CIqkA",
+    "name": "Costa Coffee",
+    "address": "Unit 6E, Borehamwood Shopping Park, Borehamwood WD6 4PR, UK",
+    "lat": 51.656575,
+    "lng": -0.277177
+  },
+  {
+    "place_id": "ChIJzbH241xrdkgRZ9jos4p3OnQ",
+    "name": "Costa Coffee",
+    "address": "Station Rd, Watford WD17 1ET, UK",
+    "lat": 51.663705,
+    "lng": -0.396703
+  },
+  {
+    "place_id": "ChIJG4GtoNwWdkgRdy-Uhle6vhw",
+    "name": "Costa Coffee",
+    "address": "19 The Broadway, London NW7 3LN, UK",
+    "lat": 51.614247999999996,
+    "lng": -0.24865199999999998
+  },
+  {
+    "place_id": "ChIJ08-j0f0TdkgRrjQFh7p7LFs",
+    "name": "Costa Express",
+    "address": "Petrol Filling Station, Honeypot Ln, London NW9 6RN, UK",
+    "lat": 51.5930499,
+    "lng": -0.28563109999999997
+  },
+  {
+    "place_id": "ChIJ0_sx78oXdkgRQW6twgYO8uw",
+    "name": "Costa Coffee",
+    "address": "Medirest Services, General Hospital, Barnet EN5 3DJ, UK",
+    "lat": 51.65069,
+    "lng": -0.21466
+  },
+  {
+    "place_id": "ChIJ7fB1Tk0XdkgR5bHzKbzjwbU",
+    "name": "Costa Coffee",
+    "address": "Tesco - Borehomwood Extra, Borehamwood WD6 1JG, UK",
+    "lat": 51.656259999999996,
+    "lng": -0.2692
+  },
+  {
+    "place_id": "ChIJhXdvJ-YZdkgRAUcfGUkW8oY",
+    "name": "Costa Coffee",
+    "address": "Unit 813 High Rd, London N12 8PR, UK",
+    "lat": 51.616499999999995,
+    "lng": -0.177204
+  },
+  {
+    "place_id": "ChIJUw5jZNkQdkgRpMC6uu3v7Is",
+    "name": "Costa Express",
+    "address": "Neeld Cres, London NW4 3AQ, UK",
+    "lat": 51.584875499999995,
+    "lng": -0.23007539999999996
+  },
+  {
+    "place_id": "ChIJ4Y0CjM8ZdkgR-S2eowdOLWE",
+    "name": "Costa Coffee",
+    "address": "1287 High Rd, London N20 9HS, UK",
+    "lat": 51.6309277,
+    "lng": -0.1753933
+  },
+  {
+    "place_id": "ChIJH_fo_o4ZdkgRHJ1nb4BaGOQ",
+    "name": "Costa Coffee",
+    "address": "Coppetts Centre, London N12 0SH, UK",
+    "lat": 51.607037999999996,
+    "lng": -0.15489
+  },
+  {
+    "place_id": "ChIJVxo4JCoYdkgRKjvOx0M68Dg",
+    "name": "Costa Coffee",
+    "address": "14 Western Parade, Great N Rd, New Barnet, Barnet EN5 1AD, UK",
+    "lat": 51.6457962,
+    "lng": -0.1866333
+  },
+  {
+    "place_id": "ChIJZ0LqPZ0ZdkgRIPMSmZyoQfg",
+    "name": "Costa Coffee",
+    "address": "Unit 2, Friern Bridge Retail Park, London N11 3PW, UK",
+    "lat": 51.6108,
+    "lng": -0.143376
+  },
+  {
+    "place_id": "ChIJIb_lBp4ZdkgR2Auut5PAalk",
+    "name": "Costa Coffee",
+    "address": "282 E Barnet Rd, East Barnet Village, London EN4 8TD, UK",
+    "lat": 51.6425,
+    "lng": -0.16327999999999998
+  },
+  {
+    "place_id": "ChIJA4CJ0lYYdkgR0bV7ulhFUpc",
+    "name": "Costa Coffee",
+    "address": "16 Station Parade, Barnet EN4 0DN, UK",
+    "lat": 51.648531,
+    "lng": -0.147329
+  },
+  {
+    "place_id": "ChIJCztEXgAXdkgRtsGjZ8-6Guc",
+    "name": "Costa Coffee",
+    "address": "118 High St, Chipping Barnet, Barnet EN5 5XQ, UK",
+    "lat": 51.654604,
+    "lng": -0.201179
+  },
+  {
+    "place_id": "ChIJiYyS7HMZdkgRerUhyo_H-4w",
+    "name": "Costa Coffee",
+    "address": "356 Bowes Rd, Arnos Grove, London N11 1AN, UK",
+    "lat": 51.6162,
+    "lng": -0.134482
+  },
+  {
+    "place_id": "ChIJvy3haYYbdkgRc-CunUSutnU",
+    "name": "Costa Coffee",
+    "address": "Lon, Underground Stn N22 8HH, UK",
+    "lat": 51.59744,
+    "lng": -0.10976
+  },
+  {
+    "place_id": "ChIJ5RxllUcZdkgR0tj1jXnvdRo",
+    "name": "Costa Coffee",
+    "address": "349 Green Lanes, London N13 4JG, UK",
+    "lat": 51.6189,
+    "lng": -0.10778599999999999
+  },
+  {
+    "place_id": "ChIJt-kqM5cedkgRXmlk16_J60k",
+    "name": "Costa Coffee",
+    "address": "86 Fore St, London N18 2FE, UK",
+    "lat": 51.6114548,
+    "lng": -0.0649093
+  },
+  {
+    "place_id": "ChIJt808j3EedkgRFUIihX81aEk",
+    "name": "Costa Express",
+    "address": "A406, London N12 0SH, UK",
+    "lat": 51.607849300000005,
+    "lng": -0.0303275
+  },
+  {
+    "place_id": "ChIJXYk8fvIedkgRFqvUfVliSJw",
+    "name": "Costa Coffee",
+    "address": "Unit 4, North Mall, London N9 0EJ, UK",
+    "lat": 51.6248,
+    "lng": -0.057382
+  },
+  {
+    "place_id": "ChIJNynt_L8fdkgRF5_v0KaShrM",
+    "name": "Costa Coffee",
+    "address": "Odeon, Lee Valley Cinema, Pickett's Lock Ln, London N9 0AS, UK",
+    "lat": 51.632975699999996,
+    "lng": -0.03712240000000001
+  },
+  {
+    "place_id": "ChIJ4TT-YAcfdkgRSZJHRXqaLTo",
+    "name": "Costa Coffee",
+    "address": "288 High St, Ponders End, Enfield EN3 4DP, UK",
+    "lat": 51.64761,
+    "lng": -0.04677
+  },
+  {
+    "place_id": "ChIJcVqXuQ8fdkgRV-o5df5DDWg",
+    "name": "Costa Coffee",
+    "address": "Unit 1, Next Home, Enfield Retail Park, Enfield EN1 1TH, UK",
+    "lat": 51.654419999999995,
+    "lng": -0.05899999999999999
+  },
+  {
+    "place_id": "ChIJAQAAzA8fdkgRettGnlzcAKo",
+    "name": "Costa Coffee",
+    "address": "Unit 8A, Enfield Retail Park, Enfield EN1 3RW, UK",
+    "lat": 51.65357600000001,
+    "lng": -0.057318
+  },
+  {
+    "place_id": "ChIJR_cD5S8fdkgR4Mt6aE8CLUQ",
+    "name": "Costa Coffee",
+    "address": "Shopping Cen, 26 Palace Gdns, Enfield EN2 6SN, UK",
+    "lat": 51.651112,
+    "lng": -0.083898
+  },
+  {
+    "place_id": "ChIJfzuY4q6h2EcRJQkw0TdYmnY",
+    "name": "Costa Coffee",
+    "address": "230 High Rd, Loughton IG10 1ET, UK",
+    "lat": 51.648296,
+    "lng": 0.055815
+  },
+  {
+    "place_id": "ChIJfQesp6AfdkgRZg45ojvM9xI",
+    "name": "Costa Coffee",
+    "address": "163 Hertford Rd, Enfield EN3 5JG, UK",
+    "lat": 51.6579,
+    "lng": -0.046994999999999995
+  },
+  {
+    "place_id": "ChIJ8wzjEx2h2EcRMr482DT7CEs",
+    "name": "Costa Coffee",
+    "address": "NEXT, Unit 8-9, Epping Forest Shopping Park, Loughton IG10 3FT, UK",
+    "lat": 51.643539999999994,
+    "lng": 0.08707999999999999
+  },
+  {
+    "place_id": "ChIJq2-94buY2EcR8MR8-4DBcz0",
+    "name": "Costa Coffee",
+    "address": "189 High St, Epping CM16 4BL, UK",
+    "lat": 51.699258,
+    "lng": 0.11103299999999999
+  },
+  {
+    "place_id": "ChIJ_9LP6A7E2EcRuOBazns41Yw",
+    "name": "Costa - The Roastery",
+    "address": "Christopher Martin Rd, Basildon SS14 3TR, UK",
+    "lat": 51.5908212,
+    "lng": 0.48853300000000005
+  },
+  {
+    "place_id": "ChIJf-1l9Z3D2EcRHeDYHGVTNaU",
+    "name": "Costa Coffee",
+    "address": "32-34 High St, Wickford SS12 9AZ, UK",
+    "lat": 51.612595,
+    "lng": 0.520676
+  },
+  {
+    "place_id": "ChIJl8-Je0_E2EcRtYTUzpFb9wc",
+    "name": "Costa Coffee",
+    "address": "Kiosk, 14 Northlands Pavement, Pitsea Centre, Pitsea, Basildon SS13 3DU, UK",
+    "lat": 51.566157,
+    "lng": 0.5045741
+  },
+  {
+    "place_id": "ChIJrX-28zPF2EcRXhElaQMirwA",
+    "name": "Costa Coffee",
+    "address": "Sainsbury's, Cricketers Retail Park, Cricketers Wy., E Mayne, Basildon SS13 1SA, UK",
+    "lat": 51.59081,
+    "lng": 0.500869
+  },
+  {
+    "place_id": "ChIJvztEk63u2EcRq_DKl6nQjCs",
+    "name": "Costa Coffee",
+    "address": "Drive Thru, 1 Eagle Wy, Little Waltham, Chelmsford CM3 3FY, UK",
+    "lat": 51.770638999999996,
+    "lng": 0.486757
+  },
+  {
+    "place_id": "ChIJwfodoErq2EcR58r_uTHxMQs",
+    "name": "Costa Coffee",
+    "address": "Pod, 8, Clocktower Retail Park, Chelmsford CM1 3FJ, UK",
+    "lat": 51.723127,
+    "lng": 0.451047
+  },
+  {
+    "place_id": "ChIJMRQnfAtddkgRUwjkzzNjKqA",
+    "name": "Costa Coffee",
+    "address": "31 High St, Chesham HP5 1BW, UK",
+    "lat": 51.705247,
+    "lng": -0.612344
+  },
+  {
+    "place_id": "ChIJW5ApOfRBdkgRHea2L6DS28c",
+    "name": "Costa Coffee",
+    "address": "Drive Thru, Unit 10, The, Peoplebuilding Estate, Hemel Hempstead HP2 4NW, UK",
+    "lat": 51.75671,
+    "lng": -0.43739999999999996
+  },
+  {
+    "place_id": "ChIJUQsrFP5BdkgRk8N7ZSV-yYE",
+    "name": "Costa Coffee",
+    "address": "NEXT, 4, Apsley Mills Retail Park, Hemel Hempstead HP3 9QN, UK",
+    "lat": 51.735072,
+    "lng": -0.46288100000000004
+  },
+  {
+    "place_id": "ChIJ3XXhKsdfdkgRWUe0PcU1Adw",
+    "name": "Costa Coffee",
+    "address": "30-32 High St, Great Missenden HP16 0AU, UK",
+    "lat": 51.7040765,
+    "lng": -0.7079217999999999
+  },
+  {
+    "place_id": "ChIJj9BdbQBBdkgR5DOrFYdOgqM",
+    "name": "Costa Coffee",
+    "address": "208 Marlowes, Hemel Hempstead HP1 1BH, UK",
+    "lat": 51.74998,
+    "lng": -0.4728799999999999
+  },
+  {
+    "place_id": "ChIJAUAxklRDdkgRnGqj8EKZmIU",
+    "name": "Costa Coffee",
+    "address": "300 High St, Berkhamsted HP4 1ZZ, UK",
+    "lat": 51.7619,
+    "lng": -0.56899
+  },
+  {
+    "place_id": "ChIJu_xMLuI_dkgRHu1MKZBtx-w",
+    "name": "Costa Coffee",
+    "address": "Drive Thru, 3 Graham Cl, St Albans AL1 2DF, UK",
+    "lat": 51.741385,
+    "lng": -0.339624
+  },
+  {
+    "place_id": "ChIJ3yfeI3k-dkgR76R1prZhWwQ",
+    "name": "Costa Coffee",
+    "address": "5, Next, Colney Fields Retail Park, London Colney, St Albans AL2 1BG, UK",
+    "lat": 51.71915,
+    "lng": -0.28811
+  },
+  {
+    "place_id": "ChIJsUI4nCY_dkgRhqw0Xv02LFc",
+    "name": "Costa Coffee",
+    "address": "29 St Peter's St, St Albans AL1 3DP, UK",
+    "lat": 51.753229999999995,
+    "lng": -0.338127
+  },
+  {
+    "place_id": "ChIJ344BAiQ_dkgRXO4YfmwBuLs",
+    "name": "Costa Coffee",
+    "address": "5-6 The Maltings, St Albans AL1 3HS, UK",
+    "lat": 51.751811,
+    "lng": -0.33840899999999996
+  },
+  {
+    "place_id": "ChIJQ0E0lUw9dkgR295Kjalyo94",
+    "name": "Costa Coffee",
+    "address": "57 Darkes Ln, Potters Bar EN6 1BJ, UK",
+    "lat": 51.6978,
+    "lng": -0.190986
+  },
+  {
+    "place_id": "ChIJ318uZUM9dkgRpzSrHR3RejI",
+    "name": "Costa Coffee",
+    "address": "Potters Bar Tesco, Mutton Ln, Potters Bar EN6 2PB, UK",
+    "lat": 51.69386,
+    "lng": -0.18
+  },
+  {
+    "place_id": "ChIJn2-ib50hdkgRpoOXA33TT1w",
+    "name": "Costa Coffee",
+    "address": "Unit 7 High St, Waltham Cross EN8 7BZ, UK",
+    "lat": 51.686462,
+    "lng": -0.033031
+  },
+  {
+    "place_id": "ChIJtw5pLNIhdkgR4Oy2dIv5sFQ",
+    "name": "Costa Coffee",
+    "address": "Highbridge Retail Park, Highbridge St, Waltham Abbey EN9 1BY, UK",
+    "lat": 51.686251999999996,
+    "lng": -0.009552
+  },
+  {
+    "place_id": "ChIJqYk6GVEgdkgR_u_Cd5WU0JU",
+    "name": "Costa Coffee",
+    "address": "8a, Brookfield Retail Park, Cheshunt, Waltham Cross EN8 0QE, UK",
+    "lat": 51.718714,
+    "lng": -0.038812
+  },
+  {
+    "place_id": "ChIJa_9Ahv-b2EcRJP0KO6spx0s",
+    "name": "Costa Coffee",
+    "address": "35 Broad Walk, Harlow CM20 1JF, UK",
+    "lat": 51.769678,
+    "lng": 0.09471199999999999
+  },
+  {
+    "place_id": "ChIJfRTc2-2b2EcRIFC9EECYdjc",
+    "name": "Costa Coffee",
+    "address": "14A, The Queensgate Centre, Harlow CM20 2DA, UK",
+    "lat": 51.783674999999995,
+    "lng": 0.10885199999999999
+  },
+  {
+    "place_id": "ChIJmRW2IAub2EcRWeM4VSHVYLU",
+    "name": "Costa Coffee",
+    "address": "Unit 7-8, Staple Tye Shopping Centre, Southern Way, Harlow CM18 7PJ, UK",
+    "lat": 51.753299999999996,
+    "lng": 0.092197
+  },
+  {
+    "place_id": "ChIJrWAmWFWZ2EcR3hLlD3ngf3U",
+    "name": "Costa Coffee",
+    "address": "NEXT, Unit 1 & 2, Harlow CM20 1AB, UK",
+    "lat": 51.768170000000005,
+    "lng": 0.09562
+  },
+  {
+    "place_id": "ChIJO73DIgDp2EcRoVOLk0B7paQ",
+    "name": "Costa Coffee",
+    "address": "Sainsburys, White Hart Ln, Springfield, Chelmsford CM2 5PA, UK",
+    "lat": 51.752399600000004,
+    "lng": 0.5129015
+  },
+  {
+    "place_id": "ChIJv5TQG16O2EcRW3aMtfwlnnY",
+    "name": "Costa Coffee",
+    "address": "London Stansted Airport, Landside, Arrivals, Stansted CM24 1RY, UK",
+    "lat": 51.890941999999995,
+    "lng": 0.263051
+  },
+  {
+    "place_id": "ChIJ637CKDbp2EcRktdt4QKK0Lk",
+    "name": "Costa Coffee",
+    "address": "Unit 8,Beaulieu Square,Beaulieu Park, Off Centenary Way, White Hart Ln, Chelmsford CM1 6AU, UK",
+    "lat": 51.759881,
+    "lng": 0.49972900000000003
+  },
+  {
+    "place_id": "ChIJ7QFaBLjn2EcRLaaQhdFa0Sw",
+    "name": "Costa Coffee",
+    "address": "16 - 18, The Meadows, Chelmsford CM2 6FE, UK",
+    "lat": 51.732223999999995,
+    "lng": 0.476024
+  },
+  {
+    "place_id": "ChIJhTFiGNrr2EcRlPoLP9OSKvU",
+    "name": "Costa Coffee",
+    "address": "Unit 7 Duke St, Chelmsford CM1 1HT, UK",
+    "lat": 51.736491,
+    "lng": 0.46898100000000004
+  },
+  {
+    "place_id": "ChIJwfIqVHLp2EcR0eZTzTPsbq4",
+    "name": "Costa Coffee",
+    "address": "Unit 1, Chelmer Village Retail Park, Chelmsford CM2 6XE, UK",
+    "lat": 51.732046,
+    "lng": 0.49441700000000005
+  },
+  {
+    "place_id": "ChIJI8JQI9lbdkgRyf5Ngj8z4Ks",
+    "name": "Costa Coffee",
+    "address": "George House, Tring HP23 4AF, UK",
+    "lat": 51.7937,
+    "lng": -0.662392
+  },
+  {
+    "place_id": "ChIJ63i14Gs_dkgR2ggqsyj5o50",
+    "name": "Costa Coffee",
+    "address": "St Albans City Station, 1 Station Way, Station approach, St Albans AL1 5HE, UK",
+    "lat": 51.7503656,
+    "lng": -0.3273643
+  },
+  {
+    "place_id": "ChIJ-e-s4F04dkgRbkuIs_KopRw",
+    "name": "Costa Coffee",
+    "address": "Lyndhurst House, 11 High St, Harpenden AL5 2RT, UK",
+    "lat": 51.815002799999995,
+    "lng": -0.3549746
+  },
+  {
+    "place_id": "ChIJu3tCYdBhdkgRHG62rQx6uPw",
+    "name": "Costa Coffee",
+    "address": "Church Square, High Wycombe HP11 2BN, UK",
+    "lat": 51.629635,
+    "lng": -0.75078
+  },
+  {
+    "place_id": "ChIJpY0kGxKKdkgRefn7p0lm4AU",
+    "name": "Costa Coffee",
+    "address": "NEXT, Cressex Island, Crest Rd, High Wycombe HP11 1UA, UK",
+    "lat": 51.61318,
+    "lng": -0.7733099999999999
+  },
+  {
+    "place_id": "ChIJOwINbX47dkgRw5fwHmftcac",
+    "name": "Leisure Centre Costa Coffee Shop",
+    "address": "Longmead, Birchwood, Hatfield AL10 0AE, UK",
+    "lat": 51.7740617,
+    "lng": -0.2218489
+  },
+  {
+    "place_id": "ChIJW0wyjzw_dkgRfU3Si3pLbXA",
+    "name": "Costa Coffee",
+    "address": "The, Albert Bygrave Retail Park, St Albans AL2 1DL, UK",
+    "lat": 51.730574999999995,
+    "lng": -0.3079
+  },
+  {
+    "place_id": "ChIJsXaK_3k8dkgRnum_TvvbTX8",
+    "name": "Costa Coffee",
+    "address": "Galleria, Unit 61 Comet Way, Hatfield AL10 0XR, UK",
+    "lat": 51.760666199999996,
+    "lng": -0.24098680000000003
+  },
+  {
+    "place_id": "ChIJJ-YWkiQ7dkgRlZs9lj70Yrc",
+    "name": "Costa Coffee",
+    "address": "Unit 50, The Howard Centre, Welwyn Garden City AL8 6HA, UK",
+    "lat": 51.801164,
+    "lng": -0.20602499999999999
+  },
+  {
+    "place_id": "ChIJi7Lr4a0gdkgR94Ms2DQ0kvc",
+    "name": "Costa Coffee",
+    "address": "Unit 10/11 & 12, Morrisons Centre, Hoddesdon EN11 8UD, UK",
+    "lat": 51.762086,
+    "lng": -0.010764000000000001
+  },
+  {
+    "place_id": "ChIJ4w1FdJEmdkgRhjgDOrtqUgM",
+    "name": "Costa Coffee",
+    "address": "19-21 Maidenhead St, Hertford SG14 1DW, UK",
+    "lat": 51.7964668,
+    "lng": -0.0784028
+  },
+  {
+    "place_id": "ChIJO5q6Ge0mdkgRiJYvHDz3zDk",
+    "name": "Costa Coffee",
+    "address": "5a, Madford Retail Park Ware Rd, Hertford SG13 7RQ, UK",
+    "lat": 51.7973305,
+    "lng": -0.06932289999999999
+  },
+  {
+    "place_id": "ChIJbWwbpAOc2EcRnUBBH5Cn4LA",
+    "name": "Costa Coffee",
+    "address": "Princess Alexandra Hospital, Hamstel Rd, Harlow CM20 1QX, UK",
+    "lat": 51.77135,
+    "lng": 0.0863
+  },
+  {
+    "place_id": "ChIJqSyVshSb2EcRyUvNoJYJQSg",
+    "name": "Costa Coffee",
+    "address": "Tesco, Edinburgh Way, East Rd, Harlow CM20 2TG, UK",
+    "lat": 51.78559,
+    "lng": 0.12511999999999998
+  },
+  {
+    "place_id": "ChIJJbZNVKcndkgRX3TGAr3yL9Y",
+    "name": "Costa Coffee",
+    "address": "25 High St, Ware SG12 9BP, UK",
+    "lat": 51.810520999999994,
+    "lng": -0.030095999999999998
+  },
+  {
+    "place_id": "ChIJCV1wsGPp2EcRRbO_kZZdqTI",
+    "name": "Costa Coffee",
+    "address": "Unit 1D, Riverside Retail Park, Chelmsford CM1 1AN, UK",
+    "lat": 51.737908999999995,
+    "lng": 0.47895
+  },
+  {
+    "place_id": "ChIJZZjfv33p2EcR8LOEV0dIO8g",
+    "name": "Costa Coffee",
+    "address": "8 High St, Chelmsford CM1 1BE, UK",
+    "lat": 51.73292,
+    "lng": 0.47393199999999996
+  },
+  {
+    "place_id": "ChIJk_9nVCrq2EcR0grmN9m-ebk",
+    "name": "Costa Coffee",
+    "address": "Tesco, Princes Rd, Chelmsford CM2 9XW, UK",
+    "lat": 51.720569999999995,
+    "lng": 0.46214
+  },
+  {
+    "place_id": "ChIJ3wcmshKN2EcRmUw60gN31sw",
+    "name": "Costa Coffee Tesco Dunmow",
+    "address": "Stortford Rd, Great Dunmow, Dunmow CM6 1SF, UK",
+    "lat": 51.8731863,
+    "lng": 0.34680099999999997
+  }
+]
