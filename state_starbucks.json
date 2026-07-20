@@ -1,1 +1,2018 @@
-{}
+{
+  "ChIJK-ahLLPfdUgR1Aw234GNtVg": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "10, M25, Downside, Cobham KT11 3DB, UK",
+    "maps_url": "https://maps.google.com/?cid=6392170835057446100&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ8c-c0zzZdUgRA867pS2LwkQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "A3, Ripley, Woking GU23 6PT, UK",
+    "maps_url": "https://maps.google.com/?cid=4954675568231304707&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ0wwnax3adUgRxKUMOfhkULI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Bowlers Farm Lane, Burpham, Guildford GU4 7JU, UK",
+    "maps_url": "https://maps.google.com/?cid=12848880754159822276&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJBUgwgj_wdUgRDhyzHWazez8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee, LGW South",
+    "address": "London Gatwick Airport, South Terminal, Horley, Gatwick RH6 0NP, UK",
+    "maps_url": "https://maps.google.com/?cid=4574447097691184142&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJfwthMSPZdUgRqQGSSgZzcxQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Wisley South Filling Station, Ripley, Woking GU23 6PU, UK",
+    "maps_url": "https://maps.google.com/?cid=1473647973938364841&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJc81axBjwdUgR69PrVTkVzDg": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee, Departures",
+    "address": "North Terminal, Horley, Airside RH6 0JN, UK",
+    "maps_url": "https://maps.google.com/?cid=4092669497371775979&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJS2f1oibYdUgR19pXQNgykQg": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Station Approach, Woking GU22 7AE, UK",
+    "maps_url": "https://maps.google.com/?cid=617330528300292823&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJbQSAlJhmdkgRERA9HzpWQKc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "A355, Beaconsfield HP9 2SE, UK",
+    "maps_url": "https://maps.google.com/?cid=12051727410475634705&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJKTmQKpfQdUgRpipdyDIHwXU": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "13 North St, Guildford GU1 3DY, UK",
+    "maps_url": "https://maps.google.com/?cid=8485071087634033318&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ-zx-0ibYdUgRryoy3BLp6U4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "48 Mercia Walk, Woking GU21 6XX, UK",
+    "maps_url": "https://maps.google.com/?cid=5686332271744920239&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ3ajywRgFdkgRzqESJ3mNXH8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Elizabeth St, London SW1W 9TP, UK",
+    "maps_url": "https://maps.google.com/?cid=9177365692160319950&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJUcKwCvvTdUgRbamuRgSBmVQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "A331, Tongham, Farnham GU10 1DN, UK",
+    "maps_url": "https://maps.google.com/?cid=6096045425988381037&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJt6E9FUsrdEgReh2AneHe3J8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Cove Rd, Fleet GU51 2SH, UK",
+    "maps_url": "https://maps.google.com/?cid=11519327007498313082&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJVaA7gtx1dkgRVP47PDjRFCE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "45 High St, Weybridge KT13 8BB, UK",
+    "maps_url": "https://maps.google.com/?cid=2383760142244773460&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJEfNUnQB1dkgRkI-QFAAWVM0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "J Sainsbury's, 53 New Zealand Ave, Walton-on-Thames KT12 1QU, UK",
+    "maps_url": "https://maps.google.com/?cid=14795474865419751312&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ5aEu7XbndUgRwlwty9gN4ck": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "21-27 High St, Dorking RH4 1AR, UK",
+    "maps_url": "https://maps.google.com/?cid=14546923496156257474&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJaayKXD5_dkgRCvB3qI5as34": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Bagshot Rd, Bracknell RG12 0QJ, UK",
+    "maps_url": "https://maps.google.com/?cid=9129740438368415754&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJxWd0lMgpdEgRtdKz1DJD1SE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "M3, Fleet GU51 1AA, UK",
+    "maps_url": "https://maps.google.com/?cid=2437928658886972085&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJG99d-KIFdkgR1_a5iBmwPv8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee, Platform 13 & 14",
+    "address": "Platform 13&14, Clapham Junction Station, London SW11 2LJ, UK",
+    "maps_url": "https://maps.google.com/?cid=18392331551942244055&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJdd_vvflydkgR0D1AEw4qm0A": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "9 Bath Rd, Hounslow TW6 2AA, UK",
+    "maps_url": "https://maps.google.com/?cid=4655360879758425552&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJoZ_nFwBxdkgRHcDhDK8_ddg": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks T5 B Gates",
+    "address": "LHR Terminal 5B, Nelson Rd, Middlesex, Hounslow TW6 2GW, UK",
+    "maps_url": "https://maps.google.com/?cid=15597442905535528989&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ099DUOz8dUgR70wMMytHL2s": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "119 London Rd N, Merstham, Redhill RH1 3AL, UK",
+    "maps_url": "https://maps.google.com/?cid=7723470136829299951&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJrfybsteBdkgRXUD5nJsFhrs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Blackwater Valley Road, Camberley GU15 3YN, UK",
+    "maps_url": "https://maps.google.com/?cid=13512493897883402333&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJWzu6K4dzdkgRuWThCXkmMng": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee T2",
+    "address": "Heathrow Airport, Terminal 2, Hounslow TW6 1EW, UK",
+    "maps_url": "https://maps.google.com/?cid=8661027334685549753&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJt-YVxdNwdkgRvM3zWr7QXS4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Sainsbury Store, Staines-upon-Thames, Staines TW18 3AP, UK",
+    "maps_url": "https://maps.google.com/?cid=3341056014567067068&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJk2lrbeEsdEgRcE34xxbZIHQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Sainsbury's, Water Ln, Farnham GU9 9NJ, UK",
+    "maps_url": "https://maps.google.com/?cid=8367926799521828208&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ7wKbLUkIdkgRasmBpWP91oc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "566 London Rd, Sutton SM3 9AA, UK",
+    "maps_url": "https://maps.google.com/?cid=9788289444556687722&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJgRZ87jF-dkgRDxu69WatF_I": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Ringmead J, Sainsbury's plc, Bracknell RG12 7SS, UK",
+    "maps_url": "https://maps.google.com/?cid=17444602339363789583&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJb_OuX-oLdkgR2J-yoLhMm-o": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "91 Clarence St, London KT1 1QY, UK",
+    "maps_url": "https://maps.google.com/?cid=16905189982119043032&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJHS19NDErdEgR8FDCdPc-4Ig": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Pinehurst Ave, Farnborough GU14 7BF, UK",
+    "maps_url": "https://maps.google.com/?cid=9862952416478122224&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJUeFDsnhxdkgR_VeO_9bSoHc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee T5A",
+    "address": "Departures, Heathrow Airport, Hounslow TW6 2GA, UK",
+    "maps_url": "https://maps.google.com/?cid=8620121507639482365&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJySfka_NxdkgRFAQu3eJM1Sk": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "10 Station Rd N, Church Rd, Egham TW20 9LE, UK",
+    "maps_url": "https://maps.google.com/?cid=3014400062851515412&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJK7onnJ8tdEgRqasbJvA_Tmo": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "2 Union St, Aldershot GU11 1FU, UK",
+    "maps_url": "https://maps.google.com/?cid=7660130316867840937&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ67Cw0L5-dkgRE4ABaYi0c5Y": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "57 High St, Ascot SL5 7HP, UK",
+    "maps_url": "https://maps.google.com/?cid=10841207225981173779&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ50lTBHZxdkgRMZsAzw1jOj4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee T5C",
+    "address": "Terminal 5c Southern Perimeter Rd, Hounslow TW6 2GA, UK",
+    "maps_url": "https://maps.google.com/?cid=4484005289959398193&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJX3NFTOx_dkgRgrzmljbMTvs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Unit 2 Princess Sq, Bracknell RG12 1LS, UK",
+    "maps_url": "https://maps.google.com/?cid=18108635686535347330&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ2ZFewA00dEgRpSqa-YyllKc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Liphook - Petersfield Byp, Liphook GU30 7TT, UK",
+    "maps_url": "https://maps.google.com/?cid=12075458525788777125&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJN_3uSVLVdUgRBStUqCbnwK8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "The Atrium, Park St, Camberley GU15 3PT, UK",
+    "maps_url": "https://maps.google.com/?cid=12664376305384696581&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJb_OuX-oLdkgRmvJjGLRW-2Q": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "The Bentall Centre, Wood St, Kingston upon Thames KT1 1TR, UK",
+    "maps_url": "https://maps.google.com/?cid=7276504954450473626&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJw__qBPpxdkgRGhYjTyycKh8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks T5 B",
+    "address": "Western Perimeter Rd, Hounslow TW6 2GW, UK",
+    "maps_url": "https://maps.google.com/?cid=2245779078317807130&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJMbTP-W1zdkgRADTWupnmacA": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Unit 14, The Longford Centre Tilley Rd, Feltham TW13 4BH, UK",
+    "maps_url": "https://maps.google.com/?cid=13864866475775767552&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJsQ0EcxridUgRURLEWUJyJC4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "High St, Epsom KT18 5DA, UK",
+    "maps_url": "https://maps.google.com/?cid=3324908054205698641&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJCWefjqstdEgRa_oyKXN2X7Q": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Unit 3 Lion and Lamb Yard, Farnham GU9 7LL, UK",
+    "maps_url": "https://maps.google.com/?cid=12997237286599064171&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJH_KbSm8pdEgRDWVHX7W8wig": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Drive Thru",
+    "address": "Woodfalls House, Twyford Cl, Fleet GU51 1JZ, UK",
+    "maps_url": "https://maps.google.com/?cid=2937117394172601613&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJZy_E-Q1zdkgR68JUhkOpOjc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Heathrow North",
+    "address": "Shepiston Ln, Hayes UB3 1LL, UK",
+    "maps_url": "https://maps.google.com/?cid=3979679328216859371&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJuecOT-N6dkgR3AwvgUjFEzY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "138 Peascod St, Windsor SL4 1DS, UK",
+    "maps_url": "https://maps.google.com/?cid=3896675017801272540&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJd7Fqbn8LdkgRkq_3RaUF0TI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "70 High St, Teddington TW11 8JD, UK",
+    "maps_url": "https://maps.google.com/?cid=3661714179430526866&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJN39hdrOBdkgR_xh1sekFeT8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Elms Walk, Wokingham RG40 2NL, UK",
+    "maps_url": "https://maps.google.com/?cid=4573693397834209535&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJwwYfZQDxdUgRUDLI5WZQRTA": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Drive - Thru",
+    "address": "Crawley-Gatwick Road DT, Gatwick Rd, Crawley RH10 9BG, UK",
+    "maps_url": "https://maps.google.com/?cid=3478274690085565008&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJz0545abxdUgRlWigdnjuCY8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Upper Level, London Gatwick Airport, North Terminal, Horley, Gatwick RH6 0DW, UK",
+    "maps_url": "https://maps.google.com/?cid=10307031423367800981&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJB3LD-KVtdkgRpxEM8D5v21w": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Glencoe Rd, Hayes UB4 9SN, UK",
+    "maps_url": "https://maps.google.com/?cid=6691063987494982055&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJza98bFl7dkgRdyNy4D0ytN0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "1 Brunel Wy., Slough SL1 1XL, UK",
+    "maps_url": "https://maps.google.com/?cid=15975449019529962359&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJa2-FbasMdkgRNT8r1D4ZtOQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "303 Uxbridge Rd, Hampton Hill, Sainsbury TW12 1AW, UK",
+    "maps_url": "https://maps.google.com/?cid=16479824694093758261&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJXbt5vflldkgR3tU1v7KsQW0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Drive Thru",
+    "address": "Extra Beaconsfield Service Area 2 A355, A355 Windsor End, Beaconsfield HP9 2SE, UK",
+    "maps_url": "https://maps.google.com/?cid=7872763507332470238&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ-x772lVjdkgRUBTZ4fS9dnU": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Lake End Rd, Taplow, Maidenhead SL6 0QH, UK",
+    "maps_url": "https://maps.google.com/?cid=8464161409148195920&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJqfGneeArdEgR4dG5p5Zu6BE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "178, 180 Fleet Rd, Fleet GU51 4DA, UK",
+    "maps_url": "https://maps.google.com/?cid=1290402886579769825&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJw8ridz2DdkgRVPPHhCXkTtI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "King St Ln, Winnersh, Wokingham RG41 5AR, UK",
+    "maps_url": "https://maps.google.com/?cid=15154300645940917076&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ9bQm3UkNdkgRi_BmFk8nq94": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "3 Smithy Ln, Hounslow TW3 1EY, UK",
+    "maps_url": "https://maps.google.com/?cid=16044961318069268619&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJhcAUFXopdEgR0_pcYc2t0xU": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "4a, 5 M3, Fleet GU51 1AA, UK",
+    "maps_url": "https://maps.google.com/?cid=1572791792495819475&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJSf7dcAwIdkgRKbQU9RvyMKI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "132 High St, Sutton SM1 1LX, UK",
+    "maps_url": "https://maps.google.com/?cid=11687107234916250665&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJKUFdxBjwdUgRdcILrELP0Lw": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "ABD GB, Horley, AA RH6 0NP, UK",
+    "maps_url": "https://maps.google.com/?cid=13605602359547511413&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJea5KqxnwdUgRQ-eWFglyYkE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Gatwick, Airport, Horley, Crawley RH6 0NP, UK",
+    "maps_url": "https://maps.google.com/?cid=4711453543542220611&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJEfTLVBjwdUgR7YP9CEye8fY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "ABD GB, Horley, AA RH6 0NP, UK",
+    "maps_url": "https://maps.google.com/?cid=17794177652123075565&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1RdHVBjwdUgRjUXwfjN4tzs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "ABD GB, Horley, AA RH6 0NP, UK",
+    "maps_url": "https://maps.google.com/?cid=4303040131544139149&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJbWSaCIrldUgRuea2jT9i5BE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "High St, Reigate RH2 7AP, UK",
+    "maps_url": "https://maps.google.com/?cid=1289263418434840249&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJVcDHmOAIdkgRByHTzRVU1EU": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Coombe Ln, Raynes Park, London SW20 0JY, UK",
+    "maps_url": "https://maps.google.com/?cid=5031739136303898887&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJpTtzaxcGdkgRnOvGohz2iGs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "High Street Colliers Wood, London SW19 2PT, UK",
+    "maps_url": "https://maps.google.com/?cid=7748713761741400988&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1RgHercIdkgRJJpYO1lzI7w": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Unit 5, 10 Wimbledon Hill Rd, London SW19 7NS, UK",
+    "maps_url": "https://maps.google.com/?cid=13556806130400270884&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ5bjD_YkMdkgRlXY-9kRADqE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "21 King St, Twickenham TW1 3SD, UK",
+    "maps_url": "https://maps.google.com/?cid=11605283954713589397&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJm6aLrVAHdkgRy0thkJdtvtE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "324 Purley Way, Croydon CR0 4XJ, UK",
+    "maps_url": "https://maps.google.com/?cid=15113637897231748043&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJz12rmR_udUgRqV2StJxuAFI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "12 Queens Square, Crawley RH10 1DY, UK",
+    "maps_url": "https://maps.google.com/?cid=5908844330433535401&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJESworsAMdkgRRO-Ygkq_H3E": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "33-35 High Street, Twickenham TW2 7LB, UK",
+    "maps_url": "https://maps.google.com/?cid=8151444177303433028&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ4_rMkfwNdkgRpNbov8rdHgI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "86 London Rd, Twickenham TW1 1FD, UK",
+    "maps_url": "https://maps.google.com/?cid=152803300250015396&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJhwdtbF4NdkgR7JNN_3WTIjQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "12 High St, Hounslow TW3 1BD, UK",
+    "maps_url": "https://maps.google.com/?cid=3756727174184145900&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJg1WcgT_wdUgRJdDiN7ntKpQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "ABD GB, Horley, AA RH6 0NP, UK",
+    "maps_url": "https://maps.google.com/?cid=10676607246397526053&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJA-lrLwD9dUgRfFaB29aB3vY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Brighton Rd, Purley CR8 3AD, UK",
+    "maps_url": "https://maps.google.com/?cid=17788798337965708924&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJpdPjzq4JdkgRSemo7fH5mjk": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Queen's Rd, London SW19 7NL, UK",
+    "maps_url": "https://maps.google.com/?cid=4150904824045037897&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ_XiGPiHudUgRpeG-_BUQe9c": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Ifield Ave, Crawley RH10 8LR, UK",
+    "maps_url": "https://maps.google.com/?cid=15527021826910642597&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJbd6czrkEdkgRKdoEMZIkaew": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Belvedere Rd, London SE1 7GQ, UK",
+    "maps_url": "https://maps.google.com/?cid=17035187275811838505&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJg47UhAAJdkgRz_Ebu4S-8gY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "1 Morden Rd, London SW19 3DB, UK",
+    "maps_url": "https://maps.google.com/?cid=500671985875677647&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJzzgaWPsPdkgRzp_QZbAdCnc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Turnham Green Terrace, Chiswick, London W4 1QP, UK",
+    "maps_url": "https://maps.google.com/?cid=8577701083740151758&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJyRnYyaAPdkgRCozd-O-c5hY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "83 Wandsworth High St, London SW18 4LH, UK",
+    "maps_url": "https://maps.google.com/?cid=1650178867964251146&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJf8oaiDwbdkgRdTgLUPthfds": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Midland Rd, The Circle, London NW1 2QL, UK",
+    "maps_url": "https://maps.google.com/?cid=15815905198402648181&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJjcI-V3AHdkgRCFWkBoccHtg": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "26 Dingwall Rd, Croydon CR0 9XF, UK",
+    "maps_url": "https://maps.google.com/?cid=15572915927751349512&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJoY-SjsMHdkgRacmr8lYG8yw": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Unit 2, 10 Degrees, East, 100A George St, Croydon CR0 1GP, UK",
+    "maps_url": "https://maps.google.com/?cid=3238939527517817193&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJhb2rprcFdkgR-a6Xc-Qd_kM": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Streatham Hill, London SW2 4RS, UK",
+    "maps_url": "https://maps.google.com/?cid=4899386311654747897&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJoVRN5xIFdkgRX0Dbqibc868": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "Plough Ln, London SW17 0BH, UK",
+    "maps_url": "https://maps.google.com/?cid=12678719434611441759&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJHQ9zCFgPdkgRGNLsIUh1wSY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "515 Garratt Ln, London SW18 4SW, UK",
+    "maps_url": "https://maps.google.com/?cid=2792642196613681688&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJgxYXAiIFdkgRiPEMKTtPKeI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Chantrey House, 98 Buckingham Palace Rd, London SW1W 0SS, UK",
+    "maps_url": "https://maps.google.com/?cid=16296643842127229320&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJKyo9dQsGdkgRuNFdjDIak3I": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "2 Mitcham Rd, London SW17 9ND, UK",
+    "maps_url": "https://maps.google.com/?cid=8255971346305896888&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ46P718kIdkgRLarYULihWFY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Platform 7, 8 The Bridge, London SW19 7NE, UK",
+    "maps_url": "https://maps.google.com/?cid=6221900698214771245&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJA4xCQpH5dUgRMlbaehBdn9w": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "63 Station Rd E, Oxted RH8 0AX, UK",
+    "maps_url": "https://maps.google.com/?cid=15897527535003129394&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ5WGuOHsBdkgRr50VK4gNFCg": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "12 Sydenham Rd, London SE26 5EU, UK",
+    "maps_url": "https://maps.google.com/?cid=2887948139540880815&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ38DIAwDxdUgR647fOz7ToJM": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "Gatwick Rd, Crawley RH10 9BG, UK",
+    "maps_url": "https://maps.google.com/?cid=10637734584095051499&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJWRUEz8wAdkgR6zM5XO2WWPc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Station Approach, Croydon CR0 1LF, UK",
+    "maps_url": "https://maps.google.com/?cid=17823161471517406187&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJ9HYxLkEdkgRanoiyhmFJDk": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "60-66 Wardour St, London W1F 0TA, UK",
+    "maps_url": "https://maps.google.com/?cid=4117562305135409770&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJiTrQJQAHdkgRrbJJDhM3f5g": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "1 Merton High St, London SW19 1DD, UK",
+    "maps_url": "https://maps.google.com/?cid=10988562170790916781&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJcb8wyc4EdkgRIqrR_SGdVLc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "1-3 Villiers St, London WC2N 6NN, UK",
+    "maps_url": "https://maps.google.com/?cid=13210356376302365218&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJ9HYxLkEdkgR5sR8L70uho8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "52 Berkeley St, London W1J 8ET, UK",
+    "maps_url": "https://maps.google.com/?cid=10342004984383325414&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJs5vKe-4EdkgRD8HNoYHiATQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "2 S Lambeth Rd, London SW8 1SP, UK",
+    "maps_url": "https://maps.google.com/?cid=3747525411342237967&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJGzb9GUYDdkgR0PKzmJMBJgE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "49 Shad Thames, London SE1 2NJ, UK",
+    "maps_url": "https://maps.google.com/?cid=82755376586683088&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJdySIZtwEdkgR6CFyiZanHXo": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "27 Victoria St, London SW1H 0EX, UK",
+    "maps_url": "https://maps.google.com/?cid=8799373511944708584&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJkQL3uiEFdkgRMuCCCsRck3Y": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee, Main Entrance",
+    "address": "Main Entrance, Victoria Railway Station, London SW1V 1JU, UK",
+    "maps_url": "https://maps.google.com/?cid=8544274915111657522&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJxVOsO2yq2EcRJZxBMA5GUlk": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "25 Market Square, Bromley BR1 1NA, UK",
+    "maps_url": "https://maps.google.com/?cid=6436283844218952741&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJm3yzJDn2dUgR26X0Ly7ITvg": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Brooklands Way, East Grinstead RH19 1DD, UK",
+    "maps_url": "https://maps.google.com/?cid=17892458470288172507&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJBz1yh4wFdkgROiWjvShZrX4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "225 Circus Rd S, Nine Elms, London SW11 8BZ, UK",
+    "maps_url": "https://maps.google.com/?cid=9128050051265013050&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJtdlYw9UEdkgRMaTud_TB_6Q": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "6A Vigo St, London W1S 3HF, UK",
+    "maps_url": "https://maps.google.com/?cid=11889434797009708081&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJbyQvPSGt2EcRCoZHeDZpk2g": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Sevenoaks Way, Orpington BR5 3SG, UK",
+    "maps_url": "https://maps.google.com/?cid=7535482284188075530&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJcxAKisFdkgRvuIHiG7G6d0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "13b Hanover Square, London W1S 1HN, UK",
+    "maps_url": "https://maps.google.com/?cid=15990530129986577086&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJHyZGyOyt2EcR1YJDm-nBgWA": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "77a High St, Sidcup DA14 6DW, UK",
+    "maps_url": "https://maps.google.com/?cid=6954052508713190101&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ4W96EYUCdkgRDXg4AwkWdHc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "54 Greenwich Church St, London SE10 9BL, UK",
+    "maps_url": "https://maps.google.com/?cid=8607529015776409613&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJzWZY728CdkgRpG2eycmCakg": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Molesworth St, London SE13 7HB, UK",
+    "maps_url": "https://maps.google.com/?cid=5218126921444781476&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJRTQ9fOMDdkgRUxR8jcbXajE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "263d New Cross Rd, London SE14 5UQ, UK",
+    "maps_url": "https://maps.google.com/?cid=3560895703167013971&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJKdW8oJoDdkgRRsFuuLThTwg": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "80 Dog Kennel Hill, London SE22 8AA, UK",
+    "maps_url": "https://maps.google.com/?cid=598945441768194374&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJoc1TJhCx2EcRd0F9OOZna50": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Bluewater Shopping Centre, Bluewater Pkwy, Dartford, Greenhithe DA9 9SS, UK",
+    "maps_url": "https://maps.google.com/?cid=11343274324950598007&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJW-yN3lKp2EcRWpPAcXzWRGs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "264 Bugsby's Wy, London SE7 7SR, UK",
+    "maps_url": "https://maps.google.com/?cid=7729538690447348570&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJcZcPQuWv2EcRklptJcVc_pU": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Norman Park, London DA17 6FD, UK",
+    "maps_url": "https://maps.google.com/?cid=10808178157542005394&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJX3CsvKqp2EcRh88XtfxhJ9A": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "9 Pegler Square, London SE3 9FW, UK",
+    "maps_url": "https://maps.google.com/?cid=14999064821978615687&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJp3irWHGv2EcRjREv0qhdqQU": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "3 Roman Way, Dartford DA1 4BH, UK",
+    "maps_url": "https://maps.google.com/?cid=407960220915929485&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJr3Jb6Kyp2EcR5NprwDy9i_I": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "23 Major Draper St, Royal Arsenal, London SE18 6ZF, UK",
+    "maps_url": "https://maps.google.com/?cid=17477270847565322980&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJj_JSgm9H30cRhFic2RU1QIs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Longfield Rd, Royal Tunbridge Wells, Tunbridge Wells TN2 3EW, UK",
+    "maps_url": "https://maps.google.com/?cid=10034078337742952580&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJr4Ot6xim2EcRFG0W5WTWeYo": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Claps Gate Ln, London E6 6LG, UK",
+    "maps_url": "https://maps.google.com/?cid=9978242178244570388&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ8V7PQl5F30cRS_ZyreCYs7E": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "85 Mount Pleasant Rd, Royal Tunbridge Wells, Tunbridge Wells TN1 1PX, UK",
+    "maps_url": "https://maps.google.com/?cid=12804746256294540875&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJV81jcg6x2EcRD-U4HIQGeQc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Westgate Rd, Dartford DA1 1EG, UK",
+    "maps_url": "https://maps.google.com/?cid=538468794926425359&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJyYN7CExP30cRpd7kkRnIsEQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "82a High St, Tonbridge TN9 1EE, UK",
+    "maps_url": "https://maps.google.com/?cid=4949676002627608229&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJw7YHVxyo2EcRIG2Vh7eXNN0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Peninsula Square, London SE10 0BB, UK",
+    "maps_url": "https://maps.google.com/?cid=15939531795680554272&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJNfJno16u2EcRquHL65AUGI4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "The Mall, Arnsberg Way, Bexleyheath DA6 7JN, UK",
+    "maps_url": "https://maps.google.com/?cid=10238956365490676138&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJN37aBWIddkgRT3EEhvCCyPI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Montfichet Rd, London E20 1EJ, UK",
+    "maps_url": "https://maps.google.com/?cid=17494376722072891727&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJaT-R9W6o2EcRSvDjYfrn94s": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks UK",
+    "address": "5 Halyard Place, London E16 2TH, UK",
+    "maps_url": "https://maps.google.com/?cid=10085784953089683530&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ627bUVCx2EcRuGXZXUg1YLI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Bluewater Shopping Centre, The Village Cres, Dartford, Greenhithe DA9 9SS, UK",
+    "maps_url": "https://maps.google.com/?cid=12853331921443841464&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJMxz2sk0DdkgR15W2SByeqYY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "3 Tower Place, London EC3R 5BT, UK",
+    "maps_url": "https://maps.google.com/?cid=9703460716462642647&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJfxWzfLACdkgR2yzBWJloG90": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "2 Churchill Pl, Canary Wharf Estate, London E14 5RB, UK",
+    "maps_url": "https://maps.google.com/?cid=15932443114581601499&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJEdO87a4EdkgRxF1CCp0AKVI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "54 Tooley St, London SE1 9SP, UK",
+    "maps_url": "https://maps.google.com/?cid=5920263859637214660&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJB8RicQBH30cRxIje53dl0dg": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Royal Tunbridge Wells, Tunbridge Wells TN2 3EW, UK",
+    "maps_url": "https://maps.google.com/?cid=15623380147990595780&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJv42JH9ax2EcRcaVvXUZ1IoQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "8 Weston Ave, West Thurrock, Grays RM20 3LP, UK",
+    "maps_url": "https://maps.google.com/?cid=9521301507290408305&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJnRM1pQPN2EcRze4P9OB4QEo": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Dock Head Rd, St Mary's Island, Chatham ME4 4ZJ, UK",
+    "maps_url": "https://maps.google.com/?cid=5350409264878841549&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ11vrKARF30cRKB3dAvfoZOs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "Linden Park Rd, Royal Tunbridge Wells, Tunbridge Wells TN2 5QL, UK",
+    "maps_url": "https://maps.google.com/?cid=16961938244186742056&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJs0liI86p2EcRj0-82kxLwoM": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Silvertown Way, London E16 1GW, UK",
+    "maps_url": "https://maps.google.com/?cid=9494233757909798799&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJgZoc1BS32EcRG4Qkkxl8oY8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "1 King St, Gravesend DA11 0AA, UK",
+    "maps_url": "https://maps.google.com/?cid=10349689867958780955&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ_fuFSDAy30cRFwUkYrqoqqY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "King St, Maidstone ME14 1DJ, UK",
+    "maps_url": "https://maps.google.com/?cid=12009596874800760087&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJXU8zS1zM2EcRmkUyRmuYO0U": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Strood Retail Park, Commercial Rd, Rochester ME2 2AD, UK",
+    "maps_url": "https://maps.google.com/?cid=4988748598749578650&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJHYn0EFIy30cRaFhH-SzEquo": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Forstal Rd, Maidstone ME14 3AQ, UK",
+    "maps_url": "https://maps.google.com/?cid=16909543448355756136&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ5fWLcTO32EcRPO2_CAlVPaA": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "W Thurrock Way, West Thurrock, Grays RM20 2ZF, UK",
+    "maps_url": "https://maps.google.com/?cid=11546478516937682236&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJQ-BG8d8CdkgRYQ3YLxTarQE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "13-15 Surrey Quays Rd, London SE16 7LL, UK",
+    "maps_url": "https://maps.google.com/?cid=120992545245760865&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ3yI0iHfN2EcRgGoLPE9uNJ8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Railway St, Chatham ME4 6PN, UK",
+    "maps_url": "https://maps.google.com/?cid=11471915437408348800&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJzzpOm7-42EcRjGNJhKXsmGM": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks East Horndon",
+    "address": "A127, West Horndon, Brentwood CM13 3LL, UK",
+    "maps_url": "https://maps.google.com/?cid=7176746201848046476&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1y7MQKin2EcREyg-2ZbD6Ew": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "37 Station Parade, Barking IG11 8EB, UK",
+    "maps_url": "https://maps.google.com/?cid=5541894394136635411&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJEd8EwYqm2EcRJjyogO7SWAw": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "88 High Rd, Ilford IG1 1DN, UK",
+    "maps_url": "https://maps.google.com/?cid=889692848208231462&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJm7KuSMIz30cRf9nI7rHNpwo": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Orida Hotels",
+    "address": "Hilton Maidstone Hotel, Bearsted Rd, Weavering, Maidstone ME14 5AA, UK",
+    "maps_url": "https://maps.google.com/?cid=767808425589004671&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJn6EbGACp2EcReqtgusBDKrI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "19 Atlantis Ave, London E16 2BF, UK",
+    "maps_url": "https://maps.google.com/?cid=12838148182812699514&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJEUiGDoKl2EcRteWqbazUbtM": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Heathway, Dagenham RM10 8RE, UK",
+    "maps_url": "https://maps.google.com/?cid=15235348426480346549&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJFXBMSom32EcRQyOP3KjBdpA": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "W Thurrock Way, West Thurrock, Grays RM20 2ZQ, UK",
+    "maps_url": "https://maps.google.com/?cid=10409720519712514883&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ_-57xFnF2EcRVQaCbnLSCeU": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Northwick Rd, Canvey Island SS8 0PT, UK",
+    "maps_url": "https://maps.google.com/?cid=16503953698398013013&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJM9Vfjxu72EcR3vQ-VCXhB3I": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "142 High St, Hornchurch RM12 6QX, UK",
+    "maps_url": "https://maps.google.com/?cid=8216783595604210910&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJRZKuCMxtdkgRkJshlBNyg6Q": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "8 Uxbridge Rd, Uxbridge UB10 0LG, UK",
+    "maps_url": "https://maps.google.com/?cid=11854444072584453008&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJbXQRXSkMdkgRH-ftofczHsQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Lower Richmond Rd., Richmond TW9 4LT, UK",
+    "maps_url": "https://maps.google.com/?cid=14131789819401856799&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJVVVVVdANdkgRM1T5lA_Y7m4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Station Parade, Richmond TW9 3PS, UK",
+    "maps_url": "https://maps.google.com/?cid=7993563950064686131&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJP83lzskadkgRAyY18YdlZs0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Marylebone Railway Station, Melcombe Pl, London NW1 6JJ, UK",
+    "maps_url": "https://maps.google.com/?cid=14800628859941496323&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJH1jmO34PdkgRnLzJm4t8imU": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "1 Ariel Way, London W12 7GE, UK",
+    "maps_url": "https://maps.google.com/?cid=7316797483672779932&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ9bJrP60FdkgRgl2bqKlf2YY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "40-42 Old Town, London SW4 0LB, UK",
+    "maps_url": "https://maps.google.com/?cid=9716902853311421826&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJieg4jJwFdkgRH3Dx-9xNgCs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "St John's Hl, London SW11 2LJ, UK",
+    "maps_url": "https://maps.google.com/?cid=3134590952164913183&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1f7JlxQedkgRG53PVvZujIc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "26 Edgware Rd, London W2 2EH, UK",
+    "maps_url": "https://maps.google.com/?cid=9767303696157220123&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ-_AfxbkEdkgR9UBzTKovySM": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "12 A Mepham St, London SE1 8SE, UK",
+    "maps_url": "https://maps.google.com/?cid=2578644670119887093&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ7SYYrjMbdkgRQaspwYJikW0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "51 Great Russell St, London WC1B 3BA, UK",
+    "maps_url": "https://maps.google.com/?cid=7895199935483194177&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJh9hab_AEdkgRjZbPK5uniH0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "62 Wandsworth Rd, Nine Elms, London SW8 2LF, UK",
+    "maps_url": "https://maps.google.com/?cid=9045664136470435469&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJFyZe1koEdkgRkDdyZ6_rke8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "202/204 Clapham High St, London SW4 7UD, UK",
+    "maps_url": "https://maps.google.com/?cid=17262837985275164560&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJz_MKOcAFdkgR5jFQu2lSYeE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee, Platform 16",
+    "address": "Victoria Railway Station, London SW1V 1JU, UK",
+    "maps_url": "https://maps.google.com/?cid=16240352345342357990&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ_5VWmVgDdkgRluknrNBYU84": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "223-227 Borough High St, London SE1 1JD, UK",
+    "maps_url": "https://maps.google.com/?cid=14867324448144877974&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1Vt0FoUCdkgRplSmdBRz_mw": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Starbucks Coffee, 54-56 Greenwich Church St, London SE10 9BL, UK",
+    "maps_url": "https://maps.google.com/?cid=7853841331874321574&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJAQ74PYUCdkgRNcrnEvoXcqE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Starbucks Coffee, 56 Greenwich Church St, London SE10 9HY, UK",
+    "maps_url": "https://maps.google.com/?cid=11633387150277855797&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJa9jhFYUCdkgR-0K09woPgj4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Starbucks Coffee, 52 Greenwich Church St, London SE10 9BL, UK",
+    "maps_url": "https://maps.google.com/?cid=4504179117103792891&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJkdx3cHOo2EcRQdxk2b1UdQE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "2 Western Gateway, London E16 1DR, UK",
+    "maps_url": "https://maps.google.com/?cid=105083340685892673&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJiW0c7y8ddkgRLf24pq6EFL8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "389 Mile End Rd, Bow, London E3 4PL, UK",
+    "maps_url": "https://maps.google.com/?cid=13768775846434766125&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ19smMGCn2EcRS6WJguHbHxg": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "Myrtle Rd, London E6 1HY, UK",
+    "maps_url": "https://maps.google.com/?cid=1738349742792484171&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJn7yOgJrG2EcRjU1dg1uEiZs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "49 Eastgate Centre, Basildon SS14 1EB, UK",
+    "maps_url": "https://maps.google.com/?cid=11207634676269010317&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJM5LtTAB7dkgRrz9xjcNwXf8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "Uxbridge Rd, Slough SL1 1SU, UK",
+    "maps_url": "https://maps.google.com/?cid=18400987637699657647&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJbcpVz_QNdkgRFESXspJUYX4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "11-12 The Grn, London W5 5DA, UK",
+    "maps_url": "https://maps.google.com/?cid=9106652910558069780&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJt2xnf44TdkgRDiYThlPw8LE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "The Broadway, London W5 2NT, UK",
+    "maps_url": "https://maps.google.com/?cid=12822012380646155790&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ0fsVnsETdkgRNSWq5wgV554": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Unit G, 5 Tillermans Court Grenan Square, Greenford UB6 0FN, UK",
+    "maps_url": "https://maps.google.com/?cid=11450143705603384629&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJyc3-ZgsOdkgR9cCha4ZKtK0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "5 Chiswick Park, Chiswick, London W4 5YA, UK",
+    "maps_url": "https://maps.google.com/?cid=12516711205561286901&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJp5SLjPwPdkgRYcO8rRgsfYQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Unit 36, 36 Hammersmith Broadway, London W6 9YE, UK",
+    "maps_url": "https://maps.google.com/?cid=9546835269600985953&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ_3A7PbYPdkgROYvt2bHAxUs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "71 King St, London W6 9HY, UK",
+    "maps_url": "https://maps.google.com/?cid=5459981993354562361&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJdzkLYQPdkgRwMcQvaE8pGw": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Fulham Rd., London SW6 1BY, UK",
+    "maps_url": "https://maps.google.com/?cid=7828448717636159424&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJDa-74XcPdkgRtOfRS2zyAi4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "44 New Kings Rd, London SW6 4LS, UK",
+    "maps_url": "https://maps.google.com/?cid=3315478822640543668&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJkycPpYwPdkgRfkc2WJ8GCM8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "203 Earls Ct Rd, London SW5 9AN, UK",
+    "maps_url": "https://maps.google.com/?cid=14918181047114286974&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJaUtvpGQFdkgR9YR-kh36Ky4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "369 Fulham Rd., London SW10 9TR, UK",
+    "maps_url": "https://maps.google.com/?cid=3327027754662003957&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJV6DnpL4FdkgRvV8hpLIoEw4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee, Platform 5 & 6",
+    "address": "Platform 5&6, Clapham Junction Station, London SW11 2LJ, UK",
+    "maps_url": "https://maps.google.com/?cid=1014199088811433917&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJWU-_62cFdkgR7cUKCfeMZck": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "19 Old Brompton Rd, South Kensington, London SW7 3HZ, UK",
+    "maps_url": "https://maps.google.com/?cid=14512160366907803117&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJb32pCF4FdkgRWXgxFbqHYwE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "83 Gloucester Rd, South Kensington, London SW7 4SS, UK",
+    "maps_url": "https://maps.google.com/?cid=100072850021513305&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJMxz2sk0DdkgRIWdn2c5P_Y0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "48 Minories, London EC3N 1JJ, UK",
+    "maps_url": "https://maps.google.com/?cid=10231421678284924705&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJebAv8MocdkgR1JZZsTPawJo": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "45 Whitechapel Rd, London E1 1DU, UK",
+    "maps_url": "https://maps.google.com/?cid=11151152592922973908&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJIfz9mbkCdkgRAEEOAWYw6Uc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "25 Bank St, Canary Wharf Estate, London E14 5JP, UK",
+    "maps_url": "https://maps.google.com/?cid=5181726060928975104&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ11tYo8mk2EcRh1GLYscUSfM": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "1, 15 The Brewery Walk, Romford RM1 1AU, UK",
+    "maps_url": "https://maps.google.com/?cid=17530565871100711303&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJvyP0mELH2EcR0yDV4rBQSg4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "Miles Gray Rd, Basildon SS14 3AF, UK",
+    "maps_url": "https://maps.google.com/?cid=1029724185457664211&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJSXgSMt5sdkgR4QqYiEK5mfQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Victoria Rd, London HA4 0EJ, UK",
+    "maps_url": "https://maps.google.com/?cid=17625322312101792481&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ80LypP4NdkgRt9fvF9c_UIA": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "433 Uxbridge Rd, London W5 3NT, UK",
+    "maps_url": "https://maps.google.com/?cid=9245960228043741111&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ98Z5tnMTdkgReQaSJTplnuI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Kymberley Rd, Harrow HA1 1HS, UK",
+    "maps_url": "https://maps.google.com/?cid=16329600599304832633&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJWTPp77IRdkgRo7W-1Qbc3wo": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Olympic Way, Wembley Park, Wembley HA9 0FR, UK",
+    "maps_url": "https://maps.google.com/?cid=783586782099715491&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJw171bbgPdkgRVQdaKm7qcbA": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "200 Hammersmith Rd, London W6 7DL, UK",
+    "maps_url": "https://maps.google.com/?cid=12714200981921466197&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJHaWfewAPdkgRAetAJ-fyOno": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks cafe",
+    "address": "17a Scarsdale Pl, London W8 5SY, UK",
+    "maps_url": "https://maps.google.com/?cid=8807619095886359297&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJrWezwF4FdkgRi9yEi1h_GNM": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "27 Gloucester Rd, South Kensington, London SW7 4PL, UK",
+    "maps_url": "https://maps.google.com/?cid=15211047759718440075&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJZRuAjWYFdkgRVje8yLHvYBs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "15 Victoria St, London SW1V 1JU, UK",
+    "maps_url": "https://maps.google.com/?cid=1972840183644305238&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ7dEiZQAFdkgRL4JP8ZM-Nes": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "17 Casson Sq, London SE1 7BQ, UK",
+    "maps_url": "https://maps.google.com/?cid=16948521577808364079&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJXyJlgSQbdkgRY0m_LF0SS08": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "The Mezzanine Floor, Starbucks, Euston Station, London NW1 2DU, UK",
+    "maps_url": "https://maps.google.com/?cid=5713680743641598307&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ40SMErIcdkgROBtm2FCu4NE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "100 Liverpool St, London EC2M 7PP, UK",
+    "maps_url": "https://maps.google.com/?cid=15123279210961312568&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJff50rlADdkgRADS_pDh2fsQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "32 London Bridge St, London SE1 9SG, UK",
+    "maps_url": "https://maps.google.com/?cid=14158884264153658368&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJGVo7YbcCdkgRzfyulW9hMMU": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "1 Canada Square, Canary Wharf Estate, Jubilee E14 5AB, UK",
+    "maps_url": "https://maps.google.com/?cid=14208963956234452173&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJRexe8LWk2EcR8x_SCEboEwA": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "11 Western Rd, Romford RM1 3RL, UK",
+    "maps_url": "https://maps.google.com/?cid=5603412050845683&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ16_Urs2w2EcRTKPqIrbbW00": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Cafe Area",
+    "address": "Starbucks Cafe Area, West Thurrock, Grays RM20 1WN, UK",
+    "maps_url": "https://maps.google.com/?cid=5574290539117454156&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJp6L_jJW-2EcROMFVaHpvG8I": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "36B High St, Brentwood CM14 4AJ, UK",
+    "maps_url": "https://maps.google.com/?cid=13986895639256351032&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJm67_vhPH2EcRXolWPdVZKh0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Festival Way, Basildon SS14 3WB, UK",
+    "maps_url": "https://maps.google.com/?cid=2101590948513745246&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJyyvBfr1mdkgRPs6vdoiHNEc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Maxwell Rd, Beaconsfield HP9 1QH, UK",
+    "maps_url": "https://maps.google.com/?cid=5130874895658372670&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ07zBFJNhdkgR0JQIwOLGQgQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "300 London Rd, High Wycombe HP11 1LJ, UK",
+    "maps_url": "https://maps.google.com/?cid=307026401801311440&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1TWtu6ZrdkgR_Mw_543N3Ks": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "146 High St, Rickmansworth WD3 1AR, UK",
+    "maps_url": "https://maps.google.com/?cid=12383999084715822332&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJY0V8nKtsdkgR_lmXaIJHjZk": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "19 High St, Pinner HA5 5PJ, UK",
+    "maps_url": "https://maps.google.com/?cid=11064578484945246718&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ9zXBzn8RdkgRY_Q5iQzWOVo": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Engineers Way, Wembley Park, Wembley HA9 0FJ, UK",
+    "maps_url": "https://maps.google.com/?cid=6501462886416249955&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJeTDUs9IPdkgRzCN-b8YDGv0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "201 Wood Ln, London W12 7TU, UK",
+    "maps_url": "https://maps.google.com/?cid=18237893791799190476&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJoQGb71UFdkgRqXoKr4KUick": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "49 Queensway, London W2 4QH, UK",
+    "maps_url": "https://maps.google.com/?cid=14522301762436233897&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJTZ98odkPdkgRjArWU3N7ib4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Unit 2230, Westfield, 1 Ariel Way, London W1U 3QF, UK",
+    "maps_url": "https://maps.google.com/?cid=13729640674273659532&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJxbMjNXMOdkgREs85nOEM0JI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Kiosk",
+    "address": "578-586 Chiswick High Rd., Chiswick, London W4 5RP, UK",
+    "maps_url": "https://maps.google.com/?cid=10578969687821504274&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ6c6Jdx4QdkgRAHsmKueikWA": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "227 Portobello Rd, London W11 1LT, UK",
+    "maps_url": "https://maps.google.com/?cid=6958522012992436992&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJM2jO1fcPdkgRnAf3qbL_PBA": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "25a Kensington High St, London W8 5NP, UK",
+    "maps_url": "https://maps.google.com/?cid=1170091146030286748&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ5eIc6jgFdkgRNETkwOLAAYA": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "44-48 Brompton Rd, London SW3 1BW, UK",
+    "maps_url": "https://maps.google.com/?cid=9223865591962813492&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJI69sCTkFdkgR7EiMreIXjHs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "New Retail Unit, London SW3 1ED, UK",
+    "maps_url": "https://maps.google.com/?cid=8902516825746327788&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJoQGb71UFdkgRNPFB472i_WQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "26 Pembridge Rd, Notting Hill Gate, London W11 3HL, UK",
+    "maps_url": "https://maps.google.com/?cid=7277151509345857844&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ8TvSbe8FdkgRFq_dAVHXpRQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Buckingham Palace Rd, London SW1V 1JT, UK",
+    "maps_url": "https://maps.google.com/?cid=1487831994839445270&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJjZ2ZTd0EdkgRKrBWmdJxsPU": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "17 Broadway, London SW1H 0AZ, UK",
+    "maps_url": "https://maps.google.com/?cid=17703775284523085866&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJqVQSio0bdkgRpKOrjH19AFc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "14 Milner Place, London SE1 7PE, UK",
+    "maps_url": "https://maps.google.com/?cid=6269148659484173220&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJgYSwfLIcdkgRrdntyKT33bo": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "59 Broadgate Link, London EC2M 7PY, UK",
+    "maps_url": "https://maps.google.com/?cid=13465190748025379245&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJuY8xpYsDdkgRl9JaQIOo0CM": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "62 Threadneedle St, London EC2R 8HP, UK",
+    "maps_url": "https://maps.google.com/?cid=2580747868157170327&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJQdrBoqkEdkgRRRwgRsB6PL4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "New Globe Walk, London SE1 9DS, UK",
+    "maps_url": "https://maps.google.com/?cid=13707966332037766213&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJmZbOrFQbdkgRNKceSex7eD4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "1 Paternoster Row, London EC4M 7DX, UK",
+    "maps_url": "https://maps.google.com/?cid=4501484082326054708&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJ9HYxLkEdkgRMSNTGBfqRnc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "30 New Bridge St, London EC4V 6BJ, UK",
+    "maps_url": "https://maps.google.com/?cid=8594814323796419377&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1_vw0aoEdkgROKSDXt5ep74": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "143-144 Cheapside, London EC2V 6BJ, UK",
+    "maps_url": "https://maps.google.com/?cid=13738053497478423608&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJ9HYxLkEdkgR27ltqHIoSlY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "10 Russell St, London WC2B 5HZ, UK",
+    "maps_url": "https://maps.google.com/?cid=6217826708455537115&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1bJoaBIDdkgRq2iG9jElKtE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "2a Eastcheap, London EC3M 1BN, UK",
+    "maps_url": "https://maps.google.com/?cid=15071899999468415147&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJI7SLf1QDdkgROMoNneNXwSw": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "87 King William St, London EC4N 7BJ, UK",
+    "maps_url": "https://maps.google.com/?cid=3224955443278105144&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJfQN-H9QEdkgRAjvDSM9i_4s": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "170 Wardour St, London W1V 4LA, UK",
+    "maps_url": "https://maps.google.com/?cid=10087890332751706882&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJoUYci7IcdkgRwLa11zWQpRM": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "11 Leadenhall St, London EC3V 1LP, UK",
+    "maps_url": "https://maps.google.com/?cid=1415696218804565696&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJoUYci7IcdkgR1Pgj0Ytjr10": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "120 Moorgate, London EC2M 6UR, UK",
+    "maps_url": "https://maps.google.com/?cid=6750723818612062420&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJnVtJ91QDdkgRfO18kkTeA0w": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "38 Walbrook, London EC4N 8BN, UK",
+    "maps_url": "https://maps.google.com/?cid=5477465957909458300&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJoUYci7IcdkgRrpr8B2BmCuM": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "104 City Rd, London EC1V 2NR, UK",
+    "maps_url": "https://maps.google.com/?cid=16360001159013636782&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ3b2wgGMddkgR1KhhO3fPhRo": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Montfichet Rd, London E20 1EJ, UK",
+    "maps_url": "https://maps.google.com/?cid=1911161727892957396&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJP1hYTddhdkgRk4H8oJLNJe4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Newland St, High Wycombe HP11 2DQ, UK",
+    "maps_url": "https://maps.google.com/?cid=17160347984814965139&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ2UwFZSZtdkgRK3ut0C24Cmo": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Cafe",
+    "address": "Brunel Business School, Kingston Ln, Uxbridge UB8 3PH, UK",
+    "maps_url": "https://maps.google.com/?cid=7641122224701537067&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJjW0oYcFqdkgRcPKszunJMIA": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "34 High St, Watford WD17 1ED, UK",
+    "maps_url": "https://maps.google.com/?cid=9237104841768890992&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ5YLh-MOJdkgR_irXAPd7A_o": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "60 High St, Marlow SL7 1AH, UK",
+    "maps_url": "https://maps.google.com/?cid=18015379235213355774&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJv1eXs8VqdkgRoaOggKBlNGs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "12 Lower Mall, Watford WD17 2TB, UK",
+    "maps_url": "https://maps.google.com/?cid=7724911000874427297&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJQ8K6IqQWdkgRTMQEXUCCZUY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "83 Station Rd, Edgware HA8 7JG, UK",
+    "maps_url": "https://maps.google.com/?cid=5072603768252843084&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJ0HaUhMQdkgRQO05wqNadao": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "89 Salusbury Rd, London NW6 6NN, UK",
+    "maps_url": "https://maps.google.com/?cid=12282823218107641152&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJa2GqMacadkgRfl62bVg9JMw": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "168-170 Randolph Ave., London W9 1PE, UK",
+    "maps_url": "https://maps.google.com/?cid=14709949732905967230&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJq3PDx41-dkgRyXmyEoqrLTE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Heathrow Express Area, Praed St, London W2 1AE, UK",
+    "maps_url": "https://maps.google.com/?cid=3543677091317971401&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJdS5LLC0FdkgRNTRE3ggn_U0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "14 James St, London W1U 1EF, UK",
+    "maps_url": "https://maps.google.com/?cid=5619690829070480437&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJG2-uP7QadkgR6sN3Fcgg2X0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "207 Edgware Rd, Tyburnia, London W2 1ES, UK",
+    "maps_url": "https://maps.google.com/?cid=9068315368412922858&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ6b5zzdQEdkgRMprvvudppfQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "34 Great Marlborough St, Carnaby, London W1F 7JD, UK",
+    "maps_url": "https://maps.google.com/?cid=17628612760473410098&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJ9HYxLkEdkgR-ApI64rkYzo": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "7 Borough High St, London SE1 9SU, UK",
+    "maps_url": "https://maps.google.com/?cid=4207457762198162168&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJ9HYxLkEdkgRVWRlYhPKCPg": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "3 Fleet Pl, London EC4M 7RA, UK",
+    "maps_url": "https://maps.google.com/?cid=17872757305823814741&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJW_WL4K0cdkgRKGYMX45upYE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "31-33 Sun St, London EC2M 2PY, UK",
+    "maps_url": "https://maps.google.com/?cid=9341994559809021480&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJK_jzh1EbdkgRl7_nf7nItoQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Cowcross St, London EC1M 6DQ, UK",
+    "maps_url": "https://maps.google.com/?cid=9563051557808226199&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJdDpX7UEdkgRmu_ox6Q9-a4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "St. Katherine's House, 10 Kingsway, London WC2B 6LH, UK",
+    "maps_url": "https://maps.google.com/?cid=12608176409738276762&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJrS_ysEsbdkgROL1qTVSQSpg": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "262 High Holborn, London WC1V 7EZ, UK",
+    "maps_url": "https://maps.google.com/?cid=10973742133792128312&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJu4IXTgAbdkgRNsPrbHisWlo": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "3 Soho Pl, London W1D 3BG, UK",
+    "maps_url": "https://maps.google.com/?cid=6510705844540916534&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ5f3pCTAbdkgRcyP4yn3fMOI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Lynton House, Tavistock Square, London WC1H 9LT, UK",
+    "maps_url": "https://maps.google.com/?cid=16298772782822990707&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJlaOKszAbdkgRL6I_FTnzGJI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "The Brunswick Brunswick Centre, London WC1N 1AW, UK",
+    "maps_url": "https://maps.google.com/?cid=10527431555473711663&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJNdJ-rT4bdkgRl_bU7HyLIUs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks, London Kings Cross Station",
+    "address": "Euston Rd., London N1 9AL, UK",
+    "maps_url": "https://maps.google.com/?cid=5413761595741632151&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJdRjmLikbdkgRfFYvyI4FI8s": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "175 Tottenham Ct Rd, London W1T 7NU, UK",
+    "maps_url": "https://maps.google.com/?cid=14637549324686284412&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJpykwpFCn2EcRyW0gO1kcx1s": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "George Ln, London E18 1AN, UK",
+    "maps_url": "https://maps.google.com/?cid=6613285747386510793&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJj7i2PmM9dkgRGQqeU-zye4U": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "23 M25 Bignells Corner, Hertforshire EN6 3QQ, UK",
+    "maps_url": "https://maps.google.com/?cid=9618548526008896025&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ9aE6Ipw_dkgRjM233jhD4sY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Chiswell Green, St Albans AL2 2AB, UK",
+    "maps_url": "https://maps.google.com/?cid=14331090875780156812&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ3Rc3PuRddkgRcA-frRr0dsI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "37 High St, Chesham HP5 1BW, UK",
+    "maps_url": "https://maps.google.com/?cid=14012655686029086576&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJZ45HO7dBdkgRTQMMTVXlr7E": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "N Orbital Rd, Watford WD25 7JZ, UK",
+    "maps_url": "https://maps.google.com/?cid=12803704420165223245&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJf4dH60oUdkgRALt3lfqcLE0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Centennial Ave, Elstree, Borehamwood WD6 3SY, UK",
+    "maps_url": "https://maps.google.com/?cid=5560992239959128832&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJ7rNul9BdkgRtCa1Mi9qbcg": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "7 Riverside, Hemel Hempstead HP1 1BT, UK",
+    "maps_url": "https://maps.google.com/?cid=14442316330993788596&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJe_tRJ6MVdkgRyqAYu6cJdvo": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "The Hive London, Camrose Ave, Edgware HA8 6AG, UK",
+    "maps_url": "https://maps.google.com/?cid=18047623172736983242&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJAZdzwpsQdkgRh595Ub5GwRU": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "7, 9 Golders Green Rd, London NW11 8DY, UK",
+    "maps_url": "https://maps.google.com/?cid=1567611928526299015&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJh5ouw4g3dkgRQhLmOR3UPuU": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Airport Approach Rd, Luton, London LU2 9LY, UK",
+    "maps_url": "https://maps.google.com/?cid=16518873705232077378&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ6XBfIOYZdkgRbIb5GLjEVz0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "The Torrington Public House, 811 High Rd, London N12 8JR, UK",
+    "maps_url": "https://maps.google.com/?cid=4420217854259463788&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ9yuzR5obdkgR4CnY-taf5UM": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "239 Finchley Rd, London NW3 6LS, UK",
+    "maps_url": "https://maps.google.com/?cid=4892492315888200160&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ9eS6SngQdkgRni7KTRkSqJg": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "201A W End Ln, London NW6 2LJ, UK",
+    "maps_url": "https://maps.google.com/?cid=11000061989741014686&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ-dwWJ4sadkgRzgRbyozoCq4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "5-7 S End Rd, London NW3 2PT, UK",
+    "maps_url": "https://maps.google.com/?cid=12541091803754595534&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJvb8A0r0adkgRg_I65hkNIU0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "79 St John's Wood High St, London NW8 7NL, UK",
+    "maps_url": "https://maps.google.com/?cid=5557737820039869059&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJr-Y46s4adkgRqUm9-x_njFU": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "126 Baker St, London W1M 1FH, UK",
+    "maps_url": "https://maps.google.com/?cid=6164556114516855209&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ6durchIbdkgRUbMtwUD6WYs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "1, 2 Underground station, London NW1 5LA, UK",
+    "maps_url": "https://maps.google.com/?cid=10041332000225080145&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJlWkhbO0adkgR7K-LgUrH8j0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "57 England's Ln, Belsize Park, London NW3 4YD, UK",
+    "maps_url": "https://maps.google.com/?cid=4463849303492505580&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJfZzgXdYadkgRpusOQIiSFGk": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "159 Great Portland St, London W1N 5FD, UK",
+    "maps_url": "https://maps.google.com/?cid=7571837987404573606&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJrZYRG4IbdkgR8Cv8nLdZh58": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Platform 1&2, Baker Street Underground Station, Marylebone Rd, London NW1 5LA, UK",
+    "maps_url": "https://maps.google.com/?cid=11495255219034139632&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJh-FRZK4bdkgRNrwhBC6A_qI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "1 Junction Rd, Archway, London N19 5QT, UK",
+    "maps_url": "https://maps.google.com/?cid=11744965813355002934&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ099IdCgbdkgRqS2Dor1aDC4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Regent's Place, London NW1 3DP, UK",
+    "maps_url": "https://maps.google.com/?cid=3318126795987037609&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJBZy_ImUbdkgR1VPS7rVCalI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "250 Upper St, London N1 1RU, UK",
+    "maps_url": "https://maps.google.com/?cid=5938632407804695509&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJtS0n_pobdkgR5EGpgkHqk_o": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Wells Terrace, Finsbury Park, London N4 3JU, UK",
+    "maps_url": "https://maps.google.com/?cid=18056032898144354788&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJmeK8LQ0bdkgR4PBHOVzcx-I": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "474 Caledonian Rd, London N7 8TB, UK",
+    "maps_url": "https://maps.google.com/?cid=16341272061593252064&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJVf4mKlgbdkgRAIkxgjg6jwU": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "448 Holloway Rd, London N7 6QA, UK",
+    "maps_url": "https://maps.google.com/?cid=400602906236127488&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJx2JVCQAbdkgRNQD6nL6ZDCE": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "arch, 9 2 Station Pl, Finsbury Park, London N4 2DH, UK",
+    "maps_url": "https://maps.google.com/?cid=2381447346928615477&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJRdv9CTMddkgR8wdCs9ep3gQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "1 Ashley Rd, London N17 9LP, UK",
+    "maps_url": "https://maps.google.com/?cid=350904564871989235&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJnTIULgAddkgRxlrqxfT3rLw": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "2 Forest Rd, London E17 6JJ, UK",
+    "maps_url": "https://maps.google.com/?cid=13595514005789235910&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJMz0-X7mY2EcR9dJAobijTNs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "199 High St, Epping CM16 4BL, UK",
+    "maps_url": "https://maps.google.com/?cid=15802185205910917877&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJS1YEStkYdkgRgB5yTz0e_p0": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Starbucks C/o Sainsbury's, 681 Green Lanes, London N21 3RS, UK",
+    "maps_url": "https://maps.google.com/?cid=11384570156713909888&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJnWEIeACZ2EcR5MOoc-Ua1gI": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Drive Thru",
+    "address": "Starbucks Drive-Thru, 6 London Rd, Harlow CM17 9NQ, UK",
+    "maps_url": "https://maps.google.com/?cid=204380405882209252&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJX_IKzdfr2EcRXslxRXNwkTA": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Mall Kiosk High Chelmer SC, Chelmsford CM1 1XB, UK",
+    "maps_url": "https://maps.google.com/?cid=3499702025832221022&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ2Xx5uMvp2EcR94romAeRmMs": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Colchester Rd, Springfield, Chelmsford, Essex CM2 5PG, UK",
+    "maps_url": "https://maps.google.com/?cid=14670635247975566071&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ7YdwfbbrdkgRL0icFybs8EM": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "8a, M40, Oxford OX33 1LJ, UK",
+    "maps_url": "https://maps.google.com/?cid=4895672443300759599&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJu0_3Ry5BdkgR8mJKr-zLrWc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Unit 2 Maylands Ave, Hemel Hempstead HP2 4BE, UK",
+    "maps_url": "https://maps.google.com/?cid=7470851574291129074&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJk77LTUBBdkgR-s76ykDs0ko": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Jarman square, Jarman Way, Hemel Hempstead HP2 4JW, UK",
+    "maps_url": "https://maps.google.com/?cid=5391631466943401722&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ2_gefGxDdkgR_71I7YHBA0M": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "200 High St, Berkhamsted HP4 3AP, UK",
+    "maps_url": "https://maps.google.com/?cid=4828915989247213055&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ_3Dc-_b3dkgR67Xu6NogkLc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Aylesbury - Bicester Rd DT",
+    "address": "100 Sir Henry Lee Cres, Aylesbury HP18 0YR, UK",
+    "maps_url": "https://maps.google.com/?cid=13227108230170064363&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJSyRReXjtdkgRxbHQpRaXPyM": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Thame Rd, Thame OX9 3SB, UK",
+    "maps_url": "https://maps.google.com/?cid=2539914838387241413&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJG0jfbXEWdkgR3J4xpkwjj4g": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Shenley Rd, Borehamwood WD6 1AE, UK",
+    "maps_url": "https://maps.google.com/?cid=9840122522940579548&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJjQP9jo0WdkgRz0pr-BmedLc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "2-4 Mill Hill, London NW7 3HU, UK",
+    "maps_url": "https://maps.google.com/?cid=13219364640618400463&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJl-3h8C49dkgRLcWd4LwBUsY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "23 Bignells Corner, Potters Bar EN6 3QQ, UK",
+    "maps_url": "https://maps.google.com/?cid=14290486478333920557&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJn6H6WWwZdkgR5y_sAA6C-5Q": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "8A Station Rd, Arnos Grove, London N11 1FR, UK",
+    "maps_url": "https://maps.google.com/?cid=10735317133424340967&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ3-T5GjAfdkgRRwNeq77Q_Jw": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "7 Church St, Enfield EN2 6AF, UK",
+    "maps_url": "https://maps.google.com/?cid=11312145881385272135&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJtwQ6YCgbdkgRF-rsZ8YlZBw": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "5 Warren St, London W1T 5LA, UK",
+    "maps_url": "https://maps.google.com/?cid=2045801664810379799&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJN704aPib2EcRJ-2XMIL4asM": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Harvey Centre Approach, Harlow CM20 1XR, UK",
+    "maps_url": "https://maps.google.com/?cid=14081340422971976999&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJtVrXu7aZ2EcRBSJzzrtelpU": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "Potter St, Harlow CM17 9NG, UK",
+    "maps_url": "https://maps.google.com/?cid=10778906918873408005&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJAXrf2VAgdkgR7MpXouFmsWo": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Unit 1, Brookfield Centre, Cheshunt, Waltham Cross EN8 0PZ, UK",
+    "maps_url": "https://maps.google.com/?cid=7688039158175484652&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJa5RfQgCd2EcRD2Laice09VA": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "Fifth, Allende Ave, Harlow CM20 2AG, UK",
+    "maps_url": "https://maps.google.com/?cid=5833767661432627727&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJT3_7o3Y3dkgRioXlply2xqY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee, LTN Airside",
+    "address": "Unit 23, Departure Lounge, London Luton Airport, Luton LU2 9LY, UK",
+    "maps_url": "https://maps.google.com/?cid=12017493164738053514&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1-D6WwA9dkgRWj0lsuUNuX8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "V125, University of Hertfordshire, The Enterprise Hub, De Havilland Campus, Mosquito Way, Hatfield AL10 9EU, UK",
+    "maps_url": "https://maps.google.com/?cid=9203402593695776090&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJpSNo-j1IdkgRuJmwo0jinCQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Gipsy Ln, Luton LU1 3JH, UK",
+    "maps_url": "https://maps.google.com/?cid=2638232283344050616&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJcfx-jyM_dkgRTG1XQ9KPsSY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "11 High St, St Albans AL3 4ED, UK",
+    "maps_url": "https://maps.google.com/?cid=2788167777554754892&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJbamG-chPdkgRnoE7jbwuK7w": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Luton Rd, Dunstable LU5 4LN, UK",
+    "maps_url": "https://maps.google.com/?cid=13558982490487226782&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJndi4HCU7dkgRX9nCFyuU74M": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Osborn Way, Welwyn Garden City AL8 6HA, UK",
+    "maps_url": "https://maps.google.com/?cid=9506980251205556575&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJq4H_gE8hdkgR95TrBcFpiSM": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Brewery Rd, Hoddesdon EN11 8HF, UK",
+    "maps_url": "https://maps.google.com/?cid=2560694140885767415&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJWZ2leEiO2EcREZRY4qw_ots": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "A120 Thremhall Ave, A120, Stansted CM24 1PY, UK",
+    "maps_url": "https://maps.google.com/?cid=15826282052297724945&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJI1IZI56P2EcRlFo2mb17l4c": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Drive Through",
+    "address": "The Welcome Break Services, Dunmow Rd, Bishop's Stortford CM23 5QZ, UK",
+    "maps_url": "https://maps.google.com/?cid=9770413970853091988&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJuZ5exVHY2EcRl90mEywZjlY": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "Greyhound Way, Southend-on-Sea SS2 5PY, UK",
+    "maps_url": "https://maps.google.com/?cid=6236950211045285271&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJadre7PSP2EcRzzIhS3yNsFc": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Dunmow Rd, Bishop's Stortford CM23 5QZ, UK",
+    "maps_url": "https://maps.google.com/?cid=6318705842176733903&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJMckKmEVIdkgRlRH3etPHTwU": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Station Rd, Luton LU1 2LT, UK",
+    "maps_url": "https://maps.google.com/?cid=382744204464820629&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJwTlkv3_3dkgRiTs28Scn5g8": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks",
+    "address": "3a Market Square, Aylesbury HP20 1TA, UK",
+    "maps_url": "https://maps.google.com/?cid=1145646207716440969&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJGyrS4o8xdkgRfTC3GR1iN2g": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Gunnels Wood Rd, Stevenage SG1 2FS, UK",
+    "maps_url": "https://maps.google.com/?cid=7509578780788600957&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJh6nGa383dkgRl8E2RjGd0dA": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks, L/S, LTN Airport",
+    "address": "London Luton Airport, Terminal Bldg, Luton, London LU2 9LY, UK",
+    "maps_url": "https://maps.google.com/?cid=15046980664978489751&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJhRCKQVr3dkgRjeqTYEvADqw": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "90 Gatehouse Rd, Aylesbury HP19 8EH, UK",
+    "maps_url": "https://maps.google.com/?cid=12398058254172940941&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJN-EFKJImdkgRxeMZGVvxO-4": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "12 Bircherley Grn, Hertford SG14 1BN, UK",
+    "maps_url": "https://maps.google.com/?cid=17166579778218222533&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJvyhR0T2F2EcRxNtKsHg4JJA": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "Jacksons Square, Bishop's Stortford CM23 3AB, UK",
+    "maps_url": "https://maps.google.com/?cid=10386488731628133316&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJt_WD_2Tj2EcRfrntOJyqp6Q": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee",
+    "address": "3 A12, Rivenhall End, Witham CM8 3HB, UK",
+    "maps_url": "https://maps.google.com/?cid=11864639331277584766&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJdaIZnRr72EcREyuC6d9Xxak": {
+    "business_status": "OPERATIONAL",
+    "name": "Starbucks Coffee Company",
+    "address": "Galleys Cor, Cressing, Braintree CM77 8GA, UK",
+    "maps_url": "https://maps.google.com/?cid=12233280582028765971&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  }
+}
