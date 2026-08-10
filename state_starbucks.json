@@ -242,7 +242,7 @@
   "ChIJMbTP-W1zdkgRADTWupnmacA": {
     "business_status": "OPERATIONAL",
     "name": "Starbucks Coffee",
-    "address": "Unit 14, The Longford Centre Tilley Rd, Feltham TW13 4BH, UK",
+    "address": "The Longford Centre Tilley Rd, High St, Feltham TW13 4BH, UK",
     "maps_url": "https://maps.google.com/?cid=13864866475775767552&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJsQ0EcxridUgRURLEWUJyJC4": {
@@ -1380,8 +1380,8 @@
     "maps_url": "https://maps.google.com/?cid=2580747868157170327&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJQdrBoqkEdkgRRRwgRsB6PL4": {
-    "business_status": "OPERATIONAL",
-    "name": "Starbucks Coffee",
+    "business_status": "CLOSED_PERMANENTLY",
+    "name": "Starbucks",
     "address": "New Globe Walk, London SE1 9DS, UK",
     "maps_url": "https://maps.google.com/?cid=13707966332037766213&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
