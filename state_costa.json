@@ -576,7 +576,7 @@
     "maps_url": "https://maps.google.com/?cid=12135202658344913227&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJQ7ta2BD-dUgRZ-lfqZ4DOlY": {
-    "business_status": "OPERATIONAL",
+    "business_status": "CLOSED_TEMPORARILY",
     "name": "Costa Coffee",
     "address": "25 Limpsfield Rd, South Croydon CR2 9LA, UK",
     "maps_url": "https://maps.google.com/?cid=6213282615892371815&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
@@ -1159,9 +1159,9 @@
   },
   "ChIJBSjJGwD9dUgRBGdwgXUylbw": {
     "business_status": "OPERATIONAL",
-    "name": "Costa",
-    "address": "946 Brighton Rd, Purley CR8 2LP, UK",
-    "maps_url": "https://maps.google.com/?cid=13588822930924529412&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    "name": "Costa Coffee",
+    "address": "950 Brighton Rd, Purley CR8 2LP, UK",
+    "maps_url": "https://maps.google.com/?cid=7027548917402244426&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJq6q6-XMBdkgRn9_pWNFDjDo": {
     "business_status": "OPERATIONAL",
@@ -2106,7 +2106,7 @@
     "maps_url": "https://maps.google.com/?cid=3730212593224289014&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJ6bG34y8ddkgR6J1wUOqkfgA": {
-    "business_status": "OPERATIONAL",
+    "business_status": "CLOSED_PERMANENTLY",
     "name": "Costa Coffee",
     "address": "556 Mile End Rd, Bow, London E3 4PL, UK",
     "maps_url": "https://maps.google.com/?cid=35647173344402920&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
@@ -2630,7 +2630,7 @@
   "ChIJx5DP3Wa72EcRhIJoa6pMa0k": {
     "business_status": "OPERATIONAL",
     "name": "Costa Coffee",
-    "address": "NEXT, Gallows Corner Retail Park, Colchester Rd, Romford RM3 0AD, UK",
+    "address": "NEXT, Gallows Corner Retail Park, Romford RM3 0AD, UK",
     "maps_url": "https://maps.google.com/?cid=5290406482106942084&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJO7T_mma72EcRVfw9R8LmPiU": {
