@@ -1164,7 +1164,7 @@
     "maps_url": "https://maps.google.com/?cid=7027548917402244426&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJq6q6-XMBdkgRn9_pWNFDjDo": {
-    "business_status": "OPERATIONAL",
+    "business_status": "CLOSED_PERMANENTLY",
     "name": "Costa Coffee",
     "address": "1a, Coleman House, High St, London SE20 7EX, UK",
     "maps_url": "https://maps.google.com/?cid=4218821517358260127&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
@@ -1346,7 +1346,7 @@
   "ChIJ314g8dgFdkgRZtOPrhwIHIY": {
     "business_status": "OPERATIONAL",
     "name": "Costa Coffee",
-    "address": "59-61 Streatham High Rd, London SW16 1PN, UK",
+    "address": "59-61 Streatham High Rd, London SW6 1PN, UK",
     "maps_url": "https://maps.google.com/?cid=9663607819711009638&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJP1VDwskFdkgRXb2iwwsspXE": {
@@ -2952,7 +2952,7 @@
     "maps_url": "https://maps.google.com/?cid=3459267888117011916&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJ-5mDxyEcdkgRMjmevhZskdc": {
-    "business_status": "CLOSED_TEMPORARILY",
+    "business_status": "CLOSED_PERMANENTLY",
     "name": "Costa Coffee",
     "address": "549 High Rd, London N17 6SB, UK",
     "maps_url": "https://maps.google.com/?cid=15533315434720672050&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
