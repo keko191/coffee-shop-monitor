@@ -744,7 +744,7 @@
     "maps_url": "https://maps.google.com/?cid=538468794926425359&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJyYN7CExP30cRpd7kkRnIsEQ": {
-    "business_status": "OPERATIONAL",
+    "business_status": "CLOSED_TEMPORARILY",
     "name": "Starbucks Coffee",
     "address": "82a High St, Tonbridge TN9 1EE, UK",
     "maps_url": "https://maps.google.com/?cid=4949676002627608229&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
@@ -762,7 +762,7 @@
     "maps_url": "https://maps.google.com/?cid=10238956365490676138&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJN37aBWIddkgRT3EEhvCCyPI": {
-    "business_status": "CLOSED_TEMPORARILY",
+    "business_status": "OPERATIONAL",
     "name": "Starbucks Coffee",
     "address": "Montfichet Rd, London E20 1EJ, UK",
     "maps_url": "https://maps.google.com/?cid=17494376722072891727&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
@@ -800,8 +800,8 @@
   "ChIJB8RicQBH30cRxIje53dl0dg": {
     "business_status": "OPERATIONAL",
     "name": "Starbucks",
-    "address": "Royal Tunbridge Wells, Tunbridge Wells TN2 3EW, UK",
-    "maps_url": "https://maps.google.com/?cid=15623380147990595780&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    "address": "Longfield Rd, Royal Tunbridge Wells, Tunbridge Wells TN2 3EW, UK",
+    "maps_url": "https://maps.google.com/?cid=10034078337742952580&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJv42JH9ax2EcRcaVvXUZ1IoQ": {
     "business_status": "OPERATIONAL",
