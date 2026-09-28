@@ -20,6 +20,8 @@
   .swatch { width: 12px; height: 12px; border-radius: 50%; display: inline-block; }
   .starbucks-swatch { background: #00704A; }
   .costa-swatch { background: #6C1F45; }
+  .nero-swatch { background: #1F2937; }
+  .pret-swatch { background: #C8102E; }
   .panel input[type=range] { width: 100%; }
   #status { position: absolute; bottom: 12px; left: 12px; z-index: 1000; background: white; padding: 6px 10px; border-radius: 6px; font-size: 12px; box-shadow: 0 1px 6px rgba(0,0,0,0.15); }
 </style>
@@ -31,6 +33,8 @@
   <h3>London Coffee Gap Map</h3>
   <label><input type="checkbox" id="toggleStarbucks" checked> <span class="swatch starbucks-swatch"></span> Starbucks</label>
   <label><input type="checkbox" id="toggleCosta" checked> <span class="swatch costa-swatch"></span> Costa Coffee</label>
+  <label><input type="checkbox" id="toggleNero" checked> <span class="swatch nero-swatch"></span> Caffè Nero</label>
+  <label><input type="checkbox" id="togglePret" checked> <span class="swatch pret-swatch"></span> Pret A Manger</label>
   <div class="row"><span>Radius (m)</span><span id="radiusVal">300</span></div>
   <input type="range" id="radiusSlider" min="100" max="800" step="50" value="300">
   <p style="font-size:12px; color:#555; margin-top:10px;">
@@ -49,6 +53,8 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 let starbucksLayer = L.layerGroup().addTo(map);
 let costaLayer = L.layerGroup().addTo(map);
+let neroLayer = L.layerGroup().addTo(map);
+let pretLayer = L.layerGroup().addTo(map);
 let currentRadius = 300;
 
 function addStores(stores, layerGroup, color, brandLabel) {
@@ -73,6 +79,8 @@ function updateRadius(newRadius) {
   document.getElementById('radiusVal').textContent = newRadius;
   addStores(window._starbucksData || [], starbucksLayer, '#00704A', 'Starbucks');
   addStores(window._costaData || [], costaLayer, '#6C1F45', 'Costa Coffee');
+  addStores(window._neroData || [], neroLayer, '#1F2937', 'Caffè Nero');
+  addStores(window._pretData || [], pretLayer, '#C8102E', 'Pret A Manger');
 }
 
 document.getElementById('radiusSlider').addEventListener('input', (e) => {
@@ -84,26 +92,50 @@ document.getElementById('toggleStarbucks').addEventListener('change', (e) => {
 document.getElementById('toggleCosta').addEventListener('change', (e) => {
   if (e.target.checked) map.addLayer(costaLayer); else map.removeLayer(costaLayer);
 });
+document.getElementById('toggleNero').addEventListener('change', (e) => {
+  if (e.target.checked) map.addLayer(neroLayer); else map.removeLayer(neroLayer);
+});
+document.getElementById('togglePret').addEventListener('change', (e) => {
+  if (e.target.checked) map.addLayer(pretLayer); else map.removeLayer(pretLayer);
+});
 
 async function loadData() {
   const status = document.getElementById('status');
   try {
-    const [sbResp, costaResp] = await Promise.all([
+    const [sbResp, costaResp, neroResp, pretResp] = await Promise.all([
       fetch('stores_starbucks.json'),
-      fetch('stores_costa.json')
+      fetch('stores_costa.json'),
+      fetch('stores_caffe_nero.json'),
+      fetch('stores_pret.json')
     ]);
-    if (!sbResp.ok || !costaResp.ok) throw new Error('Could not fetch store files');
+    if (!sbResp.ok || !costaResp.ok || !neroResp.ok || !pretResp.ok) {
+      throw new Error('Could not fetch store files');
+    }
+
     window._starbucksData = await sbResp.json();
     window._costaData = await costaResp.json();
+    window._neroData = await neroResp.json();
+    window._pretData = await pretResp.json();
 
     updateRadius(currentRadius);
 
-    const all = [...window._starbucksData, ...window._costaData].filter(s => s.lat && s.lng);
+    const all = [
+      ...window._starbucksData,
+      ...window._costaData,
+      ...window._neroData,
+      ...window._pretData
+    ].filter(s => s.lat != null && s.lng != null);
+
     if (all.length) {
       const bounds = L.latLngBounds(all.map(s => [s.lat, s.lng]));
       map.fitBounds(bounds, { padding: [30, 30] });
     }
-    status.textContent = `${window._starbucksData.length} Starbucks · ${window._costaData.length} Costa`;
+
+    status.textContent =
+      `${window._starbucksData.length} Starbucks · ` +
+      `${window._costaData.length} Costa · ` +
+      `${window._neroData.length} Caffè Nero · ` +
+      `${window._pretData.length} Pret`;
   } catch (err) {
     status.textContent = 'Error loading store data — see console';
     console.error(err);
