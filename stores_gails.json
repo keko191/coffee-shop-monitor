@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "place_id": "ChIJz-hgsKstdEgRMBj7CU7i15M",
+    "name": "GAIL's Bakery",
+    "address": "3 Castle St, Farnham GU9 7JA, UK",
+    "lat": 51.2152062,
+    "lng": -0.7993456
+  },
+  {
+    "place_id": "ChIJWR5QZGcJdkgRHnKDyqHjL9k",
+    "name": "Gail's Bakery",
+    "address": "33 The Broadway, London SW19 1QB, UK",
+    "lat": 51.420040900000004,
+    "lng": -0.2048359
+  },
+  {
+    "place_id": "ChIJSZrG6GtndkgRSBliVe5oE8w",
+    "name": "Gail's Bakery",
+    "address": "1 Grove Ct, Beaconsfield HP9 1QW, UK",
+    "lat": 51.609352099999995,
+    "lng": -0.6449079999999999
+  },
+  {
+    "place_id": "ChIJy2ujeOcBdkgRIBX6Xla99Pc",
+    "name": "Gail's Bakery",
+    "address": "41-43 High St, Beckenham BR3 1DA, UK",
+    "lat": 51.4085834,
+    "lng": -0.024894
+  },
+  {
+    "place_id": "ChIJZ-BuThMQdkgRa4QXhv2enHc",
+    "name": "Gail's Bakery",
+    "address": "75 Salusbury Rd, London NW6 6NH, UK",
+    "lat": 51.53545,
+    "lng": -0.2049944
+  },
+  {
+    "place_id": "ChIJ8wdp5QcXdkgR7y6IYWyOOeE",
+    "name": "GAIL's Bakery",
+    "address": "140 High St, London EN5 5XW, UK",
+    "lat": 51.6551852,
+    "lng": -0.20159919999999998
+  }
+]
