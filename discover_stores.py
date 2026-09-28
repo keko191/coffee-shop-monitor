@@ -86,8 +86,16 @@ def search_point(lat, lng):
         data = resp.json()
         for place in data.get("places", []):
             name = place.get("displayName", {}).get("text", "")
-            brand_key = BRAND.split()[0].lower()  # e.g. "costa" from "Costa Coffee"
-            if brand_key in name.lower():
+            normalized_name = name.strip().lower()
+            normalized_brand = BRAND.strip().lower()
+
+            if normalized_brand == "pret a manger":
+                matches_brand = normalized_name == "pret a manger"
+            else:
+                brand_key = normalized_brand.split()[0]  # e.g. "costa" from "Costa Coffee"
+                matches_brand = brand_key in normalized_name
+
+            if matches_brand:
                 results.append(place)
 
         page_token = data.get("nextPageToken")
