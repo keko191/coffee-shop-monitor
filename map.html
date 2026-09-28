@@ -22,6 +22,7 @@
   .costa-swatch { background: #6C1F45; }
   .nero-swatch { background: #69CFF6; }
   .pret-swatch { background: #C8102E; }
+  .gails-swatch { background: #E8D7B3; }
   .panel input[type=range] { width: 100%; }
   #status { position: absolute; bottom: 12px; left: 12px; z-index: 1000; background: white; padding: 6px 10px; border-radius: 6px; font-size: 12px; box-shadow: 0 1px 6px rgba(0,0,0,0.15); }
 </style>
@@ -35,6 +36,7 @@
   <label><input type="checkbox" id="toggleCosta" checked> <span class="swatch costa-swatch"></span> Costa Coffee</label>
   <label><input type="checkbox" id="toggleNero" checked> <span class="swatch nero-swatch"></span> Caffè Nero</label>
   <label><input type="checkbox" id="togglePret" checked> <span class="swatch pret-swatch"></span> Pret A Manger</label>
+  <label><input type="checkbox" id="toggleGails" checked> <span class="swatch gails-swatch"></span> GAIL's</label>
   <div class="row"><span>Radius (m)</span><span id="radiusVal">300</span></div>
   <input type="range" id="radiusSlider" min="100" max="800" step="50" value="300">
   <p style="font-size:12px; color:#555; margin-top:10px;">
@@ -55,6 +57,7 @@ let starbucksLayer = L.layerGroup().addTo(map);
 let costaLayer = L.layerGroup().addTo(map);
 let neroLayer = L.layerGroup().addTo(map);
 let pretLayer = L.layerGroup().addTo(map);
+let gailsLayer = L.layerGroup().addTo(map);
 let currentRadius = 300;
 
 function addStores(stores, layerGroup, color, brandLabel) {
@@ -81,6 +84,7 @@ function updateRadius(newRadius) {
   addStores(window._costaData || [], costaLayer, '#6C1F45', 'Costa Coffee');
   addStores(window._neroData || [], neroLayer, '#69CFF6', 'Caffè Nero');
   addStores(window._pretData || [], pretLayer, '#C8102E', 'Pret A Manger');
+  addStores(window._gailsData || [], gailsLayer, '#E8D7B3', "GAIL's Bakery");
 }
 
 document.getElementById('radiusSlider').addEventListener('input', (e) => {
@@ -98,17 +102,21 @@ document.getElementById('toggleNero').addEventListener('change', (e) => {
 document.getElementById('togglePret').addEventListener('change', (e) => {
   if (e.target.checked) map.addLayer(pretLayer); else map.removeLayer(pretLayer);
 });
+document.getElementById('toggleGails').addEventListener('change', (e) => {
+  if (e.target.checked) map.addLayer(gailsLayer); else map.removeLayer(gailsLayer);
+});
 
 async function loadData() {
   const status = document.getElementById('status');
   try {
-    const [sbResp, costaResp, neroResp, pretResp] = await Promise.all([
+    const [sbResp, costaResp, neroResp, pretResp, gailsResp] = await Promise.all([
       fetch('stores_starbucks.json'),
       fetch('stores_costa.json'),
       fetch('stores_caffe_nero.json'),
-      fetch('stores_pret.json')
+      fetch('stores_pret.json'),
+      fetch('stores_gails.json')
     ]);
-    if (!sbResp.ok || !costaResp.ok || !neroResp.ok || !pretResp.ok) {
+    if (!sbResp.ok || !costaResp.ok || !neroResp.ok || !pretResp.ok || !gailsResp.ok) {
       throw new Error('Could not fetch store files');
     }
 
@@ -116,6 +124,7 @@ async function loadData() {
     window._costaData = await costaResp.json();
     window._neroData = await neroResp.json();
     window._pretData = await pretResp.json();
+    window._gailsData = await gailsResp.json();
 
     updateRadius(currentRadius);
 
@@ -123,7 +132,8 @@ async function loadData() {
       ...window._starbucksData,
       ...window._costaData,
       ...window._neroData,
-      ...window._pretData
+      ...window._pretData,
+      ...window._gailsData
     ].filter(s => s.lat != null && s.lng != null);
 
     if (all.length) {
@@ -135,7 +145,8 @@ async function loadData() {
       `${window._starbucksData.length} Starbucks · ` +
       `${window._costaData.length} Costa · ` +
       `${window._neroData.length} Caffè Nero · ` +
-      `${window._pretData.length} Pret`;
+      `${window._pretData.length} Pret · ` +
+      `${window._gailsData.length} GAIL's`;
   } catch (err) {
     status.textContent = 'Error loading store data — see console';
     console.error(err);
