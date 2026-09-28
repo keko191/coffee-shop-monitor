@@ -744,7 +744,7 @@
     "maps_url": "https://maps.google.com/?cid=538468794926425359&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJyYN7CExP30cRpd7kkRnIsEQ": {
-    "business_status": "CLOSED_TEMPORARILY",
+    "business_status": "OPERATIONAL",
     "name": "Starbucks Coffee",
     "address": "82a High St, Tonbridge TN9 1EE, UK",
     "maps_url": "https://maps.google.com/?cid=4949676002627608229&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
@@ -1646,7 +1646,7 @@
   "ChIJAZdzwpsQdkgRh595Ub5GwRU": {
     "business_status": "OPERATIONAL",
     "name": "Starbucks Coffee",
-    "address": "7, 9 Golders Green Rd, London NW11 8DY, UK",
+    "address": "7-9 Golders Green Rd, London NW11 8DY, UK",
     "maps_url": "https://maps.google.com/?cid=1567611928526299015&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJh5ouw4g3dkgRQhLmOR3UPuU": {
@@ -1956,7 +1956,7 @@
     "maps_url": "https://maps.google.com/?cid=6236950211045285271&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJadre7PSP2EcRzzIhS3yNsFc": {
-    "business_status": "OPERATIONAL",
+    "business_status": "CLOSED_TEMPORARILY",
     "name": "Starbucks Coffee",
     "address": "Dunmow Rd, Bishop's Stortford CM23 5QZ, UK",
     "maps_url": "https://maps.google.com/?cid=6318705842176733903&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
