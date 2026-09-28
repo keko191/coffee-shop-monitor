@@ -1,12 +1,12 @@
-# UK Coffee Shop Closure Monitor (Starbucks + Costa + Caffè Nero + Pret)
+# UK Coffee Shop Closure Monitor (Starbucks + Costa + Caffè Nero + Pret + GAIL's)
 
 Tracks the `businessStatus` field on Google's Places API for every Starbucks,
-Costa Coffee, Caffè Nero and Pret A Manger in Greater London, and pings a Slack/Discord webhook
+Costa Coffee, Caffè Nero, Pret A Manger and GAIL's Bakery in Greater London, and pings a Slack/Discord webhook
 whenever one changes to `CLOSED_TEMPORARILY` or `CLOSED_PERMANENTLY` (or
 reopens).
 
 Runs automatically on a weekly schedule via GitHub Actions - no server
-needed. All four brands run independently (separate store lists, separate state
+needed. All five brands run independently (separate store lists, separate state
 files) but share the same repo, code, and schedule.
 
 ## Cost
@@ -64,15 +64,15 @@ Go to your repo → Settings → Secrets and variables → Actions → New repos
 ### 5. Run the initial store discovery
 Go to the repo's **Actions** tab → "Discover Coffee Shop Stores (manual)" →
 **Run workflow** → choose `all` (or select `starbucks`, `costa`, `caffe_nero`
-or `pret` to scan one chain only).
+or `pret` or `gails` to scan one chain only).
 
 This scans a grid across Greater London and builds a separate store list for
-Starbucks, Costa Coffee, Caffè Nero and Pret A Manger. It takes a few minutes
+Starbucks, Costa Coffee, Caffè Nero, Pret A Manger and GAIL's Bakery. It takes a few minutes
 per brand and commits each result back to the repo automatically. This step is free.
 
 ### 6. That's it
 From here, "Check Coffee Shop Status" runs automatically every Monday at
-07:00 UTC for all four brands. Whenever a store's status flips, you'll
+07:00 UTC for all five brands. Whenever a store's status flips, you'll
 get a message like:
 
     🔴 Status change: Costa Coffee
