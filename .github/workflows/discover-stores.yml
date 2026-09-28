@@ -6,12 +6,14 @@ on:
       brand:
         description: "Which brand to scan"
         required: true
-        default: "both"
+        default: "all"
         type: choice
         options:
-          - both
+          - all
           - starbucks
           - costa
+          - caffe_nero
+          - pret
 
 permissions:
   contents: write
@@ -29,25 +31,31 @@ jobs:
           - brand: Costa Coffee
             key: costa
             output_file: stores_costa.json
+          - brand: Caffè Nero
+            key: caffe_nero
+            output_file: stores_caffe_nero.json
+          - brand: Pret A Manger
+            key: pret
+            output_file: stores_pret.json
     steps:
       - name: Skip if not selected
-        if: github.event.inputs.brand != 'both' && github.event.inputs.brand != matrix.key
+        if: github.event.inputs.brand != 'all' && github.event.inputs.brand != matrix.key
         run: echo "Skipping ${{ matrix.brand }}" && exit 0
 
       - uses: actions/checkout@v4
-        if: github.event.inputs.brand == 'both' || github.event.inputs.brand == matrix.key
+        if: github.event.inputs.brand == 'all' || github.event.inputs.brand == matrix.key
 
       - uses: actions/setup-python@v5
-        if: github.event.inputs.brand == 'both' || github.event.inputs.brand == matrix.key
+        if: github.event.inputs.brand == 'all' || github.event.inputs.brand == matrix.key
         with:
           python-version: "3.12"
 
       - name: Install dependencies
-        if: github.event.inputs.brand == 'both' || github.event.inputs.brand == matrix.key
+        if: github.event.inputs.brand == 'all' || github.event.inputs.brand == matrix.key
         run: pip install -r requirements.txt
 
       - name: Run discovery (${{ matrix.brand }})
-        if: github.event.inputs.brand == 'both' || github.event.inputs.brand == matrix.key
+        if: github.event.inputs.brand == 'all' || github.event.inputs.brand == matrix.key
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           BRAND: ${{ matrix.brand }}
@@ -55,7 +63,7 @@ jobs:
         run: python discover_stores.py
 
       - name: Commit updated store list
-        if: github.event.inputs.brand == 'both' || github.event.inputs.brand == matrix.key
+        if: github.event.inputs.brand == 'all' || github.event.inputs.brand == matrix.key
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
