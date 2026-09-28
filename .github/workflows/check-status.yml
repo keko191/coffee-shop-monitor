@@ -27,6 +27,9 @@ jobs:
           - brand: Pret A Manger
             stores_file: stores_pret.json
             state_file: state_pret.json
+          - brand: GAIL's Bakery
+            stores_file: stores_gails.json
+            state_file: state_gails.json
     steps:
       - uses: actions/checkout@v4
 
