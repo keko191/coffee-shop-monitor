@@ -21,6 +21,12 @@ jobs:
           - brand: Costa Coffee
             stores_file: stores_costa.json
             state_file: state_costa.json
+          - brand: Caffè Nero
+            stores_file: stores_caffe_nero.json
+            state_file: state_caffe_nero.json
+          - brand: Pret A Manger
+            stores_file: stores_pret.json
+            state_file: state_pret.json
     steps:
       - uses: actions/checkout@v4
 
