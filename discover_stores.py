@@ -89,8 +89,10 @@ def search_point(lat, lng):
             normalized_name = name.strip().lower().replace("’", "'")
             normalized_brand = BRAND.strip().lower().replace("’", "'")
 
-            if normalized_brand in {"pret a manger", "gail's bakery"}:
-                matches_brand = normalized_name == normalized_brand
+            if normalized_brand == "pret a manger":
+                matches_brand = normalized_name == "pret a manger"
+            elif normalized_brand == "gail's bakery":
+                matches_brand = normalized_name.startswith("gail's bakery")
             else:
                 brand_key = normalized_brand.split()[0]  # e.g. "costa" from "Costa Coffee"
                 matches_brand = brand_key in normalized_name
