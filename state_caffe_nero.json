@@ -1,1 +1,1202 @@
-{}
+{
+  "ChIJKQQ1TCHYdUgRG-upRU0gFf0": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "63 Commercial Way, Woking GU21 6HN, UK",
+    "maps_url": "https://maps.google.com/?cid=18236517782360025883&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ8QRaQpfQdUgRx7Ogtv2ve58": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "66 North St, Guildford GU1 4AH, UK",
+    "maps_url": "https://maps.google.com/?cid=11491972378391524295&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ6ZawRpfQdUgR_Txw7Fwtl60": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "69 High St, Guildford GU1 3DY, UK",
+    "maps_url": "https://maps.google.com/?cid=12508516367171861757&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJo-Cf37VzdkgRw6EKWX7z2lQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit RU3001, Inner Ring E, Longford, Hounslow TW6 1AP, UK",
+    "maps_url": "https://maps.google.com/?cid=6114467168094167491&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJYRuIDBjfdUgRDLNPibbmEY0": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "9 High St, Cobham KT11 3DJ, UK",
+    "maps_url": "https://maps.google.com/?cid=10165159505614058252&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJhShzBtHRdUgRtM4nZ4-hbc4": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "91 High St, Godalming GU7 1AW, UK",
+    "maps_url": "https://maps.google.com/?cid=14874722781557673652&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ71z95dIEdkgRU41DJc7WYu8": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "43 Frith St, London W1D 4SA, UK",
+    "maps_url": "https://maps.google.com/?cid=17249585703659212115&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJrxm9Wtt1dkgRUDcgF7gPOC4": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "40A High St, Weybridge KT13 8BL, UK",
+    "maps_url": "https://maps.google.com/?cid=3330429207776868176&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJoXa2XWRxdkgRWA6ALfHJ1dY": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit 1 Departure Level, Terminal 5, Airport, Hounslow TW6 2GA, UK",
+    "maps_url": "https://maps.google.com/?cid=15480501331843616344&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1YwawbRzdkgRstAc9QvhU_A": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Heathrow Terminal 2 (Airside, Nelson Road, Hounslow TW6 1EW, UK",
+    "maps_url": "https://maps.google.com/?cid=17317432433642885298&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJNfkUZM1zdkgRGXcVeX__als": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit RU3009 (Airside, Heathrow Airport, Terminal 3, Hounslow TW6 1QG, UK",
+    "maps_url": "https://maps.google.com/?cid=6587358327940151065&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJtTKrkgdzdkgR7Qnnad6ugT4": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Heathrow Airport, Terminal 3, Hounslow TW6 1QG, UK",
+    "maps_url": "https://maps.google.com/?cid=4504073372629928429&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1RjoLc4EdkgR1dZad-yg63I": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "60-61 Trafalgar Sq, London WC2N 5DS, UK",
+    "maps_url": "https://maps.google.com/?cid=8280889277325956821&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ9c_muNZzdkgRFSgN0FgX-zs": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Terminal 2, Nelson Road, Hounslow TW6 1EW, UK",
+    "maps_url": "https://maps.google.com/?cid=4322073937607206933&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJfVZuYJBzdkgRYtUNBvq9xLs": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Heathrow Airport Terminal 2, Gate 5, Departures, Unit 3001 Nelson Rd, Hounslow TW6 1EW, UK",
+    "maps_url": "https://maps.google.com/?cid=13530148062068856162&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ3fH5YapxdkgRR8U_H1yKGJ8": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Level 0, Terminal 5, Hounslow TW6 2GA, UK",
+    "maps_url": "https://maps.google.com/?cid=11464064979737494855&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJtw-o6gRzdkgRVj1NKSt67L4": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Pier 7, Airside, Departures, Heathrow Airport, Terminal 3, Hounslow TW6 1QG, UK",
+    "maps_url": "https://maps.google.com/?cid=13757505287505132886&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJt3hGQP16dkgR7U_Ua7Jvwjs": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "42 Peascod St, Windsor SL4 1DE, UK",
+    "maps_url": "https://maps.google.com/?cid=4306127005823553517&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJfaBRqFtxdkgREDPBeVn0SpI": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit 3, Level 0, Landside T5 Domestic Ar, Heathrow Airport, Hounslow TW6 2GA, UK",
+    "maps_url": "https://maps.google.com/?cid=10541506542946038544&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJMz4morEEdkgRhEhiTVitpkw": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit G4/G9, Oxo Tower Wharf, Barge House St, London SE1 9PH, UK",
+    "maps_url": "https://maps.google.com/?cid=5523292587783506052&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJU72knhfwdUgReosyV86BZdw": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "South Terminal, Village, Horley, Gatwick RH6 0NP, UK",
+    "maps_url": "https://maps.google.com/?cid=15881242384218098554&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJEUIRXQBzdkgRCmiynRwjekI": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero (before security)",
+    "address": "1 Cromer Rd W, Hounslow TW6 1QG, UK",
+    "maps_url": "https://maps.google.com/?cid=4790179759473715210&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJp6ZEpEhzdkgRZjSCQbX3ysA": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Pier 6, Airside Departures, Heathrow Airport, Terminal 3, Hounslow TW6 1QG, UK",
+    "maps_url": "https://maps.google.com/?cid=13892188358437909606&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJIw7GotsPdkgRFJUT7bHUwGE": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit C302, Level 30 Southern Interchange, London W12 7SL, UK",
+    "maps_url": "https://maps.google.com/?cid=7043863677859239188&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJO0VNPtUadkgRWu2kR7xwpSw": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "273 Regent St., London W1B 2EZ, UK",
+    "maps_url": "https://maps.google.com/?cid=3217101462784240986&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ46GelswEdkgRDFgCo4j_d7Q": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero Head Office",
+    "address": "9-15 Neal St, London WC2H 9PW, UK",
+    "maps_url": "https://maps.google.com/?cid=13004143411371071500&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJvRgcVQB1dkgRQGXISoZ1SJs": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "18 High St, Walton-on-Thames KT12 1DA, UK",
+    "maps_url": "https://maps.google.com/?cid=11189322493842711872&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ_50O17DFdUgRzj2pNXR4Fw8": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "71 High St, Cranleigh GU6 8AU, UK",
+    "maps_url": "https://maps.google.com/?cid=1087470275545087438&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJkd9yj8gKdkgRoBuAdZ_toww": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "42 High St, Esher KT10 9RQ, UK",
+    "maps_url": "https://maps.google.com/?cid=910832818785885088&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJLwmcPDUbdkgRsqMEbjRr8OM": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "77d Kingsway, London WC2B 6ST, UK",
+    "maps_url": "https://maps.google.com/?cid=16424745713948468146&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1x9LuKcFdkgR4ueVEEXIf_0": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Caffe Nero Roaster, Culvert Pl, London SW11 5BA, UK",
+    "maps_url": "https://maps.google.com/?cid=18266538812594579426&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1enl_yQbdkgRHKKdiu70Pa0": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Euston Station, Unit 12 Colonnade, London NW1 2DU, UK",
+    "maps_url": "https://maps.google.com/?cid=12483403047505863196&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJgQ0T0RabdkgRvFoMMd72W_c": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "75, 76 Broad St, Reading RG1 2AP, UK",
+    "maps_url": "https://maps.google.com/?cid=17824111384414935740&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJx_bNjCtxdkgRvOuakwBWXgo": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "59 High St, Staines-upon-Thames, Staines TW18 4QH, UK",
+    "maps_url": "https://maps.google.com/?cid=747129148666473404&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJxbXus6stdEgRFp6o_Xw97X0": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "1-2 Castle St, Farnham GU9 7HR, UK",
+    "maps_url": "https://maps.google.com/?cid=9073976431262342678&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJx_MmHsALdkgRYLDchPFyOMU": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit 7, Eden Walk, Centre, Kingston upon Thames KT1 1BP, UK",
+    "maps_url": "https://maps.google.com/?cid=14211235005809340512&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJfENOMQEdkgRqb_Utto1kHw": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit B, Portcullis House, 1-2 Bridge St, London SW1A 2JH, UK",
+    "maps_url": "https://maps.google.com/?cid=8975733270835937193&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJhY-LftEEdkgR3R21oGGaaBA": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "27 Haymarket, London SW1Y 4EN, UK",
+    "maps_url": "https://maps.google.com/?cid=1182364646283484637&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJvW3-cBridUgReEZtd2ZRyKQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "137-139 High St, Epsom KT19 8EH, UK",
+    "maps_url": "https://maps.google.com/?cid=11873829918094476920&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJVX7HJuAEdkgRNoqrS6Ue7Po": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "31-33 Warwick Wy, Pimlico, London SW1V 1QS, UK",
+    "maps_url": "https://maps.google.com/?cid=18080860299273669174&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJr6pa3eoLdkgREYlh1yI5xSQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "20 Fife Rd, Kingston upon Thames KT1 1SZ, UK",
+    "maps_url": "https://maps.google.com/?cid=2649586777582569745&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJxYwoibRwdkgRwTASvn2dq90": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "25, The Precinct, High St, Egham TW20 9HN, UK",
+    "maps_url": "https://maps.google.com/?cid=15973033666784932033&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJpcQQ78HkdUgRwMszliuYsoE": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Old Town Hall, High St, Reigate RH2 9AE, UK",
+    "maps_url": "https://maps.google.com/?cid=9345699489718193088&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJLxfBwdkMdkgR2SMvOaKSdQ0": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "231 High St, Hounslow TW3 1DH, UK",
+    "maps_url": "https://maps.google.com/?cid=969842520209957849&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ_9g2rEAFdkgRV_gwVXAMYCs": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "124-126 Brompton Rd, London SW3 1JD, UK",
+    "maps_url": "https://maps.google.com/?cid=3125511818000267351&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJUSf4UWcFdkgRKMT2obZNKpM": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "119/121 Gloucester Rd, South Kensington, London SW7 4TE, UK",
+    "maps_url": "https://maps.google.com/?cid=10604373719393944616&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJBwCND1cDdkgRWCMNAAlkDso": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Golden Hind, 3 Cathedral St, London SE1 9DE, UK",
+    "maps_url": "https://maps.google.com/?cid=14559684635153736536&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJtzYK7VHqdUgRqP7EX7RiFEs": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "50 West St, Horsham RH12 1PP, UK",
+    "maps_url": "https://maps.google.com/?cid=5410057579219189416&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ3cXGZosPdkgR9XkzUU675Nk": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "214 Earls Ct Rd, London SW5 9QB, UK",
+    "maps_url": "https://maps.google.com/?cid=15700880145964562933&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJWaGlya8JdkgRCZToY4KdlRY": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "150-152 Central Parade, Worcester Park KT4 8HL, UK",
+    "maps_url": "https://maps.google.com/?cid=1627380023711798281&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJW_FKiXwLdkgRF8Zz-lp2ECM": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "47 Broad St, Teddington TW11 8QZ, UK",
+    "maps_url": "https://maps.google.com/?cid=2526649524075873815&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ5RJHls0EdkgRIa6GDGlUaL8": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "32 Cranbourn St, London WC2H 7AD, UK",
+    "maps_url": "https://maps.google.com/?cid=13792366668980596257&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJxY1TybcPdkgRccaoDJQ3Va8": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "1-5 King St, London W6 9HR, UK",
+    "maps_url": "https://maps.google.com/?cid=12634065438664869489&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1VeVPON6dkgR_pAEZnomDzc": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "C8/C9, Windsor Royal Station, Windsor SL4 1PJ, UK",
+    "maps_url": "https://maps.google.com/?cid=3967432103876137214&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJSQWsWssEdkgRGHAsGJ8jI9E": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero Long Acre",
+    "address": "83-84 Long Acre, London WC2E 9NG, UK",
+    "maps_url": "https://maps.google.com/?cid=15069927944324149272&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJy0fKKZULdkgRfYDfYNLGJds": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "c/o Bentalls, Wood St, Kingston upon Thames KT1 1TX, UK",
+    "maps_url": "https://maps.google.com/?cid=15791246275315204221&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJma6kt0OBdkgR5le7oRvQ0Dc": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "3-5 Peach St, Wokingham RG40 1XJ, UK",
+    "maps_url": "https://maps.google.com/?cid=4021943284337956838&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJbSNVFQkIdkgRYeLaqxil9lA": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit 1, Old House Inn, 2 Carshalton Rd, Sutton SM1 4RA, UK",
+    "maps_url": "https://maps.google.com/?cid=5834031892686103137&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJFeZpvoALdkgRRYIQ1q6VgEo": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "3 Victoria Rd, Surbiton KT6 4NG, UK",
+    "maps_url": "https://maps.google.com/?cid=5368455333973885509&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJCZvoBLAJdkgRiw0qIgR6YOE": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "1 The Broadway, Cheam, Sutton SM3 8BG, UK",
+    "maps_url": "https://maps.google.com/?cid=16240114414469647755&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ15L2EMwEdkgR4mgK-m3kkPA": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "10 Bedford St, London WC2E 7HE, UK",
+    "maps_url": "https://maps.google.com/?cid=17334606126746593506&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJlW_1wsbidUgRUEWYRG7SxF4": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "37 High St, Banstead SM7 2NH, UK",
+    "maps_url": "https://maps.google.com/?cid=6828814306039579984&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJjbBP2CgFdkgRQjEtWSpx1is": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "House 50, 52 Curzon St, London W1J 7UP, UK",
+    "maps_url": "https://maps.google.com/?cid=3158836615345680706&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJqbAS5SEFdkgRsfu6mMWiKAg": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit 47, 115 Victoria Place, Buckingham Palace Rd, London SW1W 9SJ, UK",
+    "maps_url": "https://maps.google.com/?cid=587898720926497713&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ74qM9CgbdkgR3amrLXDmCLY": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "126 Tottenham Ct Rd, London W1T 5AT, UK",
+    "maps_url": "https://maps.google.com/?cid=13116987284193520093&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ3SIB0KD9dUgRrGD8K5XEpoE": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "132 Brighton Rd, Coulsdon CR5 2ND, UK",
+    "maps_url": "https://maps.google.com/?cid=9342370621993803948&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJqRwhFs0EdkgRXGLfVekHvqk": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "30 Monmouth St, London WC2H 9HA, UK",
+    "maps_url": "https://maps.google.com/?cid=12231222336734323292&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJo1n1YAANdkgRyd4j5RLErLI": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "24 King St, Twickenham TW1 3SN, UK",
+    "maps_url": "https://maps.google.com/?cid=12874881020178194121&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJIz0pCQwIdkgROVBxRaeK2ng": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "121 High St, Sutton SM1 1JF, UK",
+    "maps_url": "https://maps.google.com/?cid=8708425280503500857&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJL-VoMjgMdkgRWBuAvwAMQ6s": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "7-8 The Square, Richmond TW9 1DZ, UK",
+    "maps_url": "https://maps.google.com/?cid=12340720601277668184&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJET0V6JoHdkgRouLRjB0ewgU": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit 1, 72 Woodcote Rd, Wallington SM6 0LY, UK",
+    "maps_url": "https://maps.google.com/?cid=414927227936957090&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJR7Qpu98JdkgRVeCkcB6Jxw8": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "101 High St, New Malden KT3 4BP, UK",
+    "maps_url": "https://maps.google.com/?cid=1137028194766217301&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJge0Mm7cIdkgRniEUjVmLqrY": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "c/o, Elys, St George's Rd, London SW19 4DP, UK",
+    "maps_url": "https://maps.google.com/?cid=13162486077678952862&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJjeS8qrAIdkgRMJ5MCcaUWXw": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "6 The Broadway, London SW19 1RF, UK",
+    "maps_url": "https://maps.google.com/?cid=8960356511910764080&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJYXTMODMHdkgRh4O8AAYyv-Q": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "93 George St, Croydon CR0 1LD, UK",
+    "maps_url": "https://maps.google.com/?cid=16482948162562851719&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ4Rk8xB_udUgRwlGYnXCx3eU": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "11 The Martletts, Crawley RH10 1ER, UK",
+    "maps_url": "https://maps.google.com/?cid=16563590101777011138&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ9S-z7zMHdkgRTmJQjgzJJBo": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "44 George St, Croydon CR0 1PB, UK",
+    "maps_url": "https://maps.google.com/?cid=1883851599912133198&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ9fhenL7-dUgRR1likXLD1Lg": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "2 Godstone Rd, Caterham CR3 6RA, UK",
+    "maps_url": "https://maps.google.com/?cid=13318484894874229063&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJAQBAvGMddkgR0IVwoyBytuw": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Westfield stratford city, Montfichet Rd, London E20 1EJ, UK",
+    "maps_url": "https://maps.google.com/?cid=17056946123218912720&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ6YpqxIio2EcRVni6XBMBMw0": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "City Airport, Airside, London E16 2PB, UK",
+    "maps_url": "https://maps.google.com/?cid=951105128977037398&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJm3hIKjoAdkgRqHBSbe9c2f0": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "55 High St, West Wickham BR4 0LR, UK",
+    "maps_url": "https://maps.google.com/?cid=18291753544943038632&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJvUXh3av4dUgRygPccn0yMTQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "139 Station Rd E, Oxted RH8 0QE, UK",
+    "maps_url": "https://maps.google.com/?cid=3760842678210397130&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ34AlmW6q2EcRe1oqMkqZ770": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "The Glades Shopping Centre, High St, Bromley BR1 1DN, UK",
+    "maps_url": "https://maps.google.com/?cid=13686326336550492795&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJX85QWkUBdkgR6eyfE50V8YE": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "10 Westow Hill, London SE19 1RX, UK",
+    "maps_url": "https://maps.google.com/?cid=9363288864663268585&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJtc50sgsGdkgRt8QWSYgkSsQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "1 Mitcham Rd, London SW17 9PA, UK",
+    "maps_url": "https://maps.google.com/?cid=14144157747470845111&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJF-OrYb4BdkgRH_YcFcfk_1E": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "164 High St, Beckenham BR3 1EW, UK",
+    "maps_url": "https://maps.google.com/?cid=5908692779837224479&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ0-kY65kFdkgRJENXiuoKCHE": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit 7B, Clapham Junction, 20 St John's Hl, London SW11 1SA, UK",
+    "maps_url": "https://maps.google.com/?cid=8144771928559141668&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJxVKzn84IdkgRqqCzRTq1-Zo": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "High St, London SW19 5EE, UK",
+    "maps_url": "https://maps.google.com/?cid=11167156012923986090&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ00hxTKCp2EcRbwHulRChpK8": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "16-18 Montpelier Vale, Blackheath, London SE3 0TA, UK",
+    "maps_url": "https://maps.google.com/?cid=12656417945424888175&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJPwEFUG-q2EcRJxK_c83Bfqg": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "12-14 High St, Bromley BR1 1EA, UK",
+    "maps_url": "https://maps.google.com/?cid=12141354733591794215&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJadFtgoQGdkgRf2KNF_Cc29g": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "170 Streatham High Rd, London SW16 1BJ, UK",
+    "maps_url": "https://maps.google.com/?cid=15626255887093293695&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1ZZfzMIEdkgRcJtpCFIdARk": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "53 Marsham St, London SW1P 3DP, UK",
+    "maps_url": "https://maps.google.com/?cid=1801753564090571632&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJaXCXasoEdkgRqPzfOtdfM8Y": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "2-4 Lancaster Pl, London WC2E 7EA, UK",
+    "maps_url": "https://maps.google.com/?cid=14281864221332339880&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJV9fCNyT2dUgRBDPcEqTpbUI": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "25-27 High St, East Grinstead RH19 3AF, UK",
+    "maps_url": "https://maps.google.com/?cid=4786738869865034500&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJc7GiH5ax2EcRLrhKDrYLuhg": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Bluewater, Unit 022, Upper Rose Gallery, Dartford, Greenhithe DA9 9SP, UK",
+    "maps_url": "https://maps.google.com/?cid=1781749479130183726&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJu8iQtNUadkgRcT9getJG_p4": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit G015, Broadcasting House, Portland Pl, London W1A 1AA, UK",
+    "maps_url": "https://maps.google.com/?cid=11456672371887325041&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJq_Bi8-kFdkgRW2tnePyrgtA": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Wandsworth Common, 5 Bellevue Rd, London SW17 7EG, UK",
+    "maps_url": "https://maps.google.com/?cid=15024760407701547867&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ6QmB98Kr2EcRQcXkoK5_uVo": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "12 High St, Chislehurst BR7 5AN, UK",
+    "maps_url": "https://maps.google.com/?cid=6537396722105369921&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJKbLFLfpN30cRNdFXXKsodNA": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Ste 27, 8 Bligh's Walk, Bligh's Meadow, Sevenoaks TN13 1DB, UK",
+    "maps_url": "https://maps.google.com/?cid=15020675373641224501&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJoWSWWAOs2EcRcveL4VI5loM": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "89A High St, Sidcup DA15 7ED, UK",
+    "maps_url": "https://maps.google.com/?cid=9481829093609305970&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJkXXsuTIbdkgR_ZOdC-rGN2A": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "1a Central Saint Giles Piazza, St Giles High St, London WC2H 8AG, UK",
+    "maps_url": "https://maps.google.com/?cid=6933228859879691261&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJcRacn05P30cR5VBc_aGpG-U": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "34 High St, Tonbridge TN9 1EJ, UK",
+    "maps_url": "https://maps.google.com/?cid=16508975372262199525&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJvzBeeC1E30cROUMYEjfluIY": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "200, Royal Victoria Place, Calverley Rd, Royal Tunbridge Wells, Tunbridge Wells TN1 2SS, UK",
+    "maps_url": "https://maps.google.com/?cid=9707761021486646073&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJB0Ua5zBE30cRalHgQIpP8lI": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "12-14 High St, Royal Tunbridge Wells, Tunbridge Wells TN1 1UX, UK",
+    "maps_url": "https://maps.google.com/?cid=5976927110686593386&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJFaDu0F6u2EcRDnSTuG_K3VQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "115 Broadway, Bexleyheath DA6 7HF, UK",
+    "maps_url": "https://maps.google.com/?cid=6115266450225853454&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJSWLrY1oDdkgRH_4J1zsJ6XY": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit SU39, Bridge Station, 39 St Thomas St, London SE1 3QX, UK",
+    "maps_url": "https://maps.google.com/?cid=8568389918664556063&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJbpdMAC32EcRI_TKXPuV-IM": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "West Thurrock, Grays RM20 2ZQ, UK",
+    "maps_url": "https://maps.google.com/?cid=9509515520018936867&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJU6z4oFLa3kcRny1d1CBUGWg": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "McArthurGlen Designer Outlet Center, Unit 64 Kimberley Way, Ashford TN24 0SD, UK",
+    "maps_url": "https://maps.google.com/?cid=7501119154340834719&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJkThweSsbdkgROQ-Rf4_ncVM": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "62 Tottenham Ct Rd, London W1T 2ER, UK",
+    "maps_url": "https://maps.google.com/?cid=6012841581022875449&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ6TX_zLIcdkgRrj84qLQL0aM": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Corner, unit 50 St Mary Axe, London EC3A 8FR, UK",
+    "maps_url": "https://maps.google.com/?cid=11804228968859058094&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJURdlB6EddkgRfl7vRxpwz3A": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit 1, 31-35 Blomfield St, London EC2M 7BD, UK",
+    "maps_url": "https://maps.google.com/?cid=8128839110605364862&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJhZy611MbdkgRl77E37r4lxc": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "30 Newgate St, Paternoster Sq., London EC4M 8AD, UK",
+    "maps_url": "https://maps.google.com/?cid=1700100865857470103&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJaYXDVE0FdkgRhNaqFQYS7q8": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "14-15 Spring St, Tyburnia, London W2 3RA, UK",
+    "maps_url": "https://maps.google.com/?cid=12677089818437146244&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJeeWpabgFdkgRgAhNHEOJ2qk": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "7b Kingsway, London WC2B 6XG, UK",
+    "maps_url": "https://maps.google.com/?cid=12239245858663368832&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ9aE0gkUbdkgRij6KqaS09Zs": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "12 Exmouth Market, London EC1R 4QE, UK",
+    "maps_url": "https://maps.google.com/?cid=11238087064484986506&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJL_WIJZcDdkgR0hKUCihFnJ0": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "8, 10 Lordship Ln, London SE22 8HN, UK",
+    "maps_url": "https://maps.google.com/?cid=11357028398600032978&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJucsrk7kCdkgRkgnAKtw-Iq4": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit 8, Jubilee Place, 45 Bank St, Canary Wharf Estate, London E14 5NY, UK",
+    "maps_url": "https://maps.google.com/?cid=12547660627138578834&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJzxUQVXdudkgRnqDgntTYtM0": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "185-186, The chimes shopping centre, Uxbridge UB8 1LA, UK",
+    "maps_url": "https://maps.google.com/?cid=14822710681293332638&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJs7EOY1gOdkgRA34sMCKuwIU": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "21 Barnes High St, London SW13 9LW, UK",
+    "maps_url": "https://maps.google.com/?cid=9637894664433204739&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJYR6qkEYPdkgRKv1S_e_yLtk": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "247-249 Wimbledon Park Rd, London SW18 5RJ, UK",
+    "maps_url": "https://maps.google.com/?cid=15649712867720232234&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJZ89_ec8FdkgRY-K3o7Z00jQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "137-139 Balham High Rd, London SW12 9AU, UK",
+    "maps_url": "https://maps.google.com/?cid=3806232962861097571&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJD7NV0LK72EcRYmgYXXQWNOU": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "26 Station Rd, Upminster RM14 2UB, UK",
+    "maps_url": "https://maps.google.com/?cid=16515850422508349538&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJBWXObnQTdkgRsYxXc4yemBQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "27 St. Anns Rd, Harrow HA1 1JU, UK",
+    "maps_url": "https://maps.google.com/?cid=1484110403286305969&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ0e_s944OdkgReH3-c028zfU": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "248 Upper Richmond Rd W, London SW14 8AG, UK",
+    "maps_url": "https://maps.google.com/?cid=17712019950362590584&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJrRFJoWwOdkgResXT_6d6W4U": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "386 Chiswick High Rd., Chiswick, London W4 5TF, UK",
+    "maps_url": "https://maps.google.com/?cid=9609409091895281018&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJdQPH2ooNdkgRBrfbYIFbHVc": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "51 New Broadway, London W5 5AH, UK",
+    "maps_url": "https://maps.google.com/?cid=6277274066858260230&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ0YAJj_UNdkgRLvJ2tzSReFU": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "34 The Broadway, London W5 2NP, UK",
+    "maps_url": "https://maps.google.com/?cid=6158832146031505966&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJpZbGjvsPdkgRymC5wvLnXbI": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "53 Notting Hill Gate, London W11 3JS, UK",
+    "maps_url": "https://maps.google.com/?cid=12852683941420294346&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ--ql-7cPdkgRhc17V1-jc8M": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "6 Hammersmith Broadway, London W6 7AL, UK",
+    "maps_url": "https://maps.google.com/?cid=14083780089602624901&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1U4lHrsPdkgR-TiJ6xJVBDI": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit 1, 168-188 Fulham Palace Rd, London W6 9PA, UK",
+    "maps_url": "https://maps.google.com/?cid=3604099141552650489&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJr5fNM2EPdkgRDjUuAoM5DwY": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "60A Southside Shopping Centre, London SW18 4TF, UK",
+    "maps_url": "https://maps.google.com/?cid=436630923718309134&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ6eaab7cPdkgRD3sBBdt6zbA": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "132 High St, London SW15 1RG, UK",
+    "maps_url": "https://maps.google.com/?cid=12739974002001410831&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJS0d1Fq8FdkgRv5sbgg3yrSk": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "1-3 Lavender Hill, London SW11 5QW, UK",
+    "maps_url": "https://maps.google.com/?cid=3003322666357332927&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJXTK1eVIEdkgRn438Xoa8GWc": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "186 Clapham High St, London SW4 7UG, UK",
+    "maps_url": "https://maps.google.com/?cid=7429176345629592991&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJhUzh62cFdkgRPdWzpWsyszM": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "66 Old Brompton Rd, South Kensington, London SW7 3LQ, UK",
+    "maps_url": "https://maps.google.com/?cid=3725376754688447805&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ__-kM1gDdkgRFKWRXs9yQDU": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "127-143 Borough High St, London SE1 1NP, UK",
+    "maps_url": "https://maps.google.com/?cid=3837193117490062612&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ954nuk0DdkgRGIyn6rHlmBU": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "AIG Building, 22 London St, London EC3R 7JP, UK",
+    "maps_url": "https://maps.google.com/?cid=1556246223565327384&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ-brZg0vY2EcRGzza2iVUkoc": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "143 High St, Southend-on-Sea SS1 1LL, UK",
+    "maps_url": "https://maps.google.com/?cid=9768963063282285595&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJZXSocZW-2EcRLlQJ0pXCQjM": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "28 High St, Brentwood CM14 4AB, UK",
+    "maps_url": "https://maps.google.com/?cid=3693728593126970414&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJUZZOyjfB2EcRW-D7lSf_W70": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit 1 Squire, House 81, 87 High St, Billericay CM12 9AS, UK",
+    "maps_url": "https://maps.google.com/?cid=13644780041534169179&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJL6u3kfVsdkgRZtfis66XrVY": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "114 High St, Ruislip HA4 8LS, UK",
+    "maps_url": "https://maps.google.com/?cid=6245815034830837606&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJMelVjk9vdkgRSQDy63OqYP8": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Buckinghamshire, 53 Packhorse Rd, Gerrards Cross SL9 8PE, UK",
+    "maps_url": "https://maps.google.com/?cid=18401895492292313161&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1aN9bACJdkgRej-ZGix8a9M": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "17 High St, Marlow SL7 1AU, UK",
+    "maps_url": "https://maps.google.com/?cid=15234406693377490810&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJq9ZPYkAOdkgRVeCAlpt9Dxc": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "192 Chiswick High Rd., Chiswick, London W4 1PP, UK",
+    "maps_url": "https://maps.google.com/?cid=1661684894721433685&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJfZjpAQIQdkgRw0k4LlrZrIw": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "113 Westbourne Grove, London W2 4UP, UK",
+    "maps_url": "https://maps.google.com/?cid=10136715842649868739&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ_zYki7UPdkgRJx0Vop8IpiM": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "c/o John Lewis, Westfield Shopping Centr, London W12 7FU, UK",
+    "maps_url": "https://maps.google.com/?cid=2568750119173561639&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ-Z3H3oQPdkgRJVFSWHOy3WM": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "480 Fulham Rd., London SW6 5NH, UK",
+    "maps_url": "https://maps.google.com/?cid=7196103988080693541&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ5-WpZn8PdkgRXk9N_iJ9rnM": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "142 Wandsworth Bridge Rd., London SW6 2UL, UK",
+    "maps_url": "https://maps.google.com/?cid=8335737549558206302&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJzc1nQ2QFdkgRxaGNKXWfFa0": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "174-176 Fulham Rd., London SW10 9PR, UK",
+    "maps_url": "https://maps.google.com/?cid=12472050068629594565&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJPTQ_180EdkgRnVFH4Axvsxk": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "36A St Martin's Ln, London WC2N 4ER, UK",
+    "maps_url": "https://maps.google.com/?cid=1851945972872466845&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJvcCGQFMbdkgRgoc-bvKNpGU": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "118/119 Newgate St, London EC1A 7AE, UK",
+    "maps_url": "https://maps.google.com/?cid=7324134966382462850&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ2RYJWgAbdkgR8As0S32iZW4": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "8-11 Upper Woburn Pl, London WC1H 0JW, UK",
+    "maps_url": "https://maps.google.com/?cid=7954942975836163056&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ91lFpjYbdkgRtH-t_AkTs70": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "108 Southampton Row, London WC1B 4BL, UK",
+    "maps_url": "https://maps.google.com/?cid=13669290227614449588&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJuQ6XI9VrdkgR_LV34q60e5Q": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "80 High St, Rickmansworth WD3 1AQ, UK",
+    "maps_url": "https://maps.google.com/?cid=10699344002965550588&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJK0RwbMRqdkgRWs9J7SWRSB8": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "100-102 High St, Watford WD17 2BW, UK",
+    "maps_url": "https://maps.google.com/?cid=2254211205579788122&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJd_iBRewRdkgRPMsAHP0G7i8": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "c/o Fenwicks, Brent Cross Shopping Centre, Brent Cross, London NW4 3FN, UK",
+    "maps_url": "https://maps.google.com/?cid=3453705648406055740&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJn8CNeKUadkgRDF-vN-Vbeso": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "18 Clifton Rd, London W9 1SS, UK",
+    "maps_url": "https://maps.google.com/?cid=14590074982860021516&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJX6xq2-cQdkgRgpwDqgUfRyE": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "C/O Fenwicks, Brent Cross Shopping Centre, Brent Cross, London NW4 3FN, UK",
+    "maps_url": "https://maps.google.com/?cid=2397919435785739394&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJSeVKpx8QdkgRTEUQoBi0PIU": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "120, 122 Ladbroke Grove, London W10 5NE, UK",
+    "maps_url": "https://maps.google.com/?cid=9600746523504690508&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJGb6QwJoadkgRyE0eIBrnb68": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "167 Finchley Rd, South Hampstead, London NW3 6LB, UK",
+    "maps_url": "https://maps.google.com/?cid=12641576778446294472&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJIXkP034QdkgRczHU9BHWAFU": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "264-266 W End Ln, London NW6 1LJ, UK",
+    "maps_url": "https://maps.google.com/?cid=6125130865834209651&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJAeekVckEdkgRwLVBbZMHDJg": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "1, 65 Strand, London WC2N 5LR, UK",
+    "maps_url": "https://maps.google.com/?cid=10956140323260184000&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJfcdtcOEadkgRnUPoo_aiTUM": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "7 Jamestown Rd, London NW1 7BW, UK",
+    "maps_url": "https://maps.google.com/?cid=4849711553943454621&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJHYoAiEsbdkgRZS6n9A2XNZw": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "333 High Holborn, London WC1V 7PX, UK",
+    "maps_url": "https://maps.google.com/?cid=11256068929877388901&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJzdsw8EkbdkgRmSrPwOtIt0Y": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "54 Theobalds Rd, London WC1X 8NW, UK",
+    "maps_url": "https://maps.google.com/?cid=5095621680782322329&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJj8_6OxUbdkgRFdoTKk4bDMo": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "25 Farringdon St, London EC4A 4AB, UK",
+    "maps_url": "https://maps.google.com/?cid=14559041717909314069&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJweIK3K6h2EcRJfMgwclxNsY": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "233 High Rd, Loughton IG10 1AD, UK",
+    "maps_url": "https://maps.google.com/?cid=14282728379594634021&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ2cKSldfr2EcR-GKvjPZJG-A": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "96 High St, Chelmsford CM1 1DX, UK",
+    "maps_url": "https://maps.google.com/?cid=16148582212138132216&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJh8mrt76Y2EcRT_4fdbTtp0I": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "271 High St, Epping CM16 4DA, UK",
+    "maps_url": "https://maps.google.com/?cid=4803068886928850511&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJQxNhRIOg2EcR3KuetzFDPXk": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "65 Station Rd, London E4 7BU, UK",
+    "maps_url": "https://maps.google.com/?cid=8736212732981717980&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJR9T_FIZndkgRBBmBYvFepk0": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "55 Sycamore Rd, Amersham HP6 5EQ, UK",
+    "maps_url": "https://maps.google.com/?cid=5595263977887176964&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ8Qzt-2oUdkgR-swMIglrFF0": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "45 The Broadway, Stanmore HA7 4DJ, UK",
+    "maps_url": "https://maps.google.com/?cid=6707103432031653114&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJ44YTaQWdkgRQ_deYMHXeUQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit 2, 67-70 Station Rd, Edgware HA8 7BD, UK",
+    "maps_url": "https://maps.google.com/?cid=4934212092306585411&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJiw7Dl5YQdkgRhkhtV6UnEBc": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "23-25 Golders Green Rd, London NW11 8EE, UK",
+    "maps_url": "https://maps.google.com/?cid=1661871853589579910&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJB8FHEogadkgRgydesp-PwtY": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "1 Hampstead High St, London NW3 1PR, UK",
+    "maps_url": "https://maps.google.com/?cid=15475089185653532547&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ70dOmCIadkgRV2tLtJBdzsc": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "79 High Rd, London N2 8AD, UK",
+    "maps_url": "https://maps.google.com/?cid=14397547934831569751&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJj07_kE4adkgRxA_jbl5vFmA": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "62 Highgate High St, London N6 5HX, UK",
+    "maps_url": "https://maps.google.com/?cid=6923843928506699716&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJwB-VHUbdkgRvY8q-y1zMoo": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "James Selby store, 384-400 Holloway Rd, London N7 6PR, UK",
+    "maps_url": "https://maps.google.com/?cid=9958148367394181053&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ6dGgzKyP2EcR7KQWIpTgWUo": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Airport Coach Station, Main Terminal, Stansted CM24 1QW, UK",
+    "maps_url": "https://maps.google.com/?cid=5357560158565606636&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJd3iKhwtddkgRaCnUjbUWQUg": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "66-69 The Broadway, Chesham HP5 1BX, UK",
+    "maps_url": "https://maps.google.com/?cid=5206467613241387368&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJH6VY1VhBdkgRjFcv9_3KuzM": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "218 Marlowes, Hemel Hempstead HP1 1BH, UK",
+    "maps_url": "https://maps.google.com/?cid=3727796308701829004&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ___791NDdkgRKdsgpRj2HPQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "230 High St, Berkhamsted HP4 1AG, UK",
+    "maps_url": "https://maps.google.com/?cid=17590204830312356649&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJXXs0pOgZdkgRf_Z9qgrFy5g": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "776 High Rd, London N12 9QH, UK",
+    "maps_url": "https://maps.google.com/?cid=11010110363638036095&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJb68c0JEXdkgRcc0tfwxidWw": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "128 High St, London, Barnet EN5 5XQ, UK",
+    "maps_url": "https://maps.google.com/?cid=7815260534184201585&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJr4fQKC0adkgRCFTHSwKjO20": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "61 Muswell Hill Broadway, Muswell Hill, London N10 3HA, UK",
+    "maps_url": "https://maps.google.com/?cid=7871064004016690184&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJbz6C_W0ZdkgR7im4E3couXk": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "10 Chase Side, London N14 5PA, UK",
+    "maps_url": "https://maps.google.com/?cid=8771086241177807342&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJRfoTrDofdkgRnKqBmcw6Ybw": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Shopping Centre, 22 The Town, Enfield EN2 6LT, UK",
+    "maps_url": "https://maps.google.com/?cid=13574195402294536860&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJd5KfJgCP2EcR7TUYdUqzqGo": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Thremhall Ave, Airport, Mill End, Stansted CM24 1RJ, UK",
+    "maps_url": "https://maps.google.com/?cid=7685589896481224173&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ7TE1GnSP2EcR-bAkuGOI0Tg": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Airport International Departure, Bassingbourn Rd, Stansted CM24 1RW, UK",
+    "maps_url": "https://maps.google.com/?cid=4094203498129043705&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJdyjJJq4gdkgRR-opn9wjyR0": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "89 High St, Hoddesdon EN11 8TL, UK",
+    "maps_url": "https://maps.google.com/?cid=2146286127888853575&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJPRsXAW83dkgRvYx_gdw_yKc": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Terminal Building, Unit 10719, Landside, London Luton Airport, Luton LU2 9LU, UK",
+    "maps_url": "https://maps.google.com/?cid=12089983415974071485&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJHc8uDCQ_dkgRmO-cn-uaEEQ": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "30-32 Market Pl, St Albans AL3 5DG, UK",
+    "maps_url": "https://maps.google.com/?cid=4904590330992324504&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJYY_C0X08dkgRI3jiAeFtDeI": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Unit 125, The Galleria, Comet Way, Hatfield AL10 0XR, UK",
+    "maps_url": "https://maps.google.com/?cid=16288796240435640355&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJvzmH3104dkgRi233j_z1fQI": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "2-4 High St, Harpenden AL5 2SN, UK",
+    "maps_url": "https://maps.google.com/?cid=179570025260608907&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJgYmY80w9dkgRj8miBLlOacU": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "88 Darkes Ln, Potters Bar EN6 1AG, UK",
+    "maps_url": "https://maps.google.com/?cid=14224987454580115855&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJv3XifpEmdkgRyYb8MSsNGIA": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "2-4 Salisbury Square, Hertford SG14 1BE, UK",
+    "maps_url": "https://maps.google.com/?cid=9230141915469219529&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJC_UKMDyF2EcRX0Cxql4_qJM": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "28-32 Potter St, Bishop's Stortford CM23 3UL, UK",
+    "maps_url": "https://maps.google.com/?cid=10639823795486015583&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJFdgo0VKO2EcRBPMR6owpK6A": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Enterprise House, Stansted Airport, London CM24 1QW, UK",
+    "maps_url": "https://maps.google.com/?cid=11541364155266233092&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ2dPhiSQ7dkgR8M9pz4FL2EE": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "31 Howardsgate, Welwyn Garden City AL8 6AP, UK",
+    "maps_url": "https://maps.google.com/?cid=4744625228337500144&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJMdvCJqj3dkgRP6Y9BpnqJw4": {
+    "business_status": "OPERATIONAL",
+    "name": "Caff\u00e8 Nero",
+    "address": "Friars Square Shopping Centre, Market Square, Aylesbury HP20 2QF, UK",
+    "maps_url": "https://maps.google.com/?cid=1020041783578306111&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  }
+}
