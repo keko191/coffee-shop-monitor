@@ -1,1 +1,956 @@
-{}
+{
+  "ChIJo4d6dfnRdUgRwTApmojwqfk": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Guildford",
+    "address": "19 Tunsgate, Guildford GU1 3QS, UK",
+    "maps_url": "https://maps.google.com/?cid=17990174656000766145&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJEwChsaDfdUgRu3V1GIdJZQw": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Cobham",
+    "address": "2 High St, Cobham KT11 3DY, UK",
+    "maps_url": "https://maps.google.com/?cid=893200945682675131&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJ49DNz_RdUgRu7n495nyX7g": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Godalming",
+    "address": "104 High St, Godalming GU7 1HG, UK",
+    "maps_url": "https://maps.google.com/?cid=13285604168870443451&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJIVGxagB1dkgRWZmgHOBwbZg": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Weybridge",
+    "address": "Unit B, 41-45 High St, Weybridge KT13 8BB, UK",
+    "maps_url": "https://maps.google.com/?cid=10983559174081780057&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ_WyWB_l7dkgRJD6YBEwMKpg": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Windsor Castle",
+    "address": "25 High St, Windsor SL4 1LN, UK",
+    "maps_url": "https://maps.google.com/?cid=10964589763421027876&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJYXA5OQALdkgRAk03T9Ub8s0": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Surbiton",
+    "address": "1 Claremont Rd, Surbiton KT6 4QR, UK",
+    "maps_url": "https://maps.google.com/?cid=14839954325110213890&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJndfhA30LdkgRzWrQp4_nWmw": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Esher",
+    "address": "43 High St, Esher KT10 9RN, UK",
+    "maps_url": "https://maps.google.com/?cid=7807807508181969613&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJPd-9hKnjdUgReo3BFsAkugc": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Epsom",
+    "address": "113 High St, Epsom KT19 8DT, UK",
+    "maps_url": "https://maps.google.com/?cid=556797911367781754&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ8ZKYKfALdkgRCIKqvNsYDWU": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Kingston-upon-Thames",
+    "address": "3-5 Church St, Kingston upon Thames KT1 1RW, UK",
+    "maps_url": "https://maps.google.com/?cid=7281503504570155528&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJz-hgsKstdEgRMBj7CU7i15M": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery",
+    "address": "3 Castle St, Farnham GU9 7JA, UK",
+    "maps_url": "https://maps.google.com/?cid=10653232268370974768&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJzZfscOR7dkgR1LZ5j05SA9U": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Windsor",
+    "address": "95 Peascod St, Windsor SL4 1DH, UK",
+    "maps_url": "https://maps.google.com/?cid=15349202452376827604&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJL7_o7jp_dkgRXMjaypqezDY": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Bracknell",
+    "address": "7 The Avenue, Bracknell RG12 1BD, UK",
+    "maps_url": "https://maps.google.com/?cid=3948705360962570332&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJo1NDjjfldUgRP2FKlwI13pU": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Reigate",
+    "address": "4 High St, Reigate RH2 9BG, UK",
+    "maps_url": "https://maps.google.com/?cid=10799127241725468991&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJURdk8NYbdkgRpKV6oDwDXoU": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Twickenham",
+    "address": "35 Church St, London TW1 3NR, UK",
+    "maps_url": "https://maps.google.com/?cid=9610122213780530596&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJv_bKUiTxdUgRYc-pkkOdq3A": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Gatwick Airport South Terminal",
+    "address": "Unit SA20M203, South Terminal International, Lower level, London Gatwick Airport, Departures, Horley, Lounge (IDL RH6 0NP, UK",
+    "maps_url": "https://maps.google.com/?cid=8118755666814422881&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ4W0NSyArdEgRTu7Z6pqSvBk": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Fleet",
+    "address": "219-221 Fleet Rd, Fleet GU51 3BW, UK",
+    "maps_url": "https://maps.google.com/?cid=1854518340632571470&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJY-yaHMEPdkgRNYlUQut8yFg": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Holland Park",
+    "address": "76 Holland Park Ave, London W11 3RB, UK",
+    "maps_url": "https://maps.google.com/?cid=6397500620551784757&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJeZyDtdiBdkgRskN2ushWfSs": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Wokingham",
+    "address": "20 Peach St, Wokingham RG40 1XG, UK",
+    "maps_url": "https://maps.google.com/?cid=3133756335841493938&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJG5n_V9QNdkgRNegRMqmd51A": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery St Margarets",
+    "address": "125 St. Margarets Rd, St Margarets, Twickenham TW1 1RG, UK",
+    "maps_url": "https://maps.google.com/?cid=5829801592669464629&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJB-1J2UnrdUgRMF4JCZ_99Sg": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Horsham",
+    "address": "46 Carfax, Horsham RH12 1EQ, UK",
+    "maps_url": "https://maps.google.com/?cid=2951543990304464432&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJeX26DAAHdkgRC8RKYhxtCRw": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Tooting Broadway",
+    "address": "103 Mitcham Rd, London SW17 9PE, UK",
+    "maps_url": "https://maps.google.com/?cid=2020265876527957003&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJ_KSSMkIdkgRUnTeWah12OI": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Wimbledon",
+    "address": "9 High Street Wimbledon, London SW19 5DX, UK",
+    "maps_url": "https://maps.google.com/?cid=16345944213463921746&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJWR5QZGcJdkgRHnKDyqHjL9k": {
+    "business_status": "OPERATIONAL",
+    "name": "Gail's Bakery",
+    "address": "33 The Broadway, London SW19 1QB, UK",
+    "maps_url": "https://maps.google.com/?cid=15649977514162614814&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJL2JCMRMBdkgRzhtYLSOLcuw": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Crystal Palace",
+    "address": "58-60 Westow Hill, London SE19 1RX, UK",
+    "maps_url": "https://maps.google.com/?cid=17037833323496872910&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJGca5uFcOdkgRrIt5Pdnf0Kw": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Barnes",
+    "address": "49 Church Rd, London SW13 9HH, UK",
+    "maps_url": "https://maps.google.com/?cid=12452699093811694508&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJQ7N9j8ANdkgR4p3mwUO0JsM": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Brentford",
+    "address": "2, West, E Bradbury Yard, Brentford TW8 8GJ, UK",
+    "maps_url": "https://maps.google.com/?cid=14062125089619877346&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJvw9H7jkMdkgRFLd5w48E3rE": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Richmond",
+    "address": "12-13 Lichfield Ct, Sheen Rd, London TW9 1AS, UK",
+    "maps_url": "https://maps.google.com/?cid=12816686605049378580&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJSzO43TEddkgR7LCmhL8AU-I": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Westfield Stratford",
+    "address": "Unit SU1121, Ground Floor, The Street, Westfield, London E20 1EN, UK",
+    "maps_url": "https://maps.google.com/?cid=16308379498202968300&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJU_CTUFMFdkgR5NAeoQl0Of8": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Cromwell Place",
+    "address": "18 Cromwell Pl, South Kensington, London SW7 2LB, UK",
+    "maps_url": "https://maps.google.com/?cid=18390858138050810084&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJl4U-v2oOdkgRFWS0S2n5GZc": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Chiswick",
+    "address": "282 Chiswick High Rd., Chiswick, London W4 1PA, UK",
+    "maps_url": "https://maps.google.com/?cid=10888007804781880341&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJUcNjspEPdkgRQKKoJDsaurc": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Southfields",
+    "address": "250 Wimbledon Park Rd, London SW19 6NL, UK",
+    "maps_url": "https://maps.google.com/?cid=13238922895929418304&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJr0W36DobdkgRzZJc_wX66Nw": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Archway",
+    "address": "8-10 Junction Rd, Archway, London N19 5RQ, UK",
+    "maps_url": "https://maps.google.com/?cid=15918247786607055565&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJqd0mKsMNdkgRLqf6MPnBGGs": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery King's Cross Station",
+    "address": "Unit M4, Mezzanine level, Kings Cross Station, London N1C 4AH, UK",
+    "maps_url": "https://maps.google.com/?cid=7717131237512095534&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJ4mKLuIPdkgRH1WUVV3GpHs": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery East Sheen",
+    "address": "256A Upper Richmond Rd W, London SW14 7JE, UK",
+    "maps_url": "https://maps.google.com/?cid=8909464067015726367&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJr3ibKwAFdkgRblfbZXoMHxI": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL\u2019s Bakery Orchard Place",
+    "address": "2, 30 Victoria St, London SW1H 0RS, UK",
+    "maps_url": "https://maps.google.com/?cid=1305776136795150190&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJcXThj30NdkgRYIlURtGaJ2c": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Ealing",
+    "address": "Unit 18 Dickens Yard, Longfield Ave, London W5 2TD, UK",
+    "maps_url": "https://maps.google.com/?cid=7433079933617080672&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJz6eWqXEbdkgR-VQgDV31AfU": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Pentonville Road",
+    "address": "286-288 Pentonville Rd, London N1 9NR, UK",
+    "maps_url": "https://maps.google.com/?cid=17654661794270041337&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJGeN8WtMEdkgRm8DhT1Hvx9k": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Soho",
+    "address": "128 Wardour St, London W1F 8ZL, UK",
+    "maps_url": "https://maps.google.com/?cid=15692774559107367067&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJkxypJWoFdkgRrke_DVAj1LA": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Balham",
+    "address": "1, Station Parade, 1 Balham High Rd, London SW12 9AZ, UK",
+    "maps_url": "https://maps.google.com/?cid=12741848072472971182&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ70k_o_EFdkgRtjFygW-1k-w": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Southbank",
+    "address": "28 York Rd, London SE1 7ND, UK",
+    "maps_url": "https://maps.google.com/?cid=17047168505045201334&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJDUImdeIPdkgRpCRodwv-hXc": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Notting Hill",
+    "address": "138 Portobello Rd, London W11 2DZ, UK",
+    "maps_url": "https://maps.google.com/?cid=8612569187617350820&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJoQkoulEFdkgRvzcLJcc1Vjo": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Earlsfield",
+    "address": "537, 539 Garratt Ln, London SW18 4SR, UK",
+    "maps_url": "https://maps.google.com/?cid=4203606431633192895&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJSZrG6GtndkgRSBliVe5oE8w": {
+    "business_status": "OPERATIONAL",
+    "name": "Gail's Bakery",
+    "address": "1 Grove Ct, Beaconsfield HP9 1QW, UK",
+    "maps_url": "https://maps.google.com/?cid=14705212581138798920&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJo_OU2rEddkgRgJeQvyfo2gI": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Shoreditch",
+    "address": "1 Sclater St, London E1 6HR, UK",
+    "maps_url": "https://maps.google.com/?cid=205731990414071680&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJk4JwLJUbdkgR8h8DElThewc": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Highbury Village",
+    "address": "11 Highbury Park, London N5 1QJ, UK",
+    "maps_url": "https://maps.google.com/?cid=539272331596603378&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJe_Mu1FKJdkgR-VVT7QcOI8w": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Marlow",
+    "address": "5 High St, Marlow SL7 1AU, UK",
+    "maps_url": "https://maps.google.com/?cid=14709616235131393529&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ9wtE9MoadkgRqASUVGpSIC4": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Seymour Place",
+    "address": "4-6 Seymour Pl, London W1H 7NA, UK",
+    "maps_url": "https://maps.google.com/?cid=3323747141638423720&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJaUIoJEsEdkgRwpboDEjaKCE": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Abbeville Road",
+    "address": "71 Abbeville Rd, London SW4 9JW, UK",
+    "maps_url": "https://maps.google.com/?cid=2389399605309118146&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJVfDIZm8NdkgRKUUsmVmrEsw": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Kew",
+    "address": "11-13 Station Parade, London TW9 3PT, UK",
+    "maps_url": "https://maps.google.com/?cid=14705004134628345129&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJX6hYGd5vdkgRkLJvdFjas6U": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Gerrards Cross",
+    "address": "9 Packhorse Rd, Gerrards Cross SL9 7QA, UK",
+    "maps_url": "https://maps.google.com/?cid=11940127110534771344&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJR-TdxLUPdkgRIcLC8_jrkeY": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Wandsworth",
+    "address": "350 Old York Rd, London SW18 1SS, UK",
+    "maps_url": "https://maps.google.com/?cid=16614319954820514337&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJnYzETuAEdkgR9MGvpDtudD0": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Pimlico",
+    "address": "26 Churton St, Pimlico, London SW1V 2LP, UK",
+    "maps_url": "https://maps.google.com/?cid=4428285536057147892&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ95vcd3IDdkgRL9tH5hTrHh0": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Crossrail Place",
+    "address": "Unit 38 Crossrail Pl, Canary Wharf Estate, London E14 5AB, UK",
+    "maps_url": "https://maps.google.com/?cid=2098372951396571951&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJJWj-1gabdkgRoRnVucNOlHg": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Reading",
+    "address": "134 Broad St, Reading RG1 2BD, UK",
+    "maps_url": "https://maps.google.com/?cid=8688656183647869345&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ3b4FnBYPdkgRIQAjDgZAY2U": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Brook Green",
+    "address": "102-104 Shepherds Bush Rd, London W6 7PD, UK",
+    "maps_url": "https://maps.google.com/?cid=7305753415276232737&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJb3RstHoFdkgRBtWKOCT5QS0": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Millennium Bridge",
+    "address": "Peter's Hill, London EC4V 4AU, UK",
+    "maps_url": "https://maps.google.com/?cid=3261161539155711238&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJEZavQ48FdkgR2xYR3Mxl_-4": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Buckingham Palace Road",
+    "address": "22-24 Buckingham Palace Rd, London SW1W 0QP, UK",
+    "maps_url": "https://maps.google.com/?cid=17221595430627907291&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJywT-HQAbdkgR3PFC1qGBwfU": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Melcombe Street",
+    "address": "35 Melcombe St, London NW1 6AG, UK",
+    "maps_url": "https://maps.google.com/?cid=17708577741881930204&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJnT-_ipwPdkgReqEsqytZGQA": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Parsons Green",
+    "address": "739 Fulham Rd., London SW6 5UL, UK",
+    "maps_url": "https://maps.google.com/?cid=7134918508061050&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJeyNpaJYFdkgRzUn4MrNtQyw": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Northcote Road",
+    "address": "64 Northcote Rd, London SW11 6QL, UK",
+    "maps_url": "https://maps.google.com/?cid=3189513577530149325&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJN5HzN_QPdkgRgA4vM5lZsho": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Barons Court",
+    "address": "Unit 3-4, Barons Court Station, London W14 9EA, UK",
+    "maps_url": "https://maps.google.com/?cid=1923698505364213376&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJFWG5DiQPdkgRkg6l5JIciaE": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Fulham Broadway",
+    "address": "The Fulham Centre, 20 Fulham Broadway, London SW6 1AH, UK",
+    "maps_url": "https://maps.google.com/?cid=11639866129142582930&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJnSyxmncFdkgRurM51uuf0J4": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Battersea Square",
+    "address": "31- 32 Battersea Square, London SW11 3RA, UK",
+    "maps_url": "https://maps.google.com/?cid=11443822488408667066&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJy2ujeOcBdkgRIBX6Xla99Pc": {
+    "business_status": "OPERATIONAL",
+    "name": "Gail's Bakery",
+    "address": "41-43 High St, Beckenham BR3 1DA, UK",
+    "maps_url": "https://maps.google.com/?cid=17867113800343885088&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJE7UFSAAFdkgREWQiW_-o0hc": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Streatham Hill",
+    "address": "57-59 Streatham Hill, London SW2 4TX, UK",
+    "maps_url": "https://maps.google.com/?cid=1716620222680687633&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJiYNEhEkRdkgRL8lHNWrja6o": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery London Bridge",
+    "address": "Unit SU17 Western Arcade, London Bridge Station, London SE1 9SP, UK",
+    "maps_url": "https://maps.google.com/?cid=12280158854255724847&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJvUqfJmwFdkgRHg1q44snzZM": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Kings Road",
+    "address": "209 King's Rd, London SW3 5ED, UK",
+    "maps_url": "https://maps.google.com/?cid=10650212175570406686&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJzeix_-0PdkgRIM9WKtxf-hs": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery High Street Kensington",
+    "address": "240 - 242 Kensington High St, London W8 6NH, UK",
+    "maps_url": "https://maps.google.com/?cid=2016029182409494304&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJZ_jM7_oFdkgRwalP0t0r1BA": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Elephant Park",
+    "address": "23 Sayer St, London SE17 1FY, UK",
+    "maps_url": "https://maps.google.com/?cid=1212642431385708993&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJWTbyY8kbdkgRX3zbHseROIM": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Great Portland Street",
+    "address": "125 Great Portland St, London W1W 6AX, UK",
+    "maps_url": "https://maps.google.com/?cid=9455467702066576479&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJWerZLxIddkgRc2x7UlOzVgY": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Liverpool Street",
+    "address": "Unit 4, 3 Liverpool St, London EC2M 7NX, UK",
+    "maps_url": "https://maps.google.com/?cid=456749582672161907&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJx2Ql2-sbdkgRl0-nO8XD9PI": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Baker Street",
+    "address": "114 Baker St, London W1U 6FY, UK",
+    "maps_url": "https://maps.google.com/?cid=17506832903372754839&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJrekrEbUbdkgR273zE25RRKc": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Marylebone Village",
+    "address": "72-75 Marylebone High St, London W1U 5JW, UK",
+    "maps_url": "https://maps.google.com/?cid=12052848035973283291&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJByGYNgAbdkgRonA9tZtLhAw": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Great Russell Street",
+    "address": "36, 37 Great Russell St, London WC1B 3PP, UK",
+    "maps_url": "https://maps.google.com/?cid=901928957513658530&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJb0pdd0IFdkgRstDYwdJCb2E": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Chelsea",
+    "address": "341 Fulham Rd., London SW10 9TW, UK",
+    "maps_url": "https://maps.google.com/?cid=7020903817056669874&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJRyXlcAAFdkgRzDt3Rz84IoE": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Shaftesbury Avenue",
+    "address": "65 Shaftesbury Ave, London W1D 6LH, UK",
+    "maps_url": "https://maps.google.com/?cid=9305061624533957580&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJKdvvq_MDdkgREvQwRc1-s4I": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Dulwich Village",
+    "address": "91 Dulwich Village, London SE21 7BJ, UK",
+    "maps_url": "https://maps.google.com/?cid=9418010665856070674&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ-0YXFOAFdkgRUMQIK4RoqLA": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery South Lambeth",
+    "address": "84 S Lambeth Rd, London SW8 1RH, UK",
+    "maps_url": "https://maps.google.com/?cid=12729539263629673552&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJQWk67-yr2EcRAhkMRmdSILA": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Bromley",
+    "address": "84 High St, Bromley BR1 1EY, UK",
+    "maps_url": "https://maps.google.com/?cid=12691234353440364802&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJSZfqN_UFdkgRNz00tMa0JX8": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Herne Hill",
+    "address": "214-216 Railton Rd, London SE24 0JT, UK",
+    "maps_url": "https://maps.google.com/?cid=9161927782474988855&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJUybK2oEDdkgRWwAx37yc4uM": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery East Dulwich",
+    "address": "1 Zenoria St, London SE22 8HP, UK",
+    "maps_url": "https://maps.google.com/?cid=16420859526358564955&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJk5uk7vsFdkgRwoXGbuJU-P8": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Gloucester Road",
+    "address": "103 Gloucester Rd, South Kensington, London SW7 4SZ, UK",
+    "maps_url": "https://maps.google.com/?cid=18444585605393712578&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJzwLSUuYFdkgRcMXIXNcA-Gs": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Cheapside One New Change",
+    "address": "Unit C, One New Change, 1 Cheapside, London EC2V 6AH, UK",
+    "maps_url": "https://maps.google.com/?cid=7779969281257162096&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJv8NQWWVN30cRs3gRALwuf9Y": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Sevenoaks",
+    "address": "Unit 1 Bligh's Court, Sevenoaks TN13 1DD, UK",
+    "maps_url": "https://maps.google.com/?cid=15456123831148705971&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJScceJq0FdkgRgfXhpuFFj8E": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Clapham Old Town",
+    "address": "10-12 Old Town, London SW4 0JY, UK",
+    "maps_url": "https://maps.google.com/?cid=13947443406459499905&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJFdXPr9Gp2EcROr-8ZPnbrXQ": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Blackheath",
+    "address": "3 Blackheath Village, Blackheath, London SE3 9LA, UK",
+    "maps_url": "https://maps.google.com/?cid=8407617943554015034&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ7WpQ_LJF30cRatNu2azKQNs": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Tunbridge Wells",
+    "address": "21 High St, Royal Tunbridge Wells, Tunbridge Wells TN1 1UT, UK",
+    "maps_url": "https://maps.google.com/?cid=15798850336546804586&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJUdWcE8QDdkgRSoUDW1Hrae8": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Greenwich",
+    "address": "24 Nelson Rd., London SE10 9JB, UK",
+    "maps_url": "https://maps.google.com/?cid=17251578582271231306&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJk035ziMddkgRG4kz3ujzmrs": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Old Street",
+    "address": "81 City Rd, London EC1Y 1BD, UK",
+    "maps_url": "https://maps.google.com/?cid=13518385412991846683&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJTe0x9-QDdkgRcQ9OOfPAZ5I": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Canary Wharf Waitrose",
+    "address": "16-19 Canada Square, Canary Wharf Estate, London E14 5EQ, UK",
+    "maps_url": "https://maps.google.com/?cid=10549612803009679217&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ8z9yJq8EdkgRXOeE9L0O2S4": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Neo Bankside",
+    "address": "Unit C, 70 Holland St, London SE1 9NX, UK",
+    "maps_url": "https://maps.google.com/?cid=3375745604704855900&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJyfLdgV2p2EcROL7P0YVkvio": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Woolwich Station",
+    "address": "Unit 1 Woolwich Elizabeth Line Ticket Hall, London SE18 6GD, UK",
+    "maps_url": "https://maps.google.com/?cid=3080009721081478712&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJgTdPEwAFdkgRuptsQsav0bY": {
+    "business_status": "OPERATIONAL",
+    "name": "Gail's Bakery The Fire Station Southwark",
+    "address": "94 Southwark Bridge Rd, London SE1 0EG, UK",
+    "maps_url": "https://maps.google.com/?cid=13173503651088210874&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJd9orLMQddkgRIT5nDZYkeVo": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Spitalfields",
+    "address": "11 Lamb St, London E1 6EA, UK",
+    "maps_url": "https://maps.google.com/?cid=6519282162484067873&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJwZEeVGMFdkgRqVEsu4uAN_o": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Kennington",
+    "address": "18 Kennington Rd, London SE1 7BL, UK",
+    "maps_url": "https://maps.google.com/?cid=18030020970830123433&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJE6pMpB8ddkgR8VSB9v0Cxfo": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Victoria Park",
+    "address": "Victoria Park, 87 Lauriston Rd, London E9 7HL, UK",
+    "maps_url": "https://maps.google.com/?cid=18069852369679635697&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJoZVstS0bdkgRHmNsQS6Xx_Q": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Bloomsbury",
+    "address": "11-13 Bayley St, Bedford Square, London WC1B 3HD, UK",
+    "maps_url": "https://maps.google.com/?cid=17638232690541749022&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJzfLhprEDdkgRtcfG9t-s3yQ": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Bermondsey Street",
+    "address": "Unit B2, 194 -204 Bermondsey St, London SE1 3UW, UK",
+    "maps_url": "https://maps.google.com/?cid=2657032383089788853&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ61OahUUbdkgRBQ4P6-Z4EbU": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Exmouth Market",
+    "address": "33-35 Exmouth Market, London EC1R 4QL, UK",
+    "maps_url": "https://maps.google.com/?cid=13047342528650481157&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ_dT470IbdkgRrsqqwkzwms8": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery St Pancras",
+    "address": "Unit 15, Kings Cross Station, Euston Rd., London N1C 4QP, UK",
+    "maps_url": "https://maps.google.com/?cid=14959533324738677422&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ4-To3VcddkgRUeIWKJjoE4k": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Stoke Newington",
+    "address": "60, 62 Stoke Newington Church St, London N16 0NB, UK",
+    "maps_url": "https://maps.google.com/?cid=9877494147958891089&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ-TDwJP4FdkgR52gIfWO_-ds": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Long Acre",
+    "address": "64 Long Acre, London WC2E 9JD, UK",
+    "maps_url": "https://maps.google.com/?cid=15850910797527541991&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJW_b_SmUFdkgRXdN_nSU2iiI": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery The Cut",
+    "address": "73 The Cut, London SE1 8LL, UK",
+    "maps_url": "https://maps.google.com/?cid=2488861279259710301&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJi87UOCm_2EcRcgdEj_1pC68": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Brentwood",
+    "address": "69 High St, Brentwood CM14 4RW, UK",
+    "maps_url": "https://maps.google.com/?cid=12613291719132448626&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJU5lzJgAddkgRNR2kKlUMNSM": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Walthamstow",
+    "address": "25-27 Orford Rd, London E17 9NL, UK",
+    "maps_url": "https://maps.google.com/?cid=2536947525020294453&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJk7gbZR0RdkgRT6OqHeJS0nk": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Kensal Rise",
+    "address": "Unicorn House, 1-3 Station Terrace, London NW10 5RQ, UK",
+    "maps_url": "https://maps.google.com/?cid=8778169754812326735&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJNzcec9kRdkgRCD2yqE2-rMw": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Westbourne Grove",
+    "address": "12 Westbourne Grove, London W2 5RA, UK",
+    "maps_url": "https://maps.google.com/?cid=14748372120483544328&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJT0uNTI8FdkgRMgTdHW_2DCo": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Strand",
+    "address": "437 Strand, London WC2R 0QN, UK",
+    "maps_url": "https://maps.google.com/?cid=3030067606416327730&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJNaMI0hEFdkgRIu7CqYZym30": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Blackfriars",
+    "address": "3 Blackfriars Rd, London SE1 9JU, UK",
+    "maps_url": "https://maps.google.com/?cid=9050953798830452258&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJG6_N0T-n2EcR-Q0GyQt7zmc": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Wanstead",
+    "address": "55-57 High St., London E11 2AD, UK",
+    "maps_url": "https://maps.google.com/?cid=7480051321656446457&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJfy2l5KMbdkgRmJsRSI7Qm8c": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Finsbury Park",
+    "address": "15 City N Pl, Finsbury Park, London N4 3FU, UK",
+    "maps_url": "https://maps.google.com/?cid=14383319144450857880&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJt4klD76PdkgRianO-wOE15o": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Henley",
+    "address": "22 Market Pl, Henley-on-Thames RG9 2AF, UK",
+    "maps_url": "https://maps.google.com/?cid=11157531754478086537&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJf7teh7UPdkgRVt_2_yLvDNg": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Askew Road",
+    "address": "116, 118 Askew Rd, London W12 9BL, UK",
+    "maps_url": "https://maps.google.com/?cid=15568080945515257686&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJD6B55-kPdkgRaMG4buuWau0": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Kensington Arcade",
+    "address": "Unit 6, Kensington Arcade, Kensington High St, London W8 5SF, UK",
+    "maps_url": "https://maps.google.com/?cid=17107652072439333224&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJt1i0CwcbdkgR6CRNOblYGt0": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Maida Vale",
+    "address": "237 Elgin Ave., London W9 1NJ, UK",
+    "maps_url": "https://maps.google.com/?cid=15932144184330101992&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJd4rnut0ddkgRgfOELURyF4E": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Hackney Castle",
+    "address": "354 Mare St, London E8 1HR, UK",
+    "maps_url": "https://maps.google.com/?cid=9302029192504079233&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJlRJAVQ8bdkgR-VpgN58NQvM": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Kings Cross",
+    "address": "12 Handyside St, London N1C 4DN, UK",
+    "maps_url": "https://maps.google.com/?cid=17528587677159414521&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJdWGdwxYRdkgRd5OQ_H5bY7I": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Willesden Green",
+    "address": "82 Walm Ln, London NW2 4RA, UK",
+    "maps_url": "https://maps.google.com/?cid=12854218362406867831&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJZ-BuThMQdkgRa4QXhv2enHc": {
+    "business_status": "OPERATIONAL",
+    "name": "Gail's Bakery",
+    "address": "75 Salusbury Rd, London NW6 6NH, UK",
+    "maps_url": "https://maps.google.com/?cid=8618938598593889387&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJb1tlWt0bdkgRDRRDerFJuHo": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Paddington",
+    "address": "Paddington Basin, London W2 1LA, UK",
+    "maps_url": "https://maps.google.com/?cid=8842898894951224333&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJk59ydgAbdkgRER2jPY0BjNc": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Paddington Square",
+    "address": "1 Paddington Sq, London W2 1DL, UK",
+    "maps_url": "https://maps.google.com/?cid=15531790921030114577&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJB8JczQEbdkgRDJxLPjyj-KE": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Cowcross",
+    "address": "2-3 Cowcross St, London EC1M 6DR, UK",
+    "maps_url": "https://maps.google.com/?cid=11671257913469148172&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJZWLEGSEbdkgR9MZ2V4cODf0": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Brunswick Centre",
+    "address": "48-50, Brunswick Centre, 23-39 Handel St, London WC1N 1AE, UK",
+    "maps_url": "https://maps.google.com/?cid=18234246440743782132&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJY2_Okd0bdkgRsw7tFo8Zw9o": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Holborn",
+    "address": "262 High Holborn, London WC1V 7EY, UK",
+    "maps_url": "https://maps.google.com/?cid=15763471223082520243&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJb2Pz44sbdkgR7R31A42l-Sk": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Euston",
+    "address": "24 Eversholt St, London NW1 1AD, UK",
+    "maps_url": "https://maps.google.com/?cid=3024630649831366125&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJgd9tUpOn2EcRmtAgtg3UF5M": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery South Woodford",
+    "address": "20-21 Electric Parade, London E18 2LX, UK",
+    "maps_url": "https://maps.google.com/?cid=10599173403395018906&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJIcVaqS3B2EcR7DWddl7LkOc": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Billericay",
+    "address": "84 High St, Billericay CM12 9BT, UK",
+    "maps_url": "https://maps.google.com/?cid=16686060225985066476&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJkWfdtdfr2EcRmMmN539cCTo": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Chelmsford",
+    "address": "Unit 3, 1 New London Rd, Chelmsford CM2 0NA, UK",
+    "maps_url": "https://maps.google.com/?cid=4181975433405647256&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJc0LsVAxrdkgRGxeJuY31sMg": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Watford",
+    "address": "70 High St, Watford WD17 2BS, UK",
+    "maps_url": "https://maps.google.com/?cid=14461328392538625819&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJa8poyb0adkgRcCHbfthu8gY": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery St Johns Wood",
+    "address": "5 Circus Rd, London NW8 6NX, UK",
+    "maps_url": "https://maps.google.com/?cid=500584384711827824&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ-7bNqBgRdkgRP1wkK0hHmrc": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Golders Green",
+    "address": "897 Finchley Rd, London NW11 7NX, UK",
+    "maps_url": "https://maps.google.com/?cid=13229965230641273919&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ3TgUwdIbdkgRqk9QCHtBuuc": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Clifton Road",
+    "address": "20 Clifton Rd, London W9 1ST, UK",
+    "maps_url": "https://maps.google.com/?cid=16697730565105799082&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJT9zQ-OAadkgRPbS3TxN5qrk": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Camden",
+    "address": "35-37 Parkway, London NW1 7PN, UK",
+    "maps_url": "https://maps.google.com/?cid=13378638766906258493&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJQZ2EsiobdkgRJ7TLYJRG4v4": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Islington",
+    "address": "305-307 Upper St, London N1 2TU, UK",
+    "maps_url": "https://maps.google.com/?cid=18366319833463370791&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJsw9nfx0bdkgRg3OeS-e6tUs": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Camden Lock",
+    "address": "Units D1, 3 1 Dockray Pl, London NW1 8QH, UK",
+    "maps_url": "https://maps.google.com/?cid=5455472026198111107&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJZVqzCQAZdkgRABupUcDN38A": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Palmers Green",
+    "address": "2, 4 Aldermans Hill, London N13 4PH, UK",
+    "maps_url": "https://maps.google.com/?cid=13898053200976091904&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJc_0tt6Oh2EcR4nZgx64m4L4": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Loughton",
+    "address": "199 High St, Loughton, London IG10 4LF, UK",
+    "maps_url": "https://maps.google.com/?cid=13754035794100647650&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJITxMsPCZ2EcR3FxEBlSgwvo": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Epping",
+    "address": "227 High St, Epping CM16 4DA, UK",
+    "maps_url": "https://maps.google.com/?cid=18069180937706691804&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJc6Tmq6QQdkgRFBujoGg8Us4": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Temple Fortune",
+    "address": "30 Temple Fortune Parade, London NW11 0QX, UK",
+    "maps_url": "https://maps.google.com/?cid=14867011739972737812&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJnZmA_k4_dkgRw0cOqWmg9MI": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Radlett",
+    "address": "Conway House, 120 Watling St, Radlett WD7 7AA, UK",
+    "maps_url": "https://maps.google.com/?cid=14048029513343715267&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJVQOXgkIXdkgR7FlW2VEqTCo": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Mill Hill",
+    "address": "88 The Broadway, London NW7 3TB, UK",
+    "maps_url": "https://maps.google.com/?cid=3047857578850015724&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ8wdp5QcXdkgR7y6IYWyOOeE": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery",
+    "address": "140 High St, London EN5 5XW, UK",
+    "maps_url": "https://maps.google.com/?cid=16229159328350220015&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJx84M33gQdkgRUcPjoqlvS1I": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery West Hampstead",
+    "address": "216 W End Ln, London NW6 1UX, UK",
+    "maps_url": "https://maps.google.com/?cid=5929956108736381777&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJyW767IcadkgRed-RkzKrhXM": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Hampstead",
+    "address": "64 Hampstead High St, London NW3 1QH, UK",
+    "maps_url": "https://maps.google.com/?cid=8324247719976755065&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJjwqi01YadkgRP0zSXNTZdLs": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Swains Lane",
+    "address": "21 Swain's Ln, London N6 6QX, UK",
+    "maps_url": "https://maps.google.com/?cid=13507660688504540223&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJx1z_MvMadkgRnIyr9q2_SKQ": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Belsize Park",
+    "address": "167 Haverstock Hill, Belsize Park, London NW3 4QT, UK",
+    "maps_url": "https://maps.google.com/?cid=11837922374432033948&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJVzngTM0bdkgRXlp54OFci9M": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Primrose Hill",
+    "address": "42 Gloucester Ave., London NW1 8JD, UK",
+    "maps_url": "https://maps.google.com/?cid=15243379488969022046&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJAetWxwMbdkgRho7GhWq9cFc": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery South End Green",
+    "address": "1 S End Rd, London NW3 2PT, UK",
+    "maps_url": "https://maps.google.com/?cid=6300744143899889286&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJVVXenQIbdkgRXyCpTEqPWWo": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Kentish Town",
+    "address": "204 Kentish Town Rd, London NW5 2AD, UK",
+    "maps_url": "https://maps.google.com/?cid=7663313790224113759&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ2d98zMAbdkgRAKGFAXcqzLk": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Crouch End",
+    "address": "48 The Broadway, London N8 9TP, UK",
+    "maps_url": "https://maps.google.com/?cid=13388122482880651520&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJOaUCiiM_dkgR4bDid7OC2xM": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery St Albans",
+    "address": "6 Market Pl, St Albans AL3 5DG, UK",
+    "maps_url": "https://maps.google.com/?cid=1430881013942366433&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ66Psr0lDdkgRPlaLs2ciqnY": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Berkhamsted",
+    "address": "189 High St, Berkhamsted HP4 1AY, UK",
+    "maps_url": "https://maps.google.com/?cid=8550684671305537086&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ1-LhRiERdkgR9zuGcl01l_Y": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Central Kitchen",
+    "address": "Unit 24 Garrick Industrial Estate, Irving Way, London NW9 6AQ, UK",
+    "maps_url": "https://maps.google.com/?cid=17768729530283211767&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ6_B1DkEbdkgRJ4LV0gHcFLo": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Muswell Hill",
+    "address": "70 Fortis Green Rd, Muswell Hill, London N10 3HN, UK",
+    "maps_url": "https://maps.google.com/?cid=13408583890979095079&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJ0ePs604adkgRBFfbFqwdXdY": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Highgate",
+    "address": "88-90 Highgate High St, London N6 5HX, UK",
+    "maps_url": "https://maps.google.com/?cid=15446534921905723140&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJXc5K8xE5dkgR3YI4UpBRhPo": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Harpenden",
+    "address": "21 High St, Harpenden AL5 2RY, UK",
+    "maps_url": "https://maps.google.com/?cid=18051642886704366301&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJk4WwNQA7dkgRkmfRdd7fAdM": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Welwyn Garden City",
+    "address": "51 Howardsgate, Welwyn Garden City AL8 6AP, UK",
+    "maps_url": "https://maps.google.com/?cid=15204679963531896722&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJceXNtLrtdkgR89R_eftjC_0": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Thame",
+    "address": "3 Cornmarket, Thame OX9 3YS, UK",
+    "maps_url": "https://maps.google.com/?cid=18233777448065946867&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "ChIJpb1Syw4zdkgRVQDysOVpXYk": {
+    "business_status": "OPERATIONAL",
+    "name": "GAIL's Bakery Hitchin",
+    "address": "16 Bancroft, Hitchin SG5 1JQ, UK",
+    "maps_url": "https://maps.google.com/?cid=9898183991267295317&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  }
+}
