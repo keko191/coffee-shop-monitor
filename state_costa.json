@@ -24,7 +24,7 @@
     "maps_url": "https://maps.google.com/?cid=7435895450048878212&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJ9aulQD7YdUgRHTWJGhNyrwQ": {
-    "business_status": "CLOSED_TEMPORARILY",
+    "business_status": "OPERATIONAL",
     "name": "Costa Coffee",
     "address": "Unit 7, Lion Retail Park, Woking GU22 8BD, UK",
     "maps_url": "https://maps.google.com/?cid=337613923451221277&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
@@ -828,7 +828,7 @@
     "maps_url": "https://maps.google.com/?cid=1177311868171385689&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJO3OmWslF30cRkao98ucbmjA": {
-    "business_status": "OPERATIONAL",
+    "business_status": "CLOSED_PERMANENTLY",
     "name": "Costa Coffee - St Johns Road, RTW",
     "address": "72 St John's Rd, Royal Tunbridge Wells, Tunbridge Wells TN4 9PH, UK",
     "maps_url": "https://maps.google.com/?cid=3502142343249504913&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
@@ -1346,7 +1346,7 @@
   "ChIJ314g8dgFdkgRZtOPrhwIHIY": {
     "business_status": "OPERATIONAL",
     "name": "Costa Coffee",
-    "address": "59-61 Streatham High Rd, London SW6 1PN, UK",
+    "address": "59-61 Streatham High Rd, London SW16 1PN, UK",
     "maps_url": "https://maps.google.com/?cid=9663607819711009638&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJP1VDwskFdkgRXb2iwwsspXE": {
