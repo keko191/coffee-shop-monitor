@@ -1194,7 +1194,7 @@
     "maps_url": "https://maps.google.com/?cid=7246480274164048615&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJt7dFryyp2EcRRvZuHCO9sK4": {
-    "business_status": "OPERATIONAL",
+    "business_status": "CLOSED_PERMANENTLY",
     "name": "Costa Coffee",
     "address": "Bugsby's Wy, London SE10 0QJ, UK",
     "maps_url": "https://maps.google.com/?cid=12587768916999075398&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
@@ -3607,8 +3607,8 @@
   },
   "ChIJMyeMbwBtdkgRdxNB2Sk_D0g": {
     "business_status": "OPERATIONAL",
-    "name": "Costa Coffee at Next",
-    "address": "Ruislip Retail Park Victoria Rd, RUISLIP RETAIL PARK, Victoria Rd, Ruislip HA4 0QE, UK",
+    "name": "Costa Coffee",
+    "address": "NEXT, RUISLIP RETAIL PARK, South, Ruislip HA4 0QE, UK",
     "maps_url": "https://maps.google.com/?cid=5192438344352600951&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJh9IRHgAddkgRGL15it2nh2U": {
