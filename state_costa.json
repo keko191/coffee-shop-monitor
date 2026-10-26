@@ -1194,7 +1194,7 @@
     "maps_url": "https://maps.google.com/?cid=7246480274164048615&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJt7dFryyp2EcRRvZuHCO9sK4": {
-    "business_status": "CLOSED_PERMANENTLY",
+    "business_status": "OPERATIONAL",
     "name": "Costa Coffee",
     "address": "Bugsby's Wy, London SE10 0QJ, UK",
     "maps_url": "https://maps.google.com/?cid=12587768916999075398&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
@@ -2904,7 +2904,7 @@
     "maps_url": "https://maps.google.com/?cid=15823001816344679467&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJJzgfGmEcdkgRl7C80rRjjMk": {
-    "business_status": "OPERATIONAL",
+    "business_status": "CLOSED_PERMANENTLY",
     "name": "Costa Coffee",
     "address": "130-133, Stoke Newington High St, London N16 0PJ, UK",
     "maps_url": "https://maps.google.com/?cid=14523092526643851415&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
@@ -3608,7 +3608,7 @@
   "ChIJMyeMbwBtdkgRdxNB2Sk_D0g": {
     "business_status": "OPERATIONAL",
     "name": "Costa Coffee",
-    "address": "NEXT, RUISLIP RETAIL PARK, South, Ruislip HA4 0QE, UK",
+    "address": "Next, RUISLIP RETAIL PARK, South, Ruislip HA4 0QE, UK",
     "maps_url": "https://maps.google.com/?cid=5192438344352600951&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
   },
   "ChIJh9IRHgAddkgRGL15it2nh2U": {
